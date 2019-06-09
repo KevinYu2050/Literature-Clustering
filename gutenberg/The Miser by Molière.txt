@@ -1,0 +1,3654 @@
+The Project Gutenberg eBook of The Miser (L'Avare), by Molière
+
+   body  {background:#fdfdfd;
+          color:black;
+          font-family: "Times Roman", serif;
+          font-size: large;
+          margin-top:100px;
+          margin-left:15%;
+          margin-right:15%;
+          text-align:justify; }
+   h1, h2, h3, h4, h5, h6 {text-align: center; }
+   hr.narrow { width: 40%;
+               text-align: center; }
+   hr { width: 100%; }
+   hr.full  { width: 100%;
+              margin-top: 3em;
+              margin-bottom: 0em;
+              margin-left: auto;
+              margin-right: auto;
+              height: 3px;
+              border-width: 4px 0 0 0; /* remove all borders except the top one */
+              border-style: solid;
+              border-color: #000000;
+              clear: both; }
+   blockquote   { font-size: large; }
+   blockquote.med   { font-size: medium; }
+   table   {font-size: large;
+            text-align: left; }
+   table.j  {font-size: large;
+            text-align: justify; }
+   td.j    {text-align: justify; }
+	 td.w50  {width: 50%; }
+   p {text-indent: 3%; }
+   p.noindent { text-indent: 0%; }
+   .center    { text-align: center; }
+	 .ind4      { margin-left: 4em; }
+	 .ind8      { margin-left: 6em; }
+   .nowrap    { white-space: nowrap; }
+   .small     { font-size: 85%; }
+   .smallcaps { font-variant: small-caps; }
+   .u         { text-decoration: underline; }
+   a:link {color:blue;
+         text-decoration:none}
+   link {color:blue;
+         text-decoration:none}
+   a:visited {color:blue;
+         text-decoration:none}
+   a:hover {color:red;
+            text-decoration: underline; }
+   .right    {text-align: right;}
+   .poem     {margin-left: 30%; margin-right: 10%; text-align: left;}
+
+   pre      {font-size: 70%; }
+
+
+
+The Project Gutenberg eBook of The Miser (L'Avare), by Molière, Translated
+by Charles Heron Wall
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+Title: The Miser (L'Avare)
+Author: Molière
+Release Date: February 11, 2003  [eBook #6923]
+Most recently updated: January 6, 2009
+Language: English
+Character set encoding: ISO-8859-1
+***START OF THE PROJECT GUTENBERG EBOOK THE MISER (L'AVARE)***
+ 
+E-text prepared by Delphine Lettau
+    and the
+    Project Gutenberg Online Distributed Proofreading Team
+    (http://www.pgdp.net)
+ 
+
+ 
+ 
+THE MISER.
+(L'AVARE.)
+BY
+ 
+MOLIÈRE
+ 
+ 
+TRANSLATED INTO ENGLISH PROSE.
+WITH A SHORT INTRODUCTION AND EXPLANATORY NOTES.
+BY
+ 
+CHARLES HERON WALL
+ 
+This play was acted for the first time on September 9, 1668. In it,
+Molière has borrowed from Plautus, and has imitated several other
+authors, but he far surpasses them in the treatment of his subject.
+The picture of the miser, in whom love of money takes the place of all
+natural affections, who not only withdraws from family intercourse,
+but considers his children as natural enemies, is finely drawn, and
+renders Molière's Miser altogether more dramatic and moral than those
+of his predecessors.
+Molière acted the part of Harpagon.
+
+ 
+PERSONS REPRESENTED.
+ 
+
+
+Harpagon, father to
+Cléante, in love with
+Marianne.
+Cléante,
+Harpagon's son, lover to
+Marianne.
+Valère,
+son to Anselme,
+and lover to Élise.
+Anselme, father to
+Valère and
+Marianne.
+Master Simon, broker.
+Master Jacques, cook and coachman to
+Harpagon.
+La Flèche, valet to
+Cléante.
+Brindavoine,
+and La Merluche,
+lackeys to Harpagon.
+A Magistrate and his
+Clerk.
+Élise,
+daughter to Harpagon.
+Marianne,
+daughter to Anselme.
+Frosine, an intriguing woman.
+Mistress Claude,
+servant to Harpagon.
+The scene is at Paris,
+in Harpagon's house.
+
+ 
+
+ 
+ 
+THE MISER.
+ 
+ 
+ACT I.
+SCENE I.——VALÈRE, ÉLISE.
+Val.
+What, dear Élise! you grow sad after having given me such dear
+tokens of your love; and I see you sigh in the midst of my joy! Can
+you regret having made me happy? and do you repent of the engagement
+which my love has forced from you?
+Eli.
+No, Valère, I do not regret what I do for you; I feel carried on
+by too delightful a power, and I do not even wish that things should
+be otherwise than they are. Yet, to tell you the truth, I am very
+anxious about the consequences; and I greatly fear that I love you
+more than I should.
+Val.
+What can you possibly fear from the affection you have shown me?
+Eli.
+Everything; the anger of my father, the reproaches of my family,
+the censure of the world, and, above all, Valère, a change in your
+heart! I fear that cruel coldness with which your sex so often repays
+the too warm proofs of an innocent love.
+Val.
+Alas! do not wrong me thus; do not judge of me by others. Think
+me capable of everything, Élise, except of falling short of what I owe
+to you. I love you too much for that; and my love will be as lasting
+as my life!
+Eli.
+Ah! Valère, all men say the same thing; all men are alike in
+their words; their actions only show the difference that exists
+between them.
+Val.
+Then why not wait for actions, if by them alone you can judge of
+the truthfulness of my heart? Do not suffer your anxious fears to
+mislead you, and to wrong me. Do not let an unjust suspicion destroy
+the happiness which is to me dearer than life; but give me time to
+show you by a thousand proofs the sincerity of my affection.
+Eli.
+Alas! how easily do we allow ourselves to be persuaded by those
+we love. I believe you, Valère; I feel sure that your heart is utterly
+incapable of deceiving me, that your love is sincere, and that you
+will ever remain faithful to me. I will no longer doubt that happiness
+is near. If I grieve, it will only be over the difficulties of our
+position, and the possible censures of the world.
+Val. But why even this fear?
+Eli.
+Oh, Valère! if everybody knew you as I do, I should not have much
+to fear. I find in you enough to justify all I do for you; my heart
+knows all your merit, and feels, moreover, bound to you by deep
+gratitude. How can I forget that horrible moment when we met for the
+first time? Your generous courage in risking your own life to save
+mine from the fury of the waves; your tender care afterwards; your
+constant attentions and your ardent love, which neither time nor
+difficulties can lessen! For me you neglect your parents and your
+country; you give up your own position in life to be a servant of my
+father! How can I resist the influence that all this has over me? Is
+it not enough to justify in my eyes my engagement to you? Yet, who
+knows if it will be enough to justify it in the eyes of others? and
+how can I feel sure that my motives will be understood?
+Val.
+You try in vain to find merit in what I have done; it is by my
+love alone that I trust to deserve you. As for the scruples you feel,
+your father himself justifies you but too much before the world; and
+his avarice and the distant way in which he lives with his children
+might authorise stranger things still. Forgive me, my dear Élise, for
+speaking thus of your father before you; but you know that,
+unfortunately, on this subject no good can be said of him. However, if
+I can find my parents, as I fully hope I shall, they will soon be
+favourable to us. I am expecting news of them with great impatience;
+but if none comes I will go in search of them myself.
+Eli.
+Oh no! Valère, do not leave me, I entreat you. Try rather to
+ingratiate yourself in my father's favour.
+Val.
+You know how much I wish it, and you can see how I set about it.
+You know the skilful manoeuvres I have had to use in order to
+introduce myself into his service; under what a mask of sympathy and
+conformity of tastes I disguise my own feelings to please him; and
+what a part I play to acquire his affection. I succeed wonderfully
+well, and I feel that to obtain favour with men, there are no better
+means than to pretend to be of their way of thinking, to fall in with
+their maxims, to praise their defects, and to applaud all their
+doings. One need not fear to overdo it, for however gross the
+flattery, the most cunning are easily duped; there is nothing so
+impertinent or ridiculous which they will not believe, provided it be
+well seasoned with praise. Honesty suffers, I acknowledge; but when we
+have need of men, we may be allowed without blame to adapt ourselves
+to their mode of thought; and if we have no other hope of success but
+through such stratagem, it is not after all the fault of those who
+flatter, but the fault of those who wish to be flattered.
+Eli.
+Why do you not try also to gain my brother's goodwill, in case
+the servant should betray our secret?
+Val.
+I am afraid I cannot humour them both. The temper of the father
+is so different from that of the son that it would be difficult to be
+the confidant of both at the same time. Rather try your brother
+yourself; make use of the love that exists between you to enlist him
+in our cause. I leave you, for I see him coming. Speak to him, sound
+him, and see how far we can trust him.
+Eli.
+I greatly fear I shall never have the courage to speak to him of
+my secret.
+ 
+SCENE II.——CLÉANTE, ÉLISE,
+Cle.
+I am very glad to find you alone, sister. I longed to speak to
+you and to tell you a secret.
+Eli.
+I am quite ready to hear you, brother. What is it you have to
+tell me?
+Cle.
+Many things, sister, summed up in one word—love.
+Eli. You love?
+Cle.
+Yes, I love. But, before I say more, let me tell you that I know
+I depend on my father, and that the name of son subjects me to his
+will; that it would be wrong to engage ourselves without the consent
+of the authors of our being; that heaven has made them the masters of
+our affections, and that it is our duty not to dispose of ourselves
+but in accordance to their wish; that their judgment is not biassed by
+their being in love themselves; that they are, therefore, much more
+likely not to be deceived by appearances, and to judge better what is
+good for us; that we ought to trust their experience rather than the
+passion which blinds us; and that the rashness of youth often carries
+us to the very brink of dangerous abysses. I know all this, my sister,
+and I tell it you to spare you the trouble of saying it to me, for my
+love will not let me listen to anything, and I pray you to spare me
+your remonstrances.
+Eli.
+Have you engaged yourself, brother, to her you love?
+Cle.
+No, but I have determined to do so; and I beseech you once more
+not to bring forward any reason to dissuade me from it.
+Eli.
+Am I such a very strange person, brother?
+Cle.
+No, dear sister; but you do not love. You know not the sweet
+power that love has upon our hearts; and I dread your wisdom.
+Eli.
+Alas! my brother, let us not speak of my wisdom. There are very
+few people in this world who do not lack wisdom, were it only once in
+their lifetime; and if I opened my heart to you, perhaps you would
+think me less wise than you are yourself.
+Cle.
+Ah! would to heaven that your heart, like mine …
+Eli.
+Let us speak of you first, and tell me whom it is you love.
+Cle.
+A young girl who has lately come to live in our neighbourhood,
+and who seems made to inspire love in all those who behold her.
+Nature, my dear sister, has made nothing more lovely; and I felt
+another man the moment I saw her. Her name is Marianne, and she lives
+with a good, kind mother, who is almost always ill, and for whom the
+dear girl shows the greatest affection. She waits upon her, pities and
+comforts her with a tenderness that would touch you to the very soul.
+Whatever she undertakes is done in the most charming way; and in all
+her actions shine a wonderful grace, a most winning gentleness, an
+adorable modesty, a … ah! my sister, how I wish you had but seen
+her.
+Eli.
+I see many things in what you tell me, dear brother; and it is
+sufficient for me to know that you love her for me to understand what
+she is.
+Cle.
+I have discovered, without their knowing it, that they are not in
+very good circumstances, and that, although they live with the
+greatest care, they have barely enough to cover their expenses. Can
+you imagine, my sister, what happiness it must be to improve the
+condition of those we love; skilfully to bring about some relief to
+the modest wants of a virtuous family? And think what grief it is for
+me to find myself deprived of this great joy through the avarice of a
+father, and for it to be impossible for me to give any proof of my
+love to her who is all in all to me.
+Eli.
+Yes, I understand, dear brother, what sorrow this must be to you.
+Cle.
+It is greater, my sister, than you can believe. For is there
+anything more cruel than this mean economy to which we are subjected?
+this strange penury in which we are made to pine? What good will it do
+us to have a fortune if it only comes to us when we are not able to
+enjoy it; if now to provide for my daily maintenance I get into debt
+on every side; if both you and I are reduced daily to beg the help of
+tradespeople in order to have decent clothes to wear? In short, I
+wanted to speak to you that you might help me to sound my father
+concerning my present feelings; and if I find him opposed to them, I
+am determined to go and live elsewhere with this most charming girl,
+and to make the best of what Providence offers us. I am trying
+everywhere to raise money for this purpose; and if your circumstances,
+dear sister, are like mine, and our father opposes us, let us both
+leave him, and free ourselves from the tyranny in which his hateful
+avarice has for so long held us.
+Eli.
+It is but too true that every day he gives us more and more
+reason to regret the death of our mother, and that …
+Cle.
+I hear his voice. Let us go a little farther and finish our talk.
+We will afterwards join our forces to make a common attack on his hard
+and unkind heart.
+ 
+SCENE III.——HARPAGON, LA FLÈCHE.
+Har.
+Get out of here, this moment; and let me have no more of your
+prating. Now then, be gone out of my house, you sworn pickpocket, you
+veritable gallows' bird.
+La Fl. (aside).
+I never saw anything more wicked than this
+cursed old man; and I truly believe, if I may be allowed to say so,
+that he is possessed with a devil.
+Har.
+What are you muttering there between your teeth?
+La Fl. Why do you send me away?
+Har.
+You dare to ask me my reasons, you scoundrel? Out with you, this
+moment, before I give you a good thrashing.
+La Fl.
+What have I done to you?
+Har.
+Done this, that I wish you to be off.
+La Fl.
+My master, your son, gave me orders to wait for him.
+Har.
+Go and wait for him in the street, then; out with you; don't stay
+in my house, straight and stiff as a sentry, to observe what is going
+on, and to make your profit of everything. I won't always have before
+me a spy on all my affairs; a treacherous scamp, whose cursed eyes
+watch all my actions, covet all I possess, and ferret about in every
+corner to see if there is anything to steal.
+La Fl.
+How the deuce could one steal anything from you? Are you a man
+likely to be robbed when you put every possible thing under lock and
+key, and mount guard day and night?
+Har.
+I will lock up whatever I think fit, and mount guard when and
+where I please. Did you ever see such spies as are set upon me to take
+note of everything I do? (Aside) I tremble for fear he should
+suspect something of my money. (Aloud) Now, aren't you a fellow
+to give rise to stories about my having money hid in my house?
+La Fl.
+You have some money hid in your house?
+Har.
+No, scoundrel! I do not say that. (Aside) I am furious!
+(Aloud) I only ask if out of mischief you do not spread abroad
+the report that I have some?
+La Fl.
+Oh! What does it matter whether you have money, or whether you
+have not, since it is all the same to us?
+Har.
+(raising his hand to give La Flèche
+a blow). Oh! oh! You
+want to argue, do you? I will give you, and quickly too, some few of
+these arguments about your ears. Get out of the house, I tell you once
+more.
+La Fl.
+Very well; very well. I am going.
+Har.
+No, wait; are you carrying anything away with you?
+La Fl.
+What can I possibly carry away?
+Har.
+Come here, and let me see. Show me your hands.
+La Fl. There they are.
+Har. The others.
+La Fl. The others?
+Har. Yes.
+La Fl. There they are.
+Har.
+(pointing to La Flèche's breeches).
+Have you anything hid
+in here?
+La Fl. Look for yourself.
+Har.
+(feeling the knees of the breeches). These wide knee-breeches
+are convenient receptacles of stolen goods; and I wish a pair
+of them had been hanged.
+La Fl.
+(aside). Ah! how richly such a man deserves what he
+fears, and what joy it would be to me to steal some of his …
+Har. Eh?
+La Fl. What?
+Har. What is it you talk of stealing?
+La Fl.
+I say that you feel about everywhere to see if I have been
+stealing anything.
+Har.
+And I mean to do so too. (He feels in
+La Flèche's
+pockets).
+La Fl.
+Plague take all misers and all miserly ways!
+Har. Eh? What do you say?
+La Fl. What do I say?
+Har.
+Yes. What is it you say about misers and miserly ways.
+La Fl.
+I say plague take all misers and all miserly ways.
+Har. Of whom do you speak?
+La Fl. Of misers.
+Har. And who are they, these misers?
+La Fl. Villains and stingy wretches!
+Har. But what do you mean by that?
+La Fl.
+Why do you trouble yourself so much about what I say?
+Har.
+I trouble myself because I think it right to do so.
+La Fl.
+Do you think I am speaking about you?
+Har.
+I think what I think; but I insist upon your telling me to whom
+you speak when you say that.
+La Fl.
+To whom I speak? I am speaking to the inside of my hat.
+Har.
+And I will, perhaps, speak to the outside of your head.
+La Fl.
+Would you prevent me from cursing misers?
+Har.
+No; but I will prevent you from prating and from being insolent.
+Hold your tongue, will you?
+La Fl.
+I name nobody.
+Har.
+Another word, and I'll thrash you.
+La Fl.
+He whom the cap fits, let him wear it.
+Har.
+Will you be silent?
+La Fl.
+Yes; much against my will.
+Har. Ah! ah!
+La Fl.
+(showing Harpagon
+one of his doublet pockets).
+Just look, here is one more pocket. Are you satisfied?
+Har.
+Come, give it up to me without all that fuss.
+La Fl. Give you what?
+Har. What you have stolen from me.
+La Fl.
+I have stolen nothing at all from you.
+Har. Are you telling the truth?
+La Fl. Yes.
+Har.
+Good-bye, then, and now you may go to the devil.
+La Fl.
+(aside). That's a nice way of dismissing anyone.
+Har.
+I leave it to your conscience, remember!
+ 
+SCENE IV.——HARPAGON (alone.)
+This rascally valet is a constant vexation to me; and I hate the very
+sight of the good-for-nothing cripple. Really, it is no small anxiety
+to keep by one a large sum of money; and happy is the man who has all
+his cash well invested, and who needs not keep by him more than he
+wants for his daily expenses. I am not a little puzzled to find in the
+whole of this house a safe hiding-place. Don't speak to me of your
+strong boxes, I will never trust to them. Why, they are just the very
+things thieves set upon!
+ 
+SCENE V.——HARPAGON, ÉLISE and
+CLÉANTE are seen talking together at
+the back of the stage.
+Har.
+(thinking himself alone.) Meanwhile, I hardly know whether
+I did right to bury in my garden the ten thousand crowns which were
+paid to me yesterday. Ten thousand crowns in gold is a sum
+sufficiently … (Aside, on perceiving
+Élise and
+Cléante
+whispering together) Good heavens! I have betrayed myself; my
+warmth has carried me away. I believe I spoke aloud while reasoning
+with myself. (To Cléante and
+Élise) What do you want?
+Cle. Nothing, father.
+Har. Have you been here long?
+Eli. We have only just come.
+Har. Did you hear…?
+Cle. What, father?
+Har. There…!
+Cle. What?
+Har. What I was just now saying.
+Cle. No.
+Har. You did. I know you did.
+Eli.
+I beg your pardon, father, but we did not.
+Har.
+I see well enough that you overheard a few words. The fact is, I
+was only talking to myself about the trouble one has nowadays to raise
+any money; and I was saying that he is a fortunate man who has ten
+thousand crowns in his house.
+Cle.
+We were afraid of coming near you, for fear of intruding.
+Har.
+I am very glad to tell you this, so that you may not misinterpret
+things, and imagine that I said that it was I who have ten thousand
+crowns.
+Cle.
+We do not wish to interfere in your affairs.
+Har.
+Would that I had them, these ten thousand crowns!
+Cle.
+I should not think that …
+Har.
+What a capital affair it would be for me.
+Cle. There are things …
+Har. I greatly need them.
+Cle. I fancy that …
+Har.
+It would suit me exceedingly well.
+Eli. You are …
+Har.
+And I should not have to complain, as I do now, that the times
+are bad.
+Cle.
+Hear me, father, you have no reason to complain; and everyone
+knows that you are well enough off.
+Har.
+How? I am well enough off! Those who say it are liars. Nothing
+can be more false; and they are scoundrels who spread such reports.
+Eli. Don't be angry.
+Har.
+It is strange that my own children betray me and become my
+enemies.
+Cle.
+Is it being your enemy to say that you have wealth?
+Har.
+Yes, it is. Such talk and your extravagant expenses will be the
+cause that some day thieves will come and cut my throat, in the belief
+that I am made of gold.
+Cle.
+What extravagant expenses do I indulge in?
+Har.
+What! Is there anything more scandalous than this sumptuous
+attire with which you jaunt it about the town? I was remonstrating
+with your sister yesterday, but you are still worse. It cries
+vengeance to heaven; and were we to calculate all you are wearing,
+from head to foot, we should find enough for a good annuity. I have
+told you a hundred times, my son, that your manners displease me
+exceedingly; you affect the marquis terribly, and for you to be always
+dressed as you are, you must certainly rob me.
+Cle.
+Rob you? And how?
+Har.
+How should I know? Where else could you find money enough to
+clothe yourself as you do?
+Cle.
+I, father? I play; and as I am very lucky, I spend in clothes all
+the money I win.
+Har.
+It is very wrong. If you are lucky at play, you should profit by
+it, and place the money you win at decent interest, so that you may
+find it again some day. I should like to know, for instance, without
+mentioning the rest, what need there is for all these ribbons with
+which you are decked from head to foot, and if half a dozen tags are
+not sufficient to fasten your breeches. What necessity is there for
+anyone to spend money upon wigs, when we have hair of our own growth,
+which costs nothing. I will lay a wager that, in wigs and ribbons
+alone, there are certainly twenty pistoles spent, and twenty pistoles
+brings in at least eighteen livres six sous eight deniers per annum,
+at only eight per cent interest.
+Cle. You are quite right.
+Har.
+Enough on this subject; let us talk of something else. (Aside,
+noticing Cléante
+and Élise,
+who make signs to one another)
+I believe they are making signs to one another to pick my pocket.
+(Aloud) What do you mean by those signs?
+Eli.
+We are hesitating as to who shall speak first, for we both have
+something to tell you.
+Har.
+And I also have something to tell you both.
+Cle.
+We wanted to speak to you about marriage, father.
+Har.
+The very thing I wish to speak to you about.
+Eli. Ah! my father!
+Har.
+What is the meaning of that exclamation? Is it the word,
+daughter, or the thing itself that frightens you?
+Cle.
+Marriage may frighten us both according to the way you take it;
+and our feelings may perhaps not coincide with your choice.
+Har.
+A little patience, if you please. You need not be alarmed. I know
+what is good for you both, and you will have no reason to complain of
+anything I intend to do. To begin at the beginning. (To
+Cléante)
+Do you know, tell me, a young person, called Marianne, who
+lives not far from here?
+Cle. Yes, father.
+Har. And you?
+Eli.
+I have heard her spoken of.
+Har.
+Well, my son, and how do you like the girl?
+Cle.
+She is very charming.
+Har.
+Her face?
+Cle. Modest and intelligent.
+Har. Her air and manner?
+Cle. Perfect, undoubtedly.
+Har.
+Do you not think that such a girl well deserves to be thought of?
+Cle. Yes, father.
+Har.
+She would form a very desirable match?
+Cle. Very desirable.
+Har.
+That there is every likelihood of her making a thrifty and
+careful wife.
+Cle. Certainly.
+Har.
+And that a husband might live very happily with her?
+Cle.
+I have not the least doubt about it.
+Har.
+There is one little difficulty; I am afraid she has not the
+fortune we might reasonably expect.
+Cle.
+Oh, my father, riches are of little importance when one is sure
+of marrying a virtuous woman.
+Har.
+I beg your pardon. Only there is this to be said: that if we do
+not find as much money as we could wish, we may make it up in
+something else.
+Cle.
+That follows as a matter of course.
+Har.
+Well, I must say that I am very much pleased to find that you
+entirely agree with me, for her modest manner and her gentleness have
+won my heart; and I have made up my mind to marry her, provided I find
+she has some dowry.
+Cle. Eh!
+Har. What now?
+Cle.
+You are resolved, you say…?
+Har.
+To marry Marianne.
+Cle. Who? you? you?
+Har.
+Yes, I, I, I. What does all this mean?
+Cle.
+I feel a sudden dizziness, and I must withdraw for a little
+while.
+Har.
+It will be nothing. Go quickly into the kitchen and drink a large
+glass of cold water, it will soon set you all right again.
+ 
+SCENE VI.——HARPAGON, ÉLISE.
+Har.
+There goes one of your effeminate fops, with no more stamina than
+a chicken. That is what I have resolved for myself, my daughter. As to
+your brother, I have thought for him of a certain widow, of whom I
+heard this morning; and you I shall give to Mr. Anselme.
+Eli. To Mr. Anselme?
+Har.
+Yes, a staid and prudent man, who is not above fifty, and of
+whose riches everybody speaks.
+Eli. (curtseying).
+I have no wish to marry, father, if you
+please.
+Har. (imitating
+Élise).
+And I, my little girl, my darling, I
+wish you to marry, if you please.
+Eli.
+(curtseying again). I beg your pardon, my father.
+Har.
+(again imitating Élise).
+I beg your pardon, my daughter.
+Eli.
+I am the very humble servant of Mr. Anselme, but (curtseying
+again), with your leave, I shall not marry him.
+Har.
+I am your very humble servant, but (again imitating
+Élise)
+you will marry him this very evening.
+Eli. This evening?
+Har. This evening.
+Eli. (curtseying again).
+It cannot be done, father.
+Har. (imitating
+Élise). It will be done, daughter.
+Eli. No.
+Har. Yes.
+Eli. No, I tell you.
+Har. Yes, I tell you.
+Eli.
+You will never force me to do such a thing
+Har. I will force you to it.
+Eli.
+I had rather kill myself than marry such a man.
+Har.
+You will not kill yourself, and you will marry him. But did you
+ever see such impudence? Did ever any one hear a daughter speak in
+such a fashion to her father?
+Eli.
+But did ever anyone see a father marry his daughter after such a
+fashion?
+Har.
+It is a match against which nothing can be said, and I am
+perfectly sure that everybody will approve of my choice.
+Eli.
+And I know that it will be approved of by no reasonable person.
+Har. (seeing
+Valère).
+There is Valère coming. Shall we make him
+judge in this affair?
+Eli. Willingly.
+Har.
+You will abide by what he says?
+Eli.
+Yes, whatever he thinks right, I will do.
+Har. Agreed.
+ 
+SCENE VII.——VALÈRE, HARPAGON, ÉLISE.
+Har.
+Valère, we have chosen you to decide who is in the right, my
+daughter or I.
+Val.
+It is certainly you, Sir.
+Har.
+But have you any idea of what we are talking about?
+Val.
+No; but you could not be in the wrong; you are reason itself.
+Har.
+I want to give her to-night, for a husband, a man as rich as he
+is good; and the hussy tells me to my face that she scorns to take
+him. What do you say to that?
+Val. What I say to it?
+Har. Yes?
+Val. Eh! eh!
+Har. What?
+Val.
+I say that I am, upon the whole, of your opinion, and that you
+cannot but be right; yet, perhaps, she is not altogether wrong;
+and …
+Har.
+How so? Mr. Anselme is an excellent match; he is a nobleman, and
+a gentleman too; of simple habits, and extremely well off. He has no
+children left from his first marriage. Could she meet with anything
+more suitable?
+Val.
+It is true. But she might say that you are going rather fast, and
+that she ought to have at least a little time to consider whether her
+inclination could reconcile itself to …
+Har.
+It is an opportunity I must not allow to slip through my fingers.
+I find an advantage here which I should not find elsewhere, and he
+agrees to take her without dowry.
+Val. Without dowry?
+Har. Yes.
+Val.
+Ah! I have nothing more to say. A more convincing reason could
+not be found; and she must yield to that.
+Har.
+It is a considerable saving to me.
+Val.
+Undoubtedly; this admits of no contradiction. It is true that
+your daughter might represent to you that marriage is a more serious
+affair than people are apt to believe; that the happiness or misery of
+a whole life depends on it, and that an engagement which is to last
+till death ought not to be entered into without great consideration.
+Har. Without dowry!
+Val.
+That must of course decide everything. There are certainly people
+who might tell you that on such occasions the wishes of a daughter are
+no doubt to be considered, and that this great disparity of age, of
+disposition, and of feelings might be the cause of many an unpleasant
+thing in a married life.
+Har. Without dowry!
+Val.
+Ah! it must be granted that there is no reply to that; who in the
+world could think otherwise? I do not mean to say but that there are
+many fathers who would set a much higher value on the happiness of
+their daughter than on the money they may have to give for their
+marriage; who would not like to sacrifice them to their own interests,
+and who would, above all things, try to see in a marriage that sweet
+conformity of tastes which is a sure pledge of honour, tranquillity
+and joy; and that …
+Har. Without dowry!
+Val.
+That is true; nothing more can be said.  Without dowry. How can
+anyone resist such arguments?
+Har.
+(aside, looking towards the garden). Ah! I fancy I hear a
+dog barking. Is anyone after my money.
+(To Valère) Stop here,
+I'll come back directly.
+ 
+SCENE VIII.——ÉLISE, VALÈRE.
+Eli.
+Surely, Valère, you are not in earnest when you speak to him in
+that manner?
+Val.
+I do it that I may not vex him, and the better to secure my ends.
+To resist him boldly would simply spoil everything. There are certain
+people who are only to be managed by indirect means, temperaments
+averse from all resistance, restive natures whom truth causes to rear,
+who always kick when we would lead them on the right road of reason,
+and who can only be led by a way opposed to that by which you wish
+them to go. Pretend to comply with his wishes; you are much more
+likely to succeed in the end, and …
+Eli.
+But this marriage, Valère?
+Val.
+We will find some pretext for breaking it off.
+Eli.
+But what pretext can we find if it is to be concluded to-night?
+Val.
+You must ask to have it delayed, and must feign some illness or
+other.
+Eli.
+But he will soon discover the truth if they call in the doctor.
+Val.
+Not a bit of it. Do you imagine that a doctor understands what he
+is about? Nonsense! Don't be afraid. Believe me, you may complain of
+any disease you please, the doctor will be at no loss to explain to
+you from what it proceeds.
+ 
+SCENE IX——HARPAGON, ÉLISE, VALÈRE.
+Har.
+(alone, at the farther end of the stage). It is nothing,
+thank heaven!
+Val.
+(not seeing Harpagon).
+In short, flight is the last
+resource we have left us to avoid all this; and if your love, dear
+Élise, is as strong as … (Seeing
+Harpagon) Yes, a daughter is
+bound to obey her father. She has no right to inquire what a husband
+offered to her is like, and when the most important question, "without
+dowry," presents itself, she should accept anybody that is given her.
+Har. Good; that was beautifully said!
+Val.
+I beg your pardon, Sir, if I carry it a little too far, and take
+upon myself to speak to her as I do.
+Har.
+Why, I am delighted, and I wish you to have her entirely under
+your control. (To Élise)
+Yes, you may run away as much as you
+like. I give him all the authority over you that heaven has given me,
+and I will have you do all that he tells you.
+Val.
+After that, resist all my expostulations, if you can.
+ 
+SCENE X.——HARPAGON, VALÈRE.
+Val.
+I will follow her, Sir, if you will allow me, and will continue
+the lecture I was giving her.
+Har.
+Yes, do so; you will oblige me greatly.
+Val.
+She ought to be kept in with a tight hand.
+Har.
+Quite true, you must …
+Val.
+Do not be afraid; I believe I shall end by convincing her.
+Har.
+Do so, do so. I am going to take a short stroll in the town, and
+I will come back again presently.
+Val.
+(going towards the door through which
+Élise left, and
+speaking as if it were to her). Yes, money is more precious than
+anything else in the world, and you should thank heaven that you have
+so worthy a man for a father. He knows what life is. When a man offers
+to marry a girl without a dowry, we ought to look no farther.
+Everything is comprised in that, and "without dowry" compensates for
+want of beauty, youth, birth, honour, wisdom, and probity.
+Har.
+Ah! the honest fellow! he speaks like an oracle. Happy is he who
+can secure such a servant!
+ 
+ 
+ACT II.
+SCENE I.——CLÉANTE, LA FLÈCHE.
+Cle.
+How now, you rascal! where have you been hiding? Did I not give
+you orders to…?
+La Fl.
+Yes, Sir, and I came here resolved to wait for you without
+stirring, but your father, that most ungracious of men, drove me into
+the street in spite of myself, and I well nigh got a good drubbing
+into the bargain.
+Cle.
+How is our affair progressing? Things are worse than ever for us,
+and since I left you, I have discovered that my own father is my
+rival.
+La Fl. Your father in love?
+Cle.
+It seems so; and I found it very difficult to hide from him what
+I felt at such a discovery.
+La Fl.
+He meddling with love! What the deuce is he thinking of? Does
+he mean to set everybody at defiance? And is love made for people of
+his build?
+Cle.
+It is to punish me for my sins that this passion has entered his
+head.
+La Fl.
+But why do you hide your love from him?
+Cle.
+That he may not suspect anything, and to make it more easy for me
+to fall back, if need be, upon some device to prevent this marriage.
+What answer did you receive?
+La Fl.
+Indeed, Sir, those who borrow are much to be pitied, and we
+must put up with strange things when, like you, we are forced to pass
+through the hands of the usurers.
+Cle.
+Then the affair won't come off?
+La Fl.
+Excuse me; Mr. Simon, the broker who was recommended to us, is
+a very active and zealous fellow, and says he has left no stone
+unturned to help you. He assures me that your looks alone have won his
+heart.
+Cle.
+Shall I have the fifteen thousand francs which I want?
+La Fl.
+Yes, but under certain trifling conditions, which you must
+accept if you wish the bargain to be concluded.
+Cle.
+Did you speak to the man who is to lend the money?
+La Fl.
+Oh! dear no. Things are not done in that way. He is still more
+anxious than you to remain unknown. These things are greater mysteries
+than you think. His name is not by any means to be divulged, and he is
+to be introduced to you to-day at a house provided by him, so that he
+may hear from yourself all about your position and your family; and I
+have not the least doubt that the mere name of your father will be
+sufficient to accomplish what you wish.
+Cle.
+Particularly as my mother is dead, and they cannot deprive me of
+what I inherit from her.
+La Fl.
+Well, here are some of the conditions which he has himself
+dictated to our go-between for you to take cognisance of, before
+anything is begun.
+"Supposing that the lender is satisfied with all his securities, and
+that the borrower is of age and of a family whose property is ample,
+solid, secure, and free from all incumbrances, there shall be drawn up
+a good and correct bond before as honest a notary as it is possible to
+find, and who for this purpose shall be chosen by the lender, because
+he is the more concerned of the two that the bond should be rightly
+executed."
+Cle. There is nothing to say against that.
+LA FA. "The lender, not to burden his conscience with the least
+scruple, does not wish to lend his money at more than five and a half
+per cent."
+Cle.
+Five and a half per cent? By Jove, that's honest! We have nothing
+to complain of.
+La Fl. That's true.
+"But as the said lender has not in hand the sum required, and as, in
+order to oblige the borrower, he is himself obliged to borrow from
+another at the rate of twenty per cent., it is but right that the said
+first borrower shall pay this interest, without detriment to the rest;
+since it is only to oblige him that the said lender is himself forced
+to borrow."
+Cle.
+The deuce! What a Jew! what a Turk we have here! That is more
+than twenty-five per cent.
+La Fl.
+That's true; and it is the remark I made. It is for you to
+consider the matter before you act.
+Cle.
+How can I consider? I want the money, and I must therefore accept
+everything.
+La Fl.
+That is exactly what I answered.
+Cle. Is there anything else?
+La Fl. Only a small item.
+"Of the fifteen thousand francs which are demanded, the lender will
+only be able to count down twelve thousand in hard cash; instead of
+the remaining three thousand, the borrower will have to take the
+chattels, clothing, and jewels, contained in the following catalogue,
+and which the said lender has put in all good faith at the lowest
+possible figure."
+Cle.
+ What is the meaning of all that?
+La Fl.
+I'll go through the catalogue:—
+"Firstly:—A fourpost bedstead, with hangings of Hungary lace very
+elegantly trimmed with olive-coloured cloth, and six chairs and a
+counterpane to match; the whole in very good condition, and lined with
+soft red and blue shot-silk. Item:—the tester of good pale pink
+Aumale serge, with the small and the large fringes of silk."
+Cle. What does he want me to do with all this?
+La Fl. Wait.
+"Item:—Tapestry hangings representing the loves of Gombaud and
+Macée.1
+Item:—A large walnut table with
+twelve columns or turned legs, which draws out at both ends, and is
+provided beneath with six stools."
+Cle.
+Hang it all! What am I to do with all this?
+La Fl.
+Have patience.
+"Item:—Three large matchlocks inlaid with mother-of-pearl, with rests
+to correspond. Item:—A brick furnace with two retorts and three
+receivers, very useful to those who have any taste for distilling."
+Cle. You will drive me crazy.
+La Fl. Gently!
+"Item:—A Bologna lute with all its strings, or nearly all. Item:—A
+pigeon-hole table and a draught-board, and a game of mother goose,
+restored from the Greeks, most useful to pass the time when one has
+nothing to do. Item:—A lizard's skin, three feet and a half in
+length, stuffed with hay, a pleasing curiosity to hang on the ceiling
+of a room. The whole of the above-mentioned articles are really worth
+more than four thousand five hundred francs, and are reduced to the
+value of a thousand crowns through the considerateness of the lender."
+Cle.
+Let the plague choke him with his considerateness, the wretch,
+the cut-throat that he is! Did ever anyone hear of such usury? Is he
+not satisfied with the outrageous interest he asks that he must force
+me to take, instead of the three thousand francs, all the old rubbish
+which he picks up. I shan't get two hundred crowns for all that, and
+yet I must bring myself to yield to all his wishes; for he is in a
+position to force me to accept everything, and he has me, the villain,
+with a knife at my throat.
+La Fl.
+I see you, Sir, if you'll forgive my saying so, on the high-road
+followed by Panurge2 to
+ruin himself—taking money in advance, buying dear, selling cheap,
+and cutting your corn while it is still grass.
+Cle.
+What would you have me do? It is to this that young men are
+reduced by the accursed avarice of their fathers; and people are
+astonished after that, that sons long for their death.
+La Fl.
+No one can deny that yours would excite against his meanness
+the most quiet of men. I have not, thank God, any inclination gallows-
+ward, and among my colleagues whom I see dabbling in various doubtful
+affairs, I know well enough how to keep myself out of hot water, and
+how to keep clear of all those things which savour ever so little of
+the ladder; but to tell you the truth, he almost gives me, by his ways
+of going on, the desire of robbing him, and I should think that in
+doing so I was doing a meritorious action.
+Cle.
+Give me that memorandum that I may have another look at it.
+ 
+SCENE II.——HARPAGON, MR. SIMON
+(CLÉANTE and LA FLÈCHE at the
+back of the stage).
+Sim.
+Yes, Sir; it is a young man who is greatly in want of money; his
+affairs force him to find some at any cost, and he will submit to all
+your conditions.
+Har.
+But are you sure, Mr. Simon, that there is no risk to run in this
+case? and do you know the name, the property, and the family of him
+for whom you speak?
+Sim.
+No; I cannot tell you anything for certain, as it was by mere
+chance that I was made acquainted with him; but he will tell you
+everything himself, and his servant has assured me that you will be
+quite satisfied when you know who he is. All I can tell you is that
+his family is said to be very wealthy, that he has already lost his
+mother, and that he will pledge you his word, if you insist upon it,
+that his father will die before eight months are passed.
+Har.
+That is something. Charity, Mr. Simon, demands of us to gratify
+people whenever we have it in our power.
+Sim. Evidently.
+La Fl. (aside to
+Cléante,
+on recognising Mr. Simon).
+What does this mean? Mr. Simon talking with your father!
+Cle. (aside to
+La Flèche).
+Has he been told who I am, and would
+you be capable of betraying me?
+Sim. (to
+Cléante and
+La Flèche). Ah! you are in good
+time! But who told you to come here? (To
+Harpagon) It was
+certainly not I who told them your name and address; but I am of
+opinion that there is no great harm done; they are people who can be
+trusted, and you can come to some understanding together.
+Har. What!
+Sim. (showing
+Cléante). This is the gentleman who wants to
+borrow the fifteen thousand francs of which I have spoken to you.
+Har.
+What! miscreant! is it you who abandon yourself to such excesses?
+Cle.
+What! father! is it you who stoop to such shameful deeds?
+(M. Simon runs away, and
+La Flèche hides himself.)
+ 
+SCENE III.——HARPAGON, CLÉANTE.
+Har.
+It is you who are ruining yourself by loans so greatly to be
+condemned!
+Cle.
+So it is you who seek to enrich yourself by such criminal usury!
+Har.
+And you dare, after that, to show yourself before me?
+Cle.
+And you dare, after that, to show yourself to the world?
+Har.
+Are you not ashamed, tell me, to descend to these wild excesses,
+to rush headlong into frightful expenses, and disgracefully to
+dissipate the wealth which your parents have amassed with so much
+toil.
+Cle.
+Are you not ashamed of dishonouring your station by such
+dealings, of sacrificing honour and reputation to the insatiable
+desire of heaping crown upon crown, and of outdoing the most infamous
+devices that have ever been invented by the most notorious usurers?
+Har.
+Get out of my sight, you reprobate; get out of my sight!
+Cle.
+Who is the more criminal in your opinion: he who buys the money
+of which he stands in need, or he who obtains, by unfair means, money
+for which he has no use?
+Har.
+Begone, I say, and do not provoke me to anger. (Alone)
+After all, I am not very much vexed at this adventure; it will be a
+lesson to me to keep a better watch over all his doings.
+ 
+SCENE IV.——FROSINE, HARPAGON.
+Fro. Sir.
+Har.
+Wait a moment, I will come back and speak to you. (Aside)
+I had better go and see a little after my money.
+ 
+SCENE V.——LA FLÈCHE, FROSINE.
+La Fl. (without seeing
+Frosine). The adventure is most comical.
+Hidden somewhere he must have a large store of goods of all kinds, for
+the list did not contain one single article which either of us
+recognised.
+Fro.
+Hallo! is it you, my poor La Flèche? How is it we meet here?
+La Fl.
+Ah! ah! it is you, Frosine; and what have you come to do here?
+Fro.
+What have I come to do? Why! what I do everywhere else, busy
+myself about other people's affairs, make myself useful to the
+community in general, and profit as much as I possibly can by the
+small talent I possess. Must we not live by our wits in this world?
+and what other resources have people like me but intrigue and cunning?
+La Fl.
+Have you, then, any business with the master of this house?
+Fro.
+Yes. I am transacting for him a certain small matter for which he
+is pretty sure to give me a reward.
+La Fl.
+He give you a reward! Ah! ah! Upon my word, you will be 'cute
+if you ever get one, and I warn you that ready money is very scarce
+hereabouts.
+Fro.
+That may be, but there are certain services which wonderfully
+touch our feelings.
+La Fl.
+Your humble servant; but as yet you don't know Harpagon.
+Harpagon is the human being of all human beings the least humane, the
+mortal of all mortals the hardest and closest. There is no service
+great enough to induce him to open his purse. If, indeed, you want
+praise, esteem, kindness, and friendship, you are welcome to any
+amount; but money, that's a different affair. There is nothing more
+dry, more barren, than his favour and his good grace, and
+"give" is a word for which he has such a strong dislike that he
+never says I give, but I lend, you a good morning.
+Fro.
+That's all very well; but I know the art of fleecing men. I have
+a secret of touching their affections by flattering their hearts, and
+of finding out their weak points.
+La Fl.
+All useless here. I defy you to soften, as far as money is
+concerned, the man we are speaking of. He is a Turk on that point, of
+a Turkishness to drive anyone to despair, and we might starve in his
+presence and never a peg would he stir. In short, he loves money
+better than reputation, honour, and virtue, and the mere sight of
+anyone making demands upon his purse sends him into convulsions; it is
+like striking him in a vital place, it is piercing him to the heart,
+it is like tearing out his very bowels! And if … But here he comes
+again; I leave you.
+ 
+SCENE VI.——HARPAGON, FROSINE.
+Har. (aside). All is as it should be.
+(To Frosine) Well,
+what is it, Frosine?
+Fro.
+Bless me, how well you look! You are the very picture of health.
+Har. Who? I?
+Fro.
+Never have I seen you looking more rosy, more hearty.
+Har. Are you in earnest?
+Fro.
+Why! you have never been so young in your life; and I know many a
+man of twenty-five who looks much older than you do.
+Har.
+And yet, Frosine, I have passed threescore.
+Fro.
+Threescore! Well, and what then? You don't mean to make a trouble
+of that, do you? It's the very flower of manhood, the threshold of the
+prime of life.
+Har.
+True; but twenty years less would do me no harm, I think.
+Fro.
+Nonsense! You've no need of that, and you are of a build to last
+out a hundred.
+Har.
+Do you really think so?
+Fro.
+Decidedly. You have all the appearance of it. Hold yourself up a
+little. Ah! what a sign of long life is that line there straight
+between your two eyes!
+Har.
+You know all about that, do you?
+Fro.
+I should think I do. Show me your hand.3
+
+ Dear me, what a line of life there is there!
+Har. Where?
+Fro.
+Don't you see how far this line goes?
+Har.
+Well, and what does it mean?
+Fro.
+What does it mean? There … I said a hundred years; but no, it
+is one hundred and twenty I ought to have said.
+Har. Is it possible?
+Fro.
+I tell you they will have to kill you, and you will bury your
+children and your children's children.
+Har.
+So much the better! And what news of our affair?
+Fro.
+Is there any need to ask? Did ever anyone see me begin anything
+and not succeed in it? I have, especially for matchmaking, the most
+wonderful talent. There are no two persons in the world I could not
+couple together; and I believe that, if I took it into my head, I
+could make the Grand Turk marry the Republic of
+Venice.4
+ But we had,
+to be sure, no such difficult thing to
+achieve in this matter. As I know the ladies very well, I told them
+every particular about you; and I acquainted the mother with your
+intentions towards Marianne since you saw her pass in the street and
+enjoy the fresh air out of her window.
+Har. What did she answer…?
+Fro.
+She received your proposal with great joy; and when I told her
+that you wished very much that her daughter should come to-night to
+assist at the marriage contract which is to be signed for your own
+daughter, she assented at once, and entrusted her to me for the
+purpose.
+Har.
+You see, Frosine, I am obliged to give some supper to Mr.
+Anselme, and I should like her to have a share in the feast.
+Fro.
+You are quite right. She is to come after dinner to pay a visit
+to your daughter; then she means to go from here to the fair, and
+return to your house just in time for supper.
+Har.
+That will do very well; they shall go together in my carriage,
+which I will lend them.
+Fro.
+That will suit her perfectly.
+Har.
+But I say, Frosine, have you spoken to the mother about the dowry
+she can give her daughter? Did you make her understand that under such
+circumstances she ought to do her utmost and to make a great
+sacrifice? For, after all, one does not marry a girl without her
+bringing something with her.
+Fro.
+How something! She is a girl who will bring you a clear twelve
+thousand francs a year?
+Har. Twelve thousand francs a year?
+Fro.
+Yes! To begin with, she has been nursed and brought up with the
+strictest notions of frugality. She is a girl accustomed to live upon
+salad, milk, cheese, and apples, and who consequently will require
+neither a well served up table, nor any rich broth, nor your
+everlasting peeled barley; none, in short, of all those delicacies
+that another woman would want. This is no small matter, and may well
+amount to three thousand francs yearly. Besides this, she only cares
+for simplicity and neatness; she will have none of those splendid
+dresses and rich jewels, none of that sumptuous furniture in which
+girls like her indulge so extravagantly; and this item is worth more
+than four thousand francs per annum. Lastly, she has the deepest
+aversion to gambling; and this is not very common nowadays among
+women. Why, I know of one in our neighbourhood who lost at least
+twenty thousand francs this year. But let us reckon only a fourth of
+that sum. Five thousand francs a year at play and four thousand in
+clothes and jewels make nine thousand; and three thousand francs which
+we count for food, does it not make your twelve thousand francs?
+Har.
+Yes, that's not bad; but, after all, that calculation has nothing
+real in it.
+Fro.
+Excuse me; is it nothing real to bring you in marriage a great
+sobriety, to inherit a great love for simplicity in dress, and the
+acquired property of a great hatred for gambling?
+Har.
+It is a farce to pretend to make up a dowry with all the expenses
+she will not run into. I could not give a receipt for what I do not
+receive; and I must decidedly get something.
+Fro.
+Bless me! you will get enough; and they have spoken to me of a
+certain country where they have some property, of which you will be
+master.
+Har.
+We shall have to see to that. But, Frosine, there is one more
+thing that makes me uneasy. The girl is young, you know; and young
+people generally like those who are young like themselves, and only
+care for the society of the young. I am afraid that a man of my age
+may not exactly suit her taste, and that this may occasion in my
+family certain complications that would in nowise be pleasant to me.
+Fro.
+Oh, how badly you judge her! This is one more peculiarity of
+which I had to speak to you. She has the greatest detestation to all
+young men, and only likes old people.
+Har. Does she?
+Fro.
+I should like you to hear her talk on that subject; she cannot
+bear at all the sight of a young man, and nothing delights her more
+than to see a fine old man with a venerable beard. The oldest are to
+her the most charming, and I warn you beforehand not to go and make
+yourself any younger than you really are. She wishes for one sixty
+years old at least; and it is not more than six months ago that on the
+very eve of being married she suddenly broke off the match on learning
+that her lover was only fifty-six years of age, and did not put on
+spectacles to sign the contract.
+Har. Only for that?
+Fro.
+Yes; she says there is no pleasure with a man of fifty-six; and
+she has a decided affection for those who wear spectacles.
+Har. Well, this is quite new to me.
+Fro.
+No one can imagine how far she carries this. She has in her room
+a few pictures and engravings, and what do you imagine they are? An
+Adonis, a Cephalus, a Paris, an Apollo? Not a bit of it! Fine
+portraits of Saturn, of King Priam, of old Nestor, and of good father
+Anchises on his son's shoulders.
+Har.
+That's admirable. I should never have guessed such a thing; and I
+am very pleased to hear that she has such taste as this. Indeed had I
+been a woman, I should never have loved young fellows.
+Fro.
+I should think not. Fine trumpery indeed, these young men, for
+any one to fall in love with. Fine jackanapes and puppies for a woman
+to hanker after. I should like to know what relish anyone can find in
+them?
+Har.
+Truly; I don't understand it myself, and I cannot make out how it
+is that some women dote so on them.
+Fro.
+They must be downright idiots. Can any one be in his senses who
+thinks youth amiable? Can those curly-pated coxcombs be men, and can
+one really get attached to such animals?
+Har.
+Exactly what I say every day! With their effeminate voices, their
+three little bits of a beard turned up like cat's whiskers, their tow
+wigs, their flowing breeches and open breasts!
+Fro.
+Yes; they are famous guys compared with yourself. In you we see
+something like a man. There is enough to satisfy the eye. It is thus
+that one should be made and dressed to inspire love.
+Har. Then you think I am pretty well?
+Fro.
+Pretty well! I should think so; you are charming, and your face
+would make a beautiful picture. Turn round a little, if you please.
+You could not find anything better anywhere. Let me see you walk. You
+have a well-shaped body, free and easy, as it should be, and one which
+gives no sign of infirmity.
+Har.
+I have nothing the matter to speak of, I am thankful to say. It
+is only my cough, which returns from time to
+time.5
+
+Fro.
+That is nothing, and coughing becomes you exceedingly well.
+Har.
+Tell me, Frosine, has Marianne seen me yet? Has she not noticed
+me when I passed by?
+Fro.
+No; but we have had many conversations about you. I gave her an
+exact description of your person, and I did not fail to make the most
+of your merit, and to show her what an advantage it would be to have a
+husband like you.
+Har.
+You did right, and I thank you very much for it.
+Fro.
+I have, Sir, a small request to make to you. I am in danger of
+losing a lawsuit for want of a little money
+(Harpagon looks
+grave), and you can easily help me with it, if you have pity upon
+me. You cannot imagine how happy she will be to see you.
+(Harpagon
+looks joyful.) Oh! how sure you are to please her, and how sure
+that antique ruff of yours is to produce a wonderful effect on her
+mind. But, above all, she will be delighted with your breeches
+fastened to your doublet with tags; that will make her mad after you,
+and a lover who wears tags will be most welcome to her.
+Har.
+You send me into raptures, Frosine, by saying that.
+Fro.
+I tell you the truth, Sir; this lawsuit is of the utmost
+importance for me. (Harpagon
+looks serious again.) If I lose
+it, I am for ever ruined; but a very small sum will save me. I should
+like you to have seen the happiness she felt when I spoke of you to
+her. (Harpagon looks pleased again.)
+Joy sparkled in her eyes
+while I told her of all your good qualities; and I succeeded, in
+short, in making her look forward with the greatest impatience to the
+conclusion of the match.
+Har.
+You have given me great pleasure, Frosine, and I assure you I …
+Fro.
+I beg of you, Sir, to grant me the little assistance I ask of
+you. (Harpagon again looks grave.)
+It will put me on my feet
+again, and I shall feel grateful to you for ever.
+Har.
+Good-bye; I must go and finish my correspondence.
+Fro.
+I assure you, Sir, that you could not help me in a more pressing
+necessity.
+Har.
+I will see that my carriage is ready to take you to the fair.
+Fro.
+I would not importune you so if I were not compelled by
+necessity.
+Har.
+And I will see that we have supper early, so that nobody may be
+ill.
+Fro.
+Do not refuse me the service; I beg of you. You can hardly
+believe, Sir, the pleasure that …
+Har.
+I must go; somebody is calling me. We shall see each other again
+by and by.
+Fro. (alone).
+May the fever seize you, you stingy cur, and send
+you to the devil and his angels! The miser has held out against all my
+attacks; but I must not drop the negotiation; for I have the other
+side, and there, at all events, I am sure of a good reward.
+ 
+ 
+ACT III.
+SCENE I.——HARPAGON, CLÉANTE, ÉLISE, VALÈRE,
+DAME CLAUDE (holding a
+broom), MASTER JACQUES, LA MERLUCHE, BRINDAVOINE.
+Har.
+Here, come here, all of you; I must give you orders for by and
+by, and arrange what each one will have to do. Come nearer, Dame
+Claude; let us begin with you. (Looking at her broom.) Good;
+you are ready armed, I see. To you I commit the care of cleaning up
+everywhere; but, above all, be very careful not to rub the furniture
+too hard, for fear of wearing it out. Besides this, I put the bottles
+under your care during supper, and if any one of them is missing, or
+if anything gets broken, you will be responsible for it, and pay it
+out of your wages.
+Jac.
+(aside). A shrewd punishment that.
+Har. (to
+Dame Claude.) Now you may go.
+ 
+SCENE II.——HARPAGON, CLÉANTE,
+ÉLISE, VALÈRE, MASTER JACQUES,
+BRINDAVOINE, LA MERLUCHE.
+Har.
+To you, Brindavoine, and to you, La Merluche, belongs the duty of
+washing the glasses, and of giving to drink, but only when people are
+thirsty, and not according to the custom of certain impertinent
+lackeys, who urge them to drink, and put the idea into their heads
+when they are not thinking about it. Wait until you have been asked
+several times, and remember always to have plenty of water.
+Jac. (aside).
+Yes; wine without water gets into one's head.
+La Mer.
+Shall we take off our smocks, Sir?
+Har.
+Yes, when you see the guests coming; but be very careful not to
+spoil your clothes.
+Brind.
+You know, Sir, that one of the fronts of my doublet is covered
+with a large stain of oil from the lamp.
+La Mer.
+And I, Sir, that my breeches are all torn behind, and that,
+saving your presence …
+Har. (to
+La Merluche).
+Peace! Turn carefully towards the wall,
+and always face the company. (To
+Brindavoine, showing him
+how he is to hold his hat before his doublet, to hide the stain of
+oil) And you, always hold your hat in this fashion when you wait
+on the guests.
+ 
+SCENE III.——HARPAGON, CLÉANTE,
+ÉLISE, VALÈRE, MASTER JACQUES.
+Har.
+As for you, my daughter, you will look after all that is cleared
+off the table, and see that nothing is wasted: this care is very
+becoming to young girls. Meanwhile get ready to welcome my lady-love,
+who is coming this afternoon to pay you a visit, and will take you off
+to the fair with her. Do you understand what I say?
+Eli. Yes, father.
+ 
+SCENE IV.——HARPAGON, CLÉANTE,
+VALÈRE, MASTER JACQUES.
+Har.
+And you, my young dandy of a son to whom I have the kindness of
+forgiving what happened this morning, mind you don't receive her
+coldly, or show her a sour face.
+Cle.
+Receive her coldly! And why should I?
+Har.
+Why? why? We know pretty well the ways of children whose fathers
+marry again, and the looks they give to those we call stepmothers. But
+if you wish me to forget your last offence, I advise you, above all
+things, to receive her kindly, and, in short, to give her the
+heartiest welcome you can.
+Cle.
+To speak the truth, father, I cannot promise you that I am very
+happy to see her become my stepmother; but as to receiving her
+properly, and as to giving her a kind welcome, I promise to obey you
+in that to the very letter.
+Har.
+Be careful you do, at least.
+Cle.
+You will see that you have no cause to complain.
+Har. You will do wisely.
+ 
+SCENE V.——HARPAGON, VALÈRE, MASTER JACQUES.
+Har.
+Valère, you will have to give me your help in this business. Now,
+Master Jacques, I kept you for the last.
+Jac.
+Is it to your coachman, Sir, or to your cook you want to speak,
+for I am both the one and the other?
+Har. To both.
+Jac.
+But to which of the two first?
+Har. To the cook.
+Jac.
+Then wait a minute, if you please.
+(Jacques
+takes off his stable-coat and appears dressed as a
+cook.)
+Har.
+What the deuce is the meaning of this ceremony?
+Jac. Now I am at your service.
+Har.
+I have engaged myself, Master Jacques, to give a supper to-night.
+Jac. (aside). Wonderful!
+Har. Tell me, can you give us a good supper?
+Jac. Yes, if you give me plenty of money.
+Har.
+The deuce! Always money! I think they have nothing else to say
+except money, money, money! Always that same word in their mouth,
+money! They always speak of money! It's their pillow companion, money!
+Val.
+Never did I hear such an impertinent answer! Would you call it
+wonderful to provide good cheer with plenty of money? Is it not the
+easiest thing in the world? The most stupid could do as much. But a
+clever man should talk of a good supper with little money.
+Jac.
+A good supper with little money?
+Val. Yes.
+Jac.
+(to Valère).
+Indeed, Mr. Steward, you will oblige me
+greatly by telling me your secret, and also, if you like, by filling
+my place as cook; for you keep on meddling here, and want to be
+everything.
+Har.
+Hold your tongue. What shall we want?
+Jac.
+Ask that of Mr. Steward, who will give you good cheer with little
+money.
+Har.
+Do you hear? I am speaking to you, and expect you to answer me.
+Jac.
+How many will there be at your table?
+Har.
+Eight or ten; but you must only reckon for eight. When there is
+enough for eight, there is enough for ten.
+Val. That is evident.
+Jac.
+Very well, then; you must have four tureens of soup and five side
+dishes; soups, entrées …
+Har.
+What! do you mean to feed a whole town?
+Jac. Roast …
+Har. (clapping his hand on
+Master Jacques' mouth). Ah!
+Wretch! you are eating up all my substance.
+Jac. Entremêts …
+Har. (again putting his hand on
+Jacques' mouth). More
+still?
+Val. (to
+Jacques).
+Do you mean to kill everybody? And has your
+master invited people in order to destroy them with over-feeding? Go
+and read a little the precepts of health, and ask the doctors if there
+is anything so hurtful to man as excess in eating.
+Har. He is perfectly right.
+Val.
+Know, Master Jacques, you and people like you, that a table
+overloaded with eatables is a real cut-throat; that, to be the true
+friends of those we invite, frugality should reign throughout the
+repast we give, and that according to the saying of one of the
+ancients, "We must eat to live, and not live to eat."
+Har.
+Ah! How well the man speaks! Come near, let me embrace you for
+this last saying. It is the finest sentence that I have ever heard in
+my life: "We must live to eat, and not eat to live." No; that isn't
+it. How do you say it?
+Val.
+That we must eat to live, and not live to eat.
+Har.
+(to Master Jacques).
+Yes. Do you hear that? (To
+Valère)
+Who is the great man who said that?
+Val.
+I do not exactly recollect his name just now.
+Har.
+Remember to write down those words for me. I will have them
+engraved in letters of gold over the mantel-piece of my dining-room.
+Val.
+I will not fail. As for your supper, you had better let me manage
+it. I will see that it is all as it should be.
+Har. Do so.
+Jac.
+So much the better; all the less work for me.
+Har. (to
+Valère).
+We must have some of those things of which it
+is not possible to eat much, and that satisfy directly. Some good fat
+beans, and a pâté well stuffed with chestnuts.
+Val. Trust to me.
+Har.
+Now, Master Jacques, you must clean my carriage.
+Jac. Wait a moment; this is to the coachman.
+(Jacques puts on his
+coat.) You say …
+Har.
+That you must clean my carriage, and have my horses ready to
+drive to the fair.
+Jac.
+Your horses! Upon my word, Sir, they are not at all in a
+condition to stir. I won't tell you that they are laid up, for the
+poor things have got nothing to lie upon, and it would not be telling
+the truth. But you make them keep such rigid fasts that they are
+nothing but phantoms, ideas, and mere shadows of horses.
+Har.
+They are much to be pitied. They have nothing to do.
+Jac.
+And because they have nothing to do, must they have nothing to
+eat? It would be much better for them, poor things, to work much and
+eat to correspond. It breaks my heart to see them so reduced; for, in
+short, I love my horses; and when I see them suffer, it seems as if it
+were myself. Every day I take the bread out of my own mouth to feed
+them; and it is being too hard-hearted, Sir, to have no compassion
+upon one's neighbour.
+Har.
+It won't be very hard work to go to the fair.
+Jac.
+No, Sir. I haven't the heart to drive them; it would go too much
+against my conscience to use the whip to them in the state they are
+in. How could you expect them to drag a carriage? They have not even
+strength enough to drag themselves along.
+Val.
+Sir, I will ask our neighbour, Picard, to drive them;
+particularly as we shall want his help to get the supper ready.
+Jac.
+Be it so. I had much rather they should die under another's hand
+than under mine.
+Val.
+Master Jacques is mightily considerate.
+Jac.
+Mr. Steward is mightily indispensable.
+Har. Peace.
+Jac.
+Sir, I can't bear these flatteries, and I can see that, whatever
+this man does, his continual watching after the bread, wine, wood,
+salt, and candles, is done but to curry favour and to make his court
+to you. I am indignant to see it all; and I am sorry to hear every day
+what is said of you; for, after all, I have a certain tenderness for
+you; and, except my horses, you are the person I like most in the
+world.
+Har.
+And I would know from you, Master Jacques, what it is that is
+said of me.
+Jac.
+Yes, certainly, Sir, if I were sure you would not get angry with
+me.
+Har.
+No, no; never fear.
+Jac.
+Excuse me, but I am sure you will be angry.
+Har.
+No, on the contrary, you will oblige me. I should be glad to know
+what people say of me.
+Jac.
+Since you wish it, Sir, I will tell you frankly that you are the
+laughing-stock of everybody; that they taunt us everywhere by a
+thousand jokes on your account, and that nothing delights people more
+than to make sport of you, and to tell stories without end about your
+stinginess. One says that you have special almanacks printed, where
+you double the ember days and vigils, so that you may profit by the
+fasts to which you bind all your house; another, that you always have
+a ready-made quarrel for your servants at Christmas time or when they
+leave you, so that you may give them nothing. One tells a story how
+not long since you prosecuted a neighbour's cat because it had eaten
+up the remainder of a leg of mutton; another says that one night you
+were caught stealing your horses' oats, and that your coachman,—that
+is the man who was before me,—gave you, in the dark, a good sound
+drubbing, of which you said nothing. In short, what is the use of
+going on? We can go nowhere but we are sure to hear you pulled to
+pieces. You are the butt and jest and byword of everybody; and never
+does anyone mention you but under the names of miser, stingy, mean,
+niggardly fellow and usurer.
+Har. (beating
+Jacques). You are a fool, a rascal, a scoundrel,
+and an impertinent wretch.
+Jac.
+There, there! Did not I know how it would be? You would not
+believe me. I told you I should make you angry if I spoke the truth?
+Har. Learn how to speak.
+ 
+SCENE VI.——VALÈRE, MASTER JACQUES.
+Val. (laughing).
+Well, Master Jacques, your frankness is badly
+rewarded, I fear.
+Jac.
+S'death! Mr. Upstart, you who assume the man of consequence, it
+is no business of yours as far as I can see. Laugh at your own
+cudgelling when you get it, and don't come here and laugh at mine.
+Val.
+Ah! Master Jacques, don't get into a passion, I beg of you.
+Jac. (aside).
+He is drawing in his horns. I will put on a bold
+face, and if he is fool enough to be afraid of me, I will pay him back
+somewhat. (To Valère)
+Do you know, Mr. Grinner, that I am not
+exactly in a laughing humour, and that if you provoke me too much, I
+shall make you laugh after another fashion.
+(Jacques pushes
+Valère
+to the farther end of the stage, threatening him.)
+Val.
+Gently, gently.
+Jac.
+How gently? And if it does not please me to go gently?
+Val.
+Come, come! What are you about?
+Jac.
+You are an impudent rascal.
+Val.
+Master Jacques …
+Jac.
+None of your Master Jacques here! If I take up a stick, I shall
+soon make you feel it.
+Val.
+What do you mean by a stick? (Drives back
+Jacques in
+his turn.)
+Jac.
+No; I don't say anything about that.
+Val.
+Do you know, Mr. Conceit, that I am a man to give you a drubbing
+in good earnest?
+Jac.
+I have no doubt of it.
+Val.
+That, after all, you are nothing but a scrub of a cook?
+Jac. I know it very well.
+Val.
+And that you don't know me yet?
+Jac. I beg your pardon.
+Val.
+You will beat me, you say?
+Jac. I only spoke in jest.
+Val.
+I don't like your jesting, and (beating
+Jacques) remember
+that you are but a sorry hand at it.
+Jac. (alone).
+Plague take all sincerity; it is a bad trade. I
+give it up for the future, and will cease to tell the truth. It is all
+very well for my master to beat me; but as for that Mr. Steward, what
+right has he to do it? I will be revenged on him if I can.
+ 
+SCENE VII.——MARIANNE, FROSINE, MASTER JACQUES.
+Fro.
+Do you know if your master is at home?
+Jac.
+Yes, he is indeed; I know it but too well.
+Fro.
+Tell him, please, that we are here.
+ 
+SCENE VIII.——MARIANNE, FROSINE.
+Mar.
+Ah! Frosine, how strange I feel, and how I dread this interview!
+Fro.
+Why should you? What can you possibly dread?
+Mar.
+Alas! can you ask me? Can you not understand the alarms of a
+person about to see the instrument of torture to which she is to be
+tied.
+Fro.
+I see very well that to die agreeably, Harpagon is not the
+torture you would embrace; and I can judge by your looks that the fair
+young man you spoke of to me is still in your thoughts.
+Mar.
+Yes, Frosine; it is a thing I do not wish to deny. The respectful
+visits he has paid at our house have left, I confess, a great
+impression on my heart.
+Fro.
+But do you know who he is?
+Mar.
+No, I do not. All I know is that he is made to be loved; that if
+things were left to my choice, I would much rather marry him than any
+other, and that he adds not a little to the horrible dread that I have
+of the husband they want to force upon me.
+Fro.
+Oh yes! All those dandies are very pleasant, and can talk
+agreeably enough, but most of them are as poor as church mice; and it
+is much better for you to marry an old husband, who gives you plenty
+of money. I fully acknowledge that the senses somewhat clash with the
+end I propose, and that there are certain little inconveniences to be
+endured with such a husband; but all that won't last; and his death,
+believe me, will soon put you in a position to take a more pleasant
+husband, who will make amends for all.
+Mar.
+Oh, Frosine! What a strange state of things that, in order to be
+happy, we must look forward to the death of another. Yet death will
+not fall in with all the projects we make.
+Fro.
+You are joking. You marry him with the express understanding that
+he will soon leave you a widow; it must be one of the articles of the
+marriage contract. It would be very wrong in him not to die before
+three months are over. Here he is himself.
+Mar. Ah! dear Frosine, what a face!
+ 
+SCENE IX.——HARPAGON, MARIANNE, FROSINE.
+Har. (to
+Marianne). Do not be offended, fair one, if I come to
+you with my glasses on. I know that your beauty is great enough to be
+seen with the naked eye; but, still, it is with glasses that we look
+at the stars, and I maintain and uphold that you are a star, the most
+beautiful and in the land of stars. Frosine, she does not answer,
+star, it seems to me, shows no joy at the sight of me.
+Fro.
+It is because she is still quite awe-struck, and young girls are
+always shy at first, and afraid of showing what they feel.
+Har.
+(to Frosine). You are right.
+(To Marianne) My
+pretty darling, there is my daughter coming to welcome you.
+ 
+SCENE X.——HARPAGON, ÉLISE, MARIANNE, FROSINE.
+Mar.
+I am very late in acquitting myself of the visit I owed you.
+Eli.
+You have done what I ought to have done. It was for me to have
+come and seen you first.
+Har.
+You see what a great girl she is; but ill weeds grow apace.
+Mar. (aside to
+Frosine). Oh, what an unpleasant man!
+Har. (to
+Frosine). What does my fair one say?
+Fro. That she thinks you perfect.
+Har.
+You do me too much honour, my adorable darling.
+Mar.
+(aside). What a dreadful creature!
+Har.
+I really feel too grateful to you for these sentiments.
+Mar. (aside). I can bear it no longer.
+ 
+SCENE XI.——HARPAGON, MARIANNE, ÉLISE, CLÉANTE,
+VALÈRE, FROSINE, BRINDAVOINE.
+Har.
+Here is my son, who also comes to pay his respects to you.
+Mar.
+(aside to Frosine).
+Oh, Frosine! what a strange meeting!
+He is the very one of whom I spoke to you.
+Fro. (to
+Marianne). Well, that is extraordinary.
+Har.
+You are surprised to see that my children can be so old; but I
+shall soon get rid of both of them.
+Cle. (to
+Marianne). Madam, to tell you the truth, I little
+expected such an event; and my father surprised me not a little when
+he told me to-day of the decision he had come to.
+Mar.
+I can say the same thing. It is an unexpected meeting; and I
+certainly was far from being prepared for such an event.
+Cle.
+Madam, my father cannot make a better choice, and it is a great
+joy to me to have the honour of welcoming you here. At the same time,
+I cannot say that I should rejoice if it were your intention to become
+my stepmother. I must confess that I should find it difficult to pay
+you the compliment; and it is a title, forgive me, that I cannot wish
+you to have. To some this speech would seem coarse, but I feel that
+you understand it. This marriage, Madam, is altogether repugnant to
+me. You are not ignorant, now that you know who I am, how opposed it
+is to all my own interests, and with my father's permission I hope you
+will allow me to say that, if things depended on me, it would never
+take place.
+Har. (aside).
+What a very impertinent speech to make; and what
+a confession to make to her!
+Mar.
+And as my answer, I must tell you that things are much the same
+with me, and that, if you have any repugnance in seeing me your
+stepmother, I shall have no less in seeing you my stepson. Do not
+believe, I beg of you, that it is of my own will that this trouble has
+come upon you. I should be deeply grieved to cause you the least
+sorrow, and unless I am forced to it by a power I must obey, I give
+you my word that, I will never consent to a marriage which is so
+painful to you.
+Har.
+She is right. A foolish speech deserves a foolish answer. I beg
+your pardon, my love, for the impertinence of my son. He is a silly
+young fellow, who has not yet learnt the value of his own words.
+Mar.
+I assure you that he has not at all offended me. I am thankful,
+on the contrary, that he has spoken so openly. I care greatly for such
+a confession from him, and if he had spoken differently, I should feel
+much less esteem for him.
+Har.
+It is very kind of you to excuse him thus. Time will make him
+wiser, and you will see that his feelings will change.
+Cle.
+No, father, they will never change; and I earnestly beg of you,
+Madam, to believe me.
+Har.
+Did ever anybody see such folly? He is becoming worse and worse.
+Cle.
+Would you have me false to my inmost feelings?
+Har.
+Again! Change your manners, if you please.
+Cle.
+Very well, since you wish me to speak differently. Allow me,
+Madam, to take for a moment my father's place; and forgive me if I
+tell you that I never saw in the world anybody more charming than you
+are; that I can understand no happiness to equal that of pleasing you,
+and that to be your husband is a glory, a felicity, I should prefer to
+the destinies of the greatest princes upon earth. Yes, Madam, to
+possess you is, in my mind, to possess the best of all treasures; to
+obtain you is all my ambition. There is nothing I would not do for so
+precious a conquest, and the most powerful obstacles …
+Har.
+Gently, gently, my son, if you please.
+Cle.
+These are complimentary words which I speak to her in your name.
+Har.
+Bless me! I have a tongue of my own to explain my feelings, and I
+really don't care for such an advocate as you … Here, bring us some
+chairs.
+Fro.
+No; I think it is better for us to go at once to the fair, in
+order to be back earlier, and have plenty of time for talking.
+Har. (to
+Brindavoine). Have the carriage ready at once.
+ 
+SCENE XII.——HARPAGON,
+MARIANNE, ÉLISE, CLÉANTE, VALÈRE, FROSINE.
+Har. (to
+Marianne).
+I hope you will excuse me, my dear, but I
+forgot to order some refreshments for you, before you went out.
+Cle.
+I have thought of it, father, and have ordered to be brought in
+here some baskets of China oranges, sweet citrons, and preserves,
+which I sent for in your name.
+Har. (aside, to
+Valère). Valère!
+Val. (aside, to
+Harpagon). He has lost his senses!
+Cle.
+You are afraid, father, that it will not be enough? I hope,
+Madam, that you will have the kindness to excuse it.
+Mar.
+It was by no means necessary.
+Cle.
+Did you ever see, Madam, a more brilliant diamond than the one my
+father has upon his finger?
+Mar.
+It certainly sparkles very much.
+Cle.
+(taking the diamond off his father's finger). You must see
+it near.
+Mar.
+It is a beautiful one; it possesses great lustre.
+Cle. (steps before
+Marianne, who wants to restore it).
+No, Madam, it is in hands too beautiful; it is a present my father
+gives you.
+Har. I?
+Cle.
+Is it not true, father, that you wish her to keep it for your
+sake?
+Har.
+(aside, to his son). What?
+Cle.
+(to Marianne).
+A strange question indeed! He is making me
+signs that I am to force you to accept it.
+Mar. I would not …
+Cle. (to
+Marianne).
+I beg of you…. He would not take it back.
+Har.
+(aside). I am bursting with rage!
+Mar.
+It would be …
+Cle. (still hindering
+Marianne from returning it). No; I
+tell you, you will offend him.
+Mar. Pray …
+Cle. By no means.
+Har.
+(aside). Plague take …
+Cle.
+He is perfectly shocked at your refusal.
+Har.
+(aside, to his son). Ah! traitor!
+Cle.
+(to Marianne).
+You see he is in despair.
+Har.
+(aside, to his son, threatening him). You villain!
+Cle.
+Really, father, it is not my fault. I do all I can to persuade
+her to accept it; but she is obstinate.
+Har.
+(in a rage, aside to his son). Rascal!
+Cle.
+You are the cause, Madam, of my father scolding me.
+Har.
+(aside, with the same looks). Scoundrel!
+Cle.
+(to Marianne).
+You will make him ill; for goodness' sake,
+hesitate no longer.
+Fro.
+(to Marianne).
+Why so much ceremony? Keep the ring, since
+the gentleman wishes you to.
+Mar.
+(to Harpagon).
+I will keep it now, Sir, in order not to
+make you angry, and I shall take another opportunity of returning it
+to you.
+ 
+SCENE XIII.——HARPAGON, MARIANNE, ÉLISE,
+VALÈRE, FROSINE, BRINDAVOINE.
+Brind.
+Sir, there is a gentleman here who wants to speak to you.
+Har.
+Tell him that I am engaged, and that I cannot see him to-day.
+Brind.
+He says he has some money for you.
+Har. (to
+Marianne).
+Pray, excuse me; I will come back directly.
+ 
+SCENE XIV.——HARPAGON, MARIANNE,
+ÉLISE, CLÉANTE, FROSINE, LA MERLUCHE.
+La Mer.
+(comes in running, and throws
+Harpagon down).
+Sir …
+Har. Oh! he has killed me.
+Cle.
+What's the matter, father? Have you hurt yourself?
+Har.
+The wretch must have been bribed by some of my debtors to break
+my neck.
+Val.
+(to Harpagon).
+There is nothing serious.
+La Mer.
+(to Harpagon).
+I beg your pardon, Sir; I thought I had
+better run fast to tell you….
+Har. What?
+La Mer.
+That your two horses have lost their shoes.
+Har.
+Take them quickly to the smith.
+Cle.
+In the meantime, father, I will do the honours of the house for
+you, and take this lady into the garden, where lunch will be brought.
+ 
+SCENE XV.——HARPAGON, VALÈRE.
+Har.
+Valère, look after all this; and take care, I beseech you, to
+save as much of it as you can, so that we may send it back to the
+tradesman again.
+Val. I will.
+Har.
+(alone). Miscreant! do you mean to ruin me?
+ 
+ 
+ACT IV.
+SCENE I.——CLÉANTE, MARIANNE, ÉLISE, FROSINE.
+Cle.
+Let us come in here; we shall be much better. There is no one
+about us that we need be afraid of, and we can speak openly.
+Eli.
+Yes, Madam, my brother has told me of the love he has for you. I
+know what sorrow and anxiety such trials as these may cause, and I
+assure you that I have the greatest sympathy for you.
+Mar.
+I feel it a great comfort in my trouble to have the sympathy of a
+person like you, and I entreat you, Madam, ever to retain for me a
+friendship so capable of softening the cruelty of my fate.
+Fro.
+You really are both very unfortunate not to have told me of all
+this before. I might certainly have warded off the blow, and not have
+carried things so far.
+Cle.
+What could I do? It is my evil destiny which has willed it so.
+But you, fair Marianne, what have you resolved to do? What resolution
+have you taken?
+Mar.
+Alas! Is it in my power to take any resolution? And, dependent as
+I am, can I do anything else except form wishes?
+Cle.
+No other support for me in your heart? Nothing but mere wishes?
+No pitying energy? No kindly relief? No active affection?
+Mar.
+What am I to say to you? Put yourself in my place, and judge what
+I can possibly do. Advise me, dispose of me, I trust myself entirely
+to you, for I am sure that you will never ask of me anything but what
+is modest and seemly.
+Cle.
+Alas! to what do you reduce me when you wish me to be guided
+entirely by feelings of strict duty and of scrupulous propriety.
+Mar.
+But what would you have me do? Even if I were, for you, to divest
+myself of the many scruples which our sex imposes on us, I have too
+much regard for my mother, who has brought me up with great
+tenderness, for me to give her any cause of sorrow. Do all you can
+with her. Strive to win her. I give you leave to say and do all you
+wish; and if anything depends upon her knowing the true state of my
+feelings, by all means tell her what they are; indeed I will do it
+myself if necessary.
+Cle.
+Frosine, dear Frosine, will you not help us?
+Fro.
+Indeed, I should like to do so, as you know. I am not naturally
+unkind. Heaven has not given me a heart of flint, and I feel but too
+ready to help when I see young people loving each other in all
+earnestness and honesty. What can we do in this case?
+Cle.
+Try and think a little.
+Mar. Advise us.
+Eli.
+Invent something to undo what you have done.
+Fro.
+Rather a difficult piece of business.
+(To Marianne) As far
+as your mother is concerned, she is not altogether unreasonable and we
+might succeed in making her give to the son the gift she reserved for
+the father. (To Cléante)
+But the most disheartening part of it
+all is that your father is your father.
+Cle. Yes, so it is.
+Fro.
+I mean that he will bear malice if he sees that he is refused,
+and he will be in no way disposed afterwards to give his consent to
+your marriage. It would be well if the refusal could be made to come
+from him, and you ought to try by some means or other to make him
+dislike you, Marianne.
+Cle. You are quite right.
+Fro.
+Yes, right enough, no doubt. That is what ought to be done; but
+how in the world are we to set about it? Wait a moment. Suppose we had
+a somewhat elderly woman with a little of the ability which I possess,
+and able sufficiently well to represent a lady of rank, by means of a
+retinue made up in haste, and of some whimsical title of a marchioness
+or viscountess, whom we would suppose to come from Lower Brittany. I
+should have enough power over your father to persuade him that she is
+a rich woman, in possession, besides her houses, of a hundred thousand
+crowns in ready money; that she is deeply in love with him, and that
+she would marry him at any cost, were she even to give him all her
+money by the marriage contract. I have no doubt he would listen to the
+proposal. For certainly he loves you very much, my dear, but he loves
+money still better. When once he has consented to your marriage, it
+does not signify much how he finds out the true state of affairs about
+our marchioness.
+Cle.
+All that is very well made up.
+Fro.
+Leave it to me; I just remember one of my friends who will do
+beautifully.
+Cle.
+Depend on my gratitude, Frosine, if you succeed. But, dear
+Marianne, let us begin, I beg of you, by gaining over your mother; it
+would be a great deal accomplished if this marriage were once broken
+off. Make use, I beseech you, of all the power that her tenderness for
+you gives you over her. Display without hesitation those eloquent
+graces, those all-powerful charms, with which Heaven has endowed your
+eyes and lips; forget not, I beseech you, those sweet persuasions,
+those tender entreaties, those loving caresses to which, I feel,
+nothing could be refused.
+Mar.
+I will do all I can, and will forget nothing.
+ 
+SCENE II.——HARPAGON, MARIANNE, ÉLISE, FROSINE.
+Har. (aside, and without being seen).
+Ah! ah! my son is kissing the
+hand of his intended stepmother, and his intended stepmother does not
+seem much averse to it! Can there be any mystery in all this?
+Eli.
+Here comes my father.
+Har.
+The carriage is quite ready, and you can start when you like.
+Cle.
+Since you are not going, father, allow me to take care of them.
+Har.
+No, stop here; they can easily take care of themselves, and I
+want you.
+ 
+SCENE III.——HARPAGON, CLÉANTE.
+Har.
+Well, now, all consideration of stepmother aside, tell me what do
+you think of this lady?
+Cle.
+What I think of her?
+Har.
+Yes, what do you think of her appearance, her figure, her beauty
+and intelligence?
+Cle. So, so.
+Har. But still?
+Cle.
+To tell you the truth, I did not find her such as I expected. Her
+manner is that of a thorough coquette, her figure is rather awkward,
+her beauty very middling, and her intelligence of the meanest order.
+Do not suppose that I say this to make you dislike her; for if I must
+have a stepmother, I like the idea of this one as well as of any
+other.
+Har.
+You spoke to her just now, nevertheless….
+Cle.
+I paid her several compliments in your name, but it was to please
+you.
+Har.
+So then you don't care for her?
+Cle. Who? I? Not in the least.
+Har.
+I am sorry for it, for that puts an end to a scheme which had
+occurred to me. Since I have seen her here, I have been thinking of my
+own age; and I feel that people would find fault with me for marrying
+so young a girl. This consideration had made me determine to abandon
+the project, and as I had demanded her in marriage, and had given her
+my promise, I would have given her to you if it were not for the
+dislike you have for her.
+Cle. To me?
+Har. To you.
+Cle. In marriage?
+Har. In marriage.
+Cle.
+It is true she is not at all to my taste; but, to please you,
+father, I will bring myself to marry her, if you please.
+Har.
+If I please! I am more reasonable than you think. I don't wish to
+compel you.
+Cle.
+Excuse me! I will make an attempt to love her.
+Har.
+No, no; a marriage cannot be happy where there is no love.
+Cle.
+That, my father, will, perhaps, come by and by, and it is said
+that love is often the fruit of marriage.
+Har.
+No, it is not right to risk it on the side of the man, and there
+are some troublesome things I don't care to run the chance of. If you
+had felt any inclination for her, you should have married her instead
+of me, but as it is, I will return to my first intention and marry her
+myself.
+Cle.
+Well, father, since things are so, I had better be frank with
+you, and reveal our secret to you. The truth is that I have loved her
+ever since I saw her one day on the promenade. I intended to ask you
+today to let me marry her, and I was only deterred from it because you
+spoke of marrying her, and because I feared to displease you.
+Har.
+Have you ever paid her any visits?
+Cle. Yes, father.
+Har. Many?
+Cle.
+Yes; considering how long we have been acquainted.
+Har. You were well received.
+Cle.
+Very well, but without her knowing who I was; and that is why
+Marianne was so surprised when she saw me today.
+Har.
+Have you told her of your love, and of your intention of marrying
+her?
+Cle.
+Certainly, and I also spoke a little to the mother on the
+subject.
+Har.
+Did she kindly receive your proposal for her daughter?
+Cle. Yes, very kindly.
+Har.
+And does the daughter return your love?
+Cle.
+If I can believe appearances, she is certainly well disposed
+towards me.
+Har.
+(aside). Well! I am very glad to have found out this
+secret; it is the very thing I wanted to know. (To his son)
+Now, look here, my son, I tell you what. You will have, if you please,
+to get rid of your love for Marianne, to cease to pay your attentions
+to a person I intend for myself, and to marry very soon the wife I
+have chosen for you.
+Cle.
+So, father, it is thus you deceive me! Very well, since things
+are come to such a pass, I openly declare to you that I shall not give
+up my love for Marianne. No! understand that henceforth there is
+nothing from which I shall shrink in order to dispute her with you;
+and if you have on your side the consent of the mother, perhaps I
+shall have some other resources left to aid me.
+Har.
+What, rascal! You dare to trespass on my grounds?
+Cle.
+It is you who trespass on mine. I was the first.
+Har.
+Am I not your father, and do you not owe me respect?
+Cle.
+There are things in which children are not called upon to pay
+deference to their fathers; and love is no respector of persons.
+Har.
+My stick will make you know me better.
+Cle.
+All your threatenings are nothing to me.
+Har. You will give up Marianne?
+Cle. Never!
+Har.
+Bring me my stick. Quick, I say! my stick!
+ 
+SCENE IV.——HARPAGON, CLÉANTE, MASTER JACQUES.
+Jac.
+Hold! hold! Gentlemen, what does this mean? What are you thinking
+of?
+Cle.
+I don't care a bit for it.
+Jac.
+(to Cléante). Ah! Sir, gently.
+Har.
+He dares to speak to me with such impudence as that!
+Jac.
+(to Harpagon). Ah! Sir, I beg of you.
+Cle. I shall keep to it.
+Jac.
+(to Cléante).
+What! to your father?
+Har. Let me do it.
+Jac.
+(to Harpagon).
+What! to your son? To me it's different.
+Har.
+I will make you judge between us, Master Jacques, so that you may
+see that I have right on my side.
+Jac. Willingly.
+(To Cléante)
+Go a little farther back.
+Har.
+There is a young girl I love and want to marry, and the scoundrel
+has the impudence to love her also, and wants to marry her in spite of
+me.
+Jac. Oh! he is wrong.
+Har.
+Is it not an abominable thing to see a son who does not shrink
+from becoming the rival of his father? And is it not his bounden duty
+to refrain from interfering with my love?
+Jac.
+You are quite right; stop here, and let me go and speak to him.
+Cle.
+(to Master Jacques,
+who comes near him). Very well;
+if he wants to make you a judge between us, I have no objection. I
+care little who it is, and I don't mind referring our quarrel to you.
+Jac. You do me great honour.
+Cle.
+I am in love with a young girl who returns my affection, and who
+receives kindly the offer of my heart; but my father takes it into his
+head to disturb our love by asking her in marriage.
+Jac.
+He certainly is wrong.
+Cle.
+Is it not shameful for a man of his age to think of marrying? I
+ask you if it is right for him to fall in love? and ought he not now
+to leave that to younger men?
+Jac.
+You are quite right; he is not serious; let me speak a word or
+two to him. (To Harpagon)
+Really, your son is not so extravagant
+as you think, and is amenable to reason. He says that he is conscious
+of the respect he owes you, and that he only got angry in the heat of
+the moment. He will willingly submit to all you wish if you will only
+promise to treat him more kindly than you do, and will give him in
+marriage a person to his taste.
+Har.
+Ah! tell him, Master Jacques, that he will obtain everything from
+me on those terms, and that, except Marianne, I leave him free to
+choose for his wife whomsoever he pleases.
+Jac. Leave that to me.
+(To Cléante)
+Really, your father is not
+so unreasonable as you make him out to me; and he tells me that it is
+your violence which irritated him. He only objects to your way of
+doing things, and is quite ready to grant you all you want, provided
+you will use gentle means and will give him the deference, respect,
+and submission that a son owes to his father.
+Cle.
+Ah! Master Jacques, you can assure him that if he grants me
+Marianne, he will always find me the most submissive of men, and that
+I shall never do anything contrary to his pleasure.
+Jac.
+(to Harpagon).
+It's all right; he consents to what you
+say.
+Har. Nothing could be better.
+Jac.
+(to Cléante).
+It's all settled; he is satisfied with your
+promises.
+Cle. Heaven be praised!
+Jac.
+Gentlemen, you have nothing to do but to talk quietly over the
+matter together; you are agreed now, and yet you were on the point of
+quarrelling through want of understanding each other.
+Cle.
+My poor Jacques, I shall be obliged to you all my life.
+Jac.
+Don't mention it, Sir.
+Har.
+You have given me great pleasure, Master Jacques, and deserve a
+reward. (Harpagon feels in his pocket,
+Jacques holds out his
+hand, but Harpagon
+only pulls out his handkerchief, and
+says,) Go; I will remember it, I promise you.
+Jac. I thank you kindly, Sir.
+ 
+SCENE V.——HARPAGON, CLÉANTE.
+Cle.
+I beg your pardon, father, for having been angry.
+Har.
+It is nothing.
+Cle.
+I assure you that I feel very sorry about it.
+Har.
+I am very happy to see you reasonable again.
+Cle.
+How very kind of you so soon to forget my fault.
+Har.
+One easily forgets the faults of children when they return to
+their duty.
+Cle.
+What! you are not angry with me for my extravagant behaviour?
+Har.
+By your submission and respectful conduct you compel me to forget
+my anger.
+Cle.
+I assure you, father, I shall for ever keep in heart the
+remembrance of all your kindness.
+Har.
+And I promise you that, in future, you will obtain all you like
+from me.
+Cle.
+Oh, father! I ask nothing more; it is sufficient for me that you
+give me Marianne.
+Har. What?
+Cle.
+I say, father, that I am only too thankful already for what you
+have done, and that when you give me Marianne, you give me everything.
+Har.
+Who talks of giving you Marianne?
+Cle. You, father.
+Har. I?
+Cle. Yes.
+Har.
+What! is it not you who promised to give her up?
+Cle. I! give her up?
+Har. Yes.
+Cle.
+Certainly not.
+Har.
+Did you not give up all pretensions to her?
+Cle.
+On the contrary, I am more determined than ever to have her.
+Har.
+What, scoundrel! again?
+Cle.
+Nothing can make me change my mind.
+Har.
+Let me get at you again, wretch!
+Cle. You can do as you please.
+Har.
+I forbid you ever to come within my sight.
+Cle. As you like.
+Har. I abandon you.
+Cle. Abandon me.
+Har. I disown you.
+Cle. Disown me.
+Har. I disinherit you.
+Cle. As you will.
+Har.
+I give you my curse.
+Cle.
+I want none of your gifts.
+ 
+SCENE VI.——CLÉANTE, LA FLÈCHE.
+La Fl.
+(leaving the garden with a casket). Ah! Sir, you are
+just in the nick of time. Quick! follow me.
+Cle. What is the matter?
+La Fl.
+Follow me, I say. We are saved.
+Cle. How?
+La Fl.
+Here is all you want.
+Cle. What?
+La Fl.
+I have watched for this all day.
+Cle. What is it?
+La Fl.
+Your father's treasure that I have got hold of.
+Cle.  How did you manage it?
+La Fl.
+I will tell you all about it. Let us be off. I can hear him
+calling out.
+ 
+SCENE VII.——HARPAGON, from the garden, rushing in without his hat,
+and crying—
+Thieves! thieves! assassins! murder! Justice, just heavens! I am
+undone; I am murdered; they have cut my throat; they have stolen my
+money! Who can it be? What has become of him? Where is he? Where is he
+hiding himself? What shall I do to find him? Where shall I run? Where
+shall I not run? Is he not here? Who is this? Stop! (To himself,
+taking hold of his own arm) Give me back my money, wretch….
+Ah…! it is myself…. My mind is wandering, and I know not where I
+am, who I am, and what I am doing. Alas! my poor money! my poor money!
+my dearest friend, they have bereaved me of thee; and since thou art
+gone, I have lost my support, my consolation, and my joy. All is ended
+for me, and I have nothing more to do in the world! Without thee it is
+impossible for me to live. It is all over with me; I can bear it no
+longer. I am dying; I am dead; I am buried. Is there nobody who will
+call me from the dead, by restoring my dear money to me, or by telling
+me who has taken it? Ah! what is it you say? It is no one. Whoever has
+committed the deed must have watched carefully for his opportunity,
+and must have chosen the very moment when I was talking with my
+miscreant of a son. I must go. I will demand justice, and have the
+whole of my house put to the torture—my maids and my valets, my son,
+my daughter, and myself too. What a crowd of people are assembled
+here! Everyone seems to be my thief. I see no one who does not rouse
+suspicion in me. Ha! what are they speaking of there? Of him who stole
+my money? What noise is that up yonder? Is it my thief who is there?
+For pity's sake, if you know anything of my thief, I beseech you to
+tell me. Is he hiding there among you? They all look at me and laugh.
+We shall see that they all have a share in the robbery. Quick!
+magistrates, police, provosts, judges, racks, gibbets, and
+executioners. I will hang everybody, and if I do not find my money, I
+will hang myself afterwards.
+ 
+ 
+ACT V.
+SCENE I.——HARPAGON, A POLICE OFFICER.
+Off.
+Leave that to me. I know my business. Thank Heaven! this is not
+the first time I have been employed in finding out thieves; and I wish
+I had as many bags of a thousand francs as I have had people hanged.
+Har.
+Every magistrate must take this affair in hand; and if my money
+is not found, I shall call justice against justice itself.
+Off.
+We must take all needful steps. You say there was in that
+casket…?
+Har.
+Ten thousand crowns in cash.
+Off.
+Ten thousand crowns!
+Har.
+Ten thousand crowns.
+Off.
+A considerable theft.
+Har.
+There is no punishment great enough for the enormity of the
+crime; and if it remain unpunished, the most sacred things are no
+longer secure.
+Off.
+In what coins was that sum?
+Har.
+In good louis d'or and pistoles of full weight.
+Off.
+Whom do you suspect of this robbery?
+Har.
+Everybody. I wish you to take into custody the whole town and
+suburbs.
+Off.
+You must not, if you trust me, frighten anybody, but must use
+gentle means to collect evidence, in order afterwards to proceed with
+more rigour for the recovery of the sum which has been taken from you.
+ 
+SCENE II.——HARPAGON, THE POLICE OFFICER, MASTER JACQUES.
+Jac.
+(at the end of the stage, turning back to the door by which he
+came in). I am coming back. Have his throat cut at once; have his
+feet singed; put him in boiling water, and hang him up to the ceiling.
+Har. What! Him who has robbed me?
+Jac.
+I was speaking of a sucking pig that your steward has just sent
+me; and I want to have it dressed for you after my own fancy.
+Har.
+This is no longer the question; and you have to speak of
+something else to this gentleman.
+Off. (to
+Jacques). Don't get frightened. I am not a man to
+cause any scandal, and matters will be carried on by gentle means.
+Jac. (to
+Harpagon). Is this gentleman coming to supper with
+you?
+Off.
+You must, in this case, my good man, hide nothing from your
+master.
+Jac.
+Indeed, Sir, I will show you all I know, and will treat you in
+the best manner I possibly can.
+Off.
+That's not the question.
+Jac.
+If I do not give as good fare as I should like, it is the fault
+of your steward, who has clipped my wings with the scissors of his
+economy.
+Har. R
+ascal! We have other matters to talk about than your supper; and
+I want you to tell me what has become of the money which has been
+stolen from me.
+Jac.
+Some money has been stolen from you?
+Har.
+Yes, you rascal! And I'll have you hanged if you don't give it me
+back again.
+Off. (to Harpagon).
+Pray, don't be hard upon him. I see by his
+looks that he is an honest fellow, and that he will tell you all you
+want to know without going to prison. Yes, my friend, if you confess,
+no harm shall come to you, and you shall be well rewarded by your
+master. Some money has been stolen from him, and it is not possible
+that you know nothing about it.
+Jac. (aside).
+The very thing I wanted in order to be revenged
+of our steward. Ever since he came here, he has been the favourite,
+and his advice is the only one listened to. Moreover, I have forgotten
+neither the cudgelling of to-day nor …
+Har.
+What are you muttering about there?
+Off. (to
+Harpagon).
+Leave him alone. He is preparing himself to
+satisfy you; I told you that he was an honest fellow.
+Jac.
+Sir, since you want me to tell you what I know, I believe it is
+your steward who has done this.
+Har. Valère?
+Jac. Yes.
+Har.
+He who seemed so faithful to me!
+Jac.
+Himself. I believe that it is he who has robbed you.
+Har.
+And what makes you believe it?
+Jac.
+What makes me believe it?
+Har. Yes.
+Jac.
+I believe it … because I believe it.
+Off.
+But you must tell us the proofs you have.
+Har.
+Did you see him hanging about the place where I had put my money?
+Jac. Yes, indeed. Where was your money?
+Har. In the garden.
+Jac.
+Exactly; I saw him loitering about in the garden; and in what was
+your money?
+Har.
+In a casket.
+Jac.
+The very thing. I saw him with a casket.
+Har.
+And this casket, what was it like? I shall soon see if it is
+mine.
+Jac.
+What it was like?
+Har. Yes.
+Jac.
+It was like … like a casket.
+Off.
+Of course. But describe it a little, to see if it is the same.
+Jac.
+It was a large casket.
+Har.
+The one taken from me is a small one.
+Jac.
+Yes, small if you look at it in that way; but I call it large
+because of what it contains.
+Har.
+And what colour was it?
+Jac. What colour?
+Off. Yes.
+Jac.
+Of a colour … of a certain colour…. Can't you help me to find
+the word?
+Har. Ugh!
+Jac. Red; isn't it?
+Har. No, grey.
+Jac.
+Ha! yes, reddish-grey! That's what I meant.
+Har.
+There is no doubt about it, it's my casket for certain. Write
+down his evidence, Sir! Heavens! whom can we trust after that? We must
+never swear to anything, and I believe now that I might rob my own
+self.
+Jac.
+(to Harpagon).
+There he is coming back, Sir; I beg of you
+not to go and tell him that it was I who let it all out, Sir.
+ 
+SCENE III.——HARPAGON,
+THE POLICE OFFICER, VALÈRE, MASTER JACQUES.
+Har.
+Come, come near, and confess the most abominable action, the most
+horrible crime, that was ever committed.
+Val.
+What do you want, Sir?
+Har.
+What, wretch! you do not blush for shame after such a crime?
+Val.
+Of what crime do you speak?
+Har.
+Of what crime I speak? Base villain, as if you did not know what
+I mean! It is in vain for you to try to hide it; the thing is
+discovered, and I have just heard all the particulars. How could you
+thus abuse my kindness, introduce yourself on purpose into my house to
+betray me, and to play upon me such an abominable trick?
+Val.
+Sir, since everything is known to you, I will neither deny what I
+have done nor will I try to palliate it.
+Jac.
+(aside). Oh! oh! Have I guessed the truth?
+Val.
+I intended to speak to you about it, and I was watching for a
+favourable opportunity; but, as this is no longer possible, I beg of
+you not to be angry, and to hear my motives.
+Har.
+And what fine motives can you possibly give me, infamous thief?
+Val.
+Ah! Sir, I do not deserve these names. I am guilty towards you,
+it is true; but, after all, my fault is pardonable.
+Har.
+How pardonable? A premeditated trick, and such an assassination
+as this!
+Val.
+I beseech you not to be so angry with me. When you have heard all
+I have to say, you will see that the harm is not so great as you make
+it out to be.
+Har.
+The harm not so great as I make it out to be! What! my heart's
+blood, scoundrel!
+Val.
+Your blood, Sir, has not fallen into bad hands. My rank is high
+enough not to disgrace it, and there is nothing in all this for which
+reparation cannot be made.
+Har.
+It is, indeed, my intention that you should restore what you have
+taken from me.
+Val.
+Your honour, Sir, shall be fully satisfied.
+Har.
+Honour is not the question in all this. But tell me what made you
+commit such a deed?
+Val.
+Alas! do you ask it?
+Har.
+Yes, I should rather think that I do.
+Val.
+A god, Sir, who carries with him his excuses for all he makes
+people do: Love.
+Har. Love?
+Val. Yes.
+Har.
+Fine love that! fine love, indeed! the love of my gold!
+Val.
+No, Sir, it is not your wealth that has tempted me, it is not
+that which has dazzled me; and I swear never to pretend to any of your
+possessions, provided you leave me what I have.
+Har.
+In the name of all the devils, no, I shall not leave it to you.
+But did anyone ever meet with such villainy! He wishes to keep what he
+has robbed me of!
+Val. Do you call that a robbery?
+Har.
+If I call that a robbery? A treasure like that!
+Val.
+I readily acknowledge that it is a treasure, and the most
+precious one you have. But it will not be losing it to leave it to me.
+I ask you on my knees to leave in my possession this treasure so full
+of charms; and if you do right, you will grant it to me.
+Har.
+I will do nothing of the kind. What in the world are you driving
+at?
+Val.
+We have pledged our faith to each other, and have taken an oath
+never to forsake one another.
+Har.
+The oath is admirable, and the promise strange enough!
+Val.
+Yes, we are engaged to each other for ever.
+Har.
+I know pretty well how to disengage you, I assure you of that.
+Val.
+Nothing but death can separate us.
+Har.
+You must be devilishly bewitched by my money.
+Val.
+I have told you already, Sir, that it is not self-interest which
+has prompted me to what I have done. It was not that which prompted my
+heart; a nobler motive inspired me.
+Har.
+We shall hear presently that it is out of Christian charity that
+he covets my money! But I will put a stop to all this, and justice,
+impudent rascal, will soon give me satisfaction.
+Val.
+You will do as you please, and I am ready to suffer all the
+violence you care to inflict upon me, but I beg of you to believe, at
+least, that if there is any harm done, I am the only one guilty, and
+that your daughter has done nothing wrong in all this.
+Har.
+I should think not! It would be strange, indeed, if my daughter
+had a share in this crime. But I will have that treasure back again,
+and you must confess to what place you have carried it off.
+6
+
+Val.
+I have not carried it off, and it is still in your house.
+Har. (aside). O my beloved casket!
+(To Valère) My
+treasure has not left my house?
+Val. No, Sir.
+Har.
+Well, then, tell me, have you taken any liberties with…?
+Val.
+Ah! Sir, you wrong us both; the flame with which I burn is too
+pure, too full of respect.
+Har.
+(aside). He burns for my casket!
+Val.
+I had rather die than show the least offensive thought: I found
+too much modesty and too much purity for that.
+Har. (aside). My cash-box modest!
+Val.
+All my desires were limited to the pleasures of sight, and
+nothing criminal has profaned the passion those fair eyes have
+inspired me with.
+Har. (aside).
+The fair eyes of my cash-box! He speaks of it as
+a lover does of his mistress.
+Val.
+Dame Claude knows the whole truth, and she can bear witness to
+it.
+Har.
+Hallo! my servant is an accomplice in this affair?
+Val.
+Yes, Sir, she was a witness to our engagement; and it was after
+being sure of the innocence of my love that she helped me to persuade
+your daughter to engage herself to me.
+Har. Ah!
+(Aside) Has the fear of justice made him lose his
+senses? (To Valère)
+What rubbish are you talking about my
+daughter?
+Val.
+I say, Sir, that I found it most difficult to make her modesty
+consent to what my love asked of her.
+Har.
+The modesty of whom?
+Val.
+Of your daughter; and it was only yesterday that she could make
+up her mind to sign our mutual promise of marriage.
+Har.
+My daughter has signed a promise of marriage?
+Val.
+Yes, Sir, and I have also signed.
+Har.
+O heavens! another misfortune!
+Jac.
+(to the Officer).
+Write, Sir, write.
+Har. Aggravation of misery!
+Excess of despair! (To the Officer)
+Sir, discharge your duty, and draw me up an indictment against him as
+a thief and a suborner.
+Jac.
+As a thief and a suborner.
+Val.
+These are names which I do not deserve, and when you know who I
+am …
+ 
+SCENE IV.——HARPAGON, ÉLISE, MARIANNE,
+VALÈRE, FROSINE, MASTER JACQUES, THE POLICE OFFICER.
+Har.
+Ah! guilty daughter! unworthy of a father like me! is it thus
+that you put into practice the lessons I have given you? You give your
+love to an infamous thief, and engage yourself to him without my
+consent! But you shall both be disappointed.
+(To Élise) Four
+strong walls will answer for your conduct in the future; (to
+Valère)
+and good gallows, impudent thief, shall do me justice for your
+audacity.
+Val.
+Your anger will be no judge in this affair, and I shall at least
+have a hearing before I am condemned.
+Har.
+I was wrong to say gallows; you shall be broken alive on the
+wheel.
+Eli.
+(kneeling to her father). Ah! my father, be more merciful,
+I beseech you, and do not let your paternal authority drive matters to
+extremes. Do not suffer yourself to be carried away by the first
+outburst of your anger, but give yourself time to consider what you
+do. Take the trouble of inquiring about him whose conduct has offended
+you. He is not what you imagine, and you will think it less strange
+that I should have given myself to him, when you know that without him
+you would long ago have lost me for ever. Yes, father, it is he who
+saved me from the great danger I ran in the waters, and to whom you
+owe the life of that very daughter who …
+Har.
+All this is nothing; and it would have been much better for me if
+he had suffered you to be drowned rather than do what he has done.
+Eli.
+My father, I beseech you, in the name of paternal love, grant
+me …
+Har.
+No, no. I will hear nothing, and justice must have its course.
+Jac. (aside).
+You shall pay me for the blows you gave me.
+Fro.
+What a perplexing state of affairs!
+ 
+SCENE V.——ANSELME, HARPAGON, ÉLISE,
+MARIANNE, FROSINE, VALÈRE, THE POLICE OFFICER, MASTER JACQUES.
+Ans.
+What can have happened, Mr. Harpagon? You are quite upset.
+Har.
+Ah, Mr. Anselme, you see in me the most unfortunate of men; and
+you can never imagine what vexation and disorder is connected with the
+contract you have come to sign! I am attacked in my property; I am
+attacked in my honour; and you see there a scoundrel and a wretch who
+has violated the most sacred rights, who has introduced himself into
+my house as a servant in order to steal my money, and seduce my
+daughter.
+Val.
+Who ever thought of your money about which you rave?
+Har.
+Yes; they have given each other a promise of marriage. This
+insult concerns you, Mr. Anselme; and it is you who ought to be
+plaintiff against him, and who at your own expense ought to prosecute
+him to the utmost, in order to be revenged.
+Ans.
+It is not my intention to force anybody to marry me, and to lay
+claim to a heart which has already bestowed itself; but as far as your
+interests are concerned, I am ready to espouse them as if they were my
+own.
+Har.
+This is the gentleman, an honest commissary, who has promised
+that he will omit nothing of what concerns the duties of his office.
+(To the Officer, showing
+Valère) Charge him, Sir, as he
+ought to be, and make matters very criminal.
+Val.
+I do not see what crime they can make of my passion for your
+daughter, nor the punishment you think I ought to be condemned to for
+our engagement; when it is known who I am …
+Har.
+I don't care a pin for all those stories, and the world is full,
+nowadays, of those pretenders to nobility, of those impostors, who
+take advantage of their obscurity and deck themselves out insolently
+with the first illustrious name that comes into their head.
+Val.
+Know that I am too upright to adorn myself with a name which is
+not mine, and that all Naples can bear testimony to my birth!
+Ans.
+Softly! Take care of what you are about to say. You speak before
+a man to whom all Naples is known, and who can soon see if your story
+is true.
+Val. (proudly putting on his hat).
+I am not the man to fear
+anything; and if all Naples is known to you, you know who was Don
+Thomas d'Alburci.
+Ans.
+Certainly; I know who he is, and few people know him better than
+I do.
+Har.
+I care neither for Don Thomas nor Don Martin. (Seeing two
+candles burning, he blows one out.)
+Ans.
+Have patience and let him speak; we shall soon know what he has
+to say of him.
+Val.
+That it is to him that I owe my birth.
+Ans. To him?
+Val. Yes.
+Ans.
+Nonsense; you are laughing. Try and make out a more likely story,
+and don't pretend to shelter yourself under such a piece of imposture.
+Val.
+Consider your words better before you speak; it is no imposture,
+and I say nothing here that I cannot prove.
+Ans.
+What! You dare to call yourself the son of Don Thomas d'Alburci?
+Val.
+Yes, I dare to do so; and I am ready to maintain the truth
+against anyone, who ever he may be.
+Ans.
+This audacity is marvellous. Learn to your confusion that it is
+now at least sixteen years ago since the man of whom you speak died in
+a shipwreck at sea with his wife and children, when he was trying to
+save their lives from the cruel persecutions which accompanied the
+troubles at Naples, and which caused the banishment of several noble
+families.
+Val.
+Yes; but learn to your confusion that his son, seven
+years of age, was, with a servant, saved from the wreck by a Spanish
+vessel, and that this son is he who now speaks to you. Learn that the
+captain of that ship, touched with compassion at my misfortune, loved
+me; that he had me brought up as his own son, and that the profession
+of arms has been my occupation ever since I was fit for it; that
+lately I heard that my father is not dead, as I thought he was; that,
+passing this way to go and find him out, an accident, arranged by
+heaven, brought to my sight the charming Élise; that the sight of her
+made me a slave to her beauty, and that the violence of my love and
+the harshness of her father made me take the resolution to come into
+his house disguised as a servant, and to send some one else to look
+after my parents.
+Ans.
+But what other proofs have you besides your own words that all
+this is not a fable based by you upon truth.
+Val.
+What proofs? The captain of the Spanish vessel; a ruby seal which
+belonged to my father; an agate bracelet which my mother put upon my
+arm; and old Pedro, that servant who was saved with me from the wreck.
+Mar.
+Alas! I can answer here for what you have said; that you do not
+deceive us; and all you say clearly tells me that you are my brother.
+Val. You my sister!
+Mar.
+Yes, my heart was touched as soon as you began to speak; and our
+mother, who will be delighted at seeing you, often told me of the
+misfortunes of our family. Heaven spared us also in that dreadful
+wreck; but our life was spared at the cost of our liberty, for my
+mother and myself were taken up by pirates from the wreck of our
+vessel. After ten years of slavery a lucky event gave us back to
+liberty, and we returned to Naples, where we found all our property
+sold, and could hear no news of our father. We embarked for Genoa,
+where my mother went to gather what remained of a family estate which
+had been much disputed. Leaving her unjust relatives, she came here,
+where she has lived but a weary life.
+Ans.
+O heaven! how wonderful are thy doings, and how true it is that
+it only belongs to thee to work miracles! Come to my arms, my
+children, and share the joy of your happy father!
+Val.
+You are our father?
+Mar.
+It was for you that my mother wept?
+Ans.
+Yes, my daughter; yes, my son; I am Don Thomas d'Alburci, whom
+heaven saved from the waves, with all the money he had with him, and
+who, after sixteen years, believing you all dead, was preparing, after
+long journeys, to seek the consolations of a new family in marrying a
+gentle and virtuous woman. The little security there was for my life
+in Naples has made me abandon the idea of returning there, and having
+found the means of selling what I had, I settled here under the name
+of Anselme. I wished to forget the sorrows of a name associated with
+so many and great troubles.
+Har. (to
+Anselme). He is your son?
+Ans. Yes.
+Har.
+That being so, I make you responsible for the ten thousand crowns
+that he has stolen from me.
+Ans.
+He steal anything from you!
+Har. Yes.
+Val. Who said so?
+Har.
+Master Jacques.
+Val.
+(to Master Jacques). You say that?
+Jac.
+You see that I am not saying anything.
+Har.
+He certainly did. There is the officer who has received his
+deposition.
+Val.
+Can you really believe me capable of such a base action?
+Har.
+Capable or not capable, I must find my money.
+ 
+SCENE VI.——HARPAGON, ANSELME, ÉLISE, MARIANNE,
+CLÉANTE, VALÈRE, FROSINE, THE POLICE OFFICER,
+MASTER JACQUES, LA FLÈCHE.
+Cle.
+Do not grieve for your money, father, and accuse any one. I have
+news of it, and I come here to tell you that if you consent to let me
+marry Marianne, your money will be given back to you.
+Har. Where is it?
+Cle.
+Do not trouble yourself about that. It is in a safe place, and I
+answer for it; everything depends on your resolve. It is for you to
+decide, and you have the choice either of losing Marianne or your
+cash-box.
+Har.
+Has nothing been taken out?
+Cle.
+Nothing at all. Is it your intention to agree to this marriage,
+and to join your consent to that of her mother, who leaves her at
+liberty to do as she likes?
+Mar.
+(to Cléante).
+But you do not know that this consent is no
+longer sufficient, and that heaven has given me back a brother
+(showing Valère),
+at the same time that it has given me back a
+father (showing Anselme);
+and you have now to obtain me from him.
+Ans.
+Heaven, my dear children, has not restored you to me that I might
+oppose your wishes. Mr. Harpagon, you must be aware that the choice of
+a young girl is more likely to fall upon the son than upon the father.
+Come, now, do not force people to say to you what is unnecessary, and
+consent, as I do, to this double marriage.
+Har.
+In order for me to be well advised, I must see my casket.
+Cle.
+You shall see it safe and sound.
+Har.
+I have no money to give my children in marriage.
+Ans.
+Never mind, I have some; do not let this trouble you.
+Har.
+Do you take upon yourself to defray the expenses of these two
+weddings?
+Ans.
+Yes, I will take this responsibility upon myself. Are you
+satisfied?
+Har.
+Yes, provided you order me a new suit of clothes for the wedding.
+Ans.
+Agreed! Let us go and enjoy the blessings this happy day brings
+us.
+Off.
+Stop, Sirs, stop; softly, if you please. Who is to pay me for my
+writing?
+Har.
+We have nothing to do with your writing.
+Off.
+Indeed! and yet I do not pretend to have done it for nothing.
+Har.
+(showing Master Jacques).
+There is a fellow you can hang
+in payment!
+Jac.
+Alas! what is one to do? I receive a good cudgelling for telling
+the truth, and now they would hang me for lying.
+Ans.
+Mr. Harpagon, you must forgive him this piece of imposture.
+Har.
+You will pay the officer then?
+Ans.
+Let it be so. Let us go quickly, my children, to share our joy
+with your mother!
+Har.
+And I to see my dear casket
+ 
+THE END
+ 
+
+FOOTNOTES
+
+1. An old comic pastoral.
+
+2. The real hero in Rabelais' 'Pantagruel.'
+
+3. Frosine professes a knowledge of palmistry.
+
+4. Old enemies. The Turks took Candia from
+the Venetians in 1669, after a war of twenty years.
+
+5. Molière makes use even of his own infirmities.
+Compare act i. scene iii. This cough killed him at last.
+
+6. A good deal of the mystification
+is lost in the translation through the necessity of occasionally
+putting it for casket, and she for Élise.
+ 
+ 
+
+***END OF THE PROJECT GUTENBERG EBOOK THE MISER (L'AVARE)***
+******* This file should be named 6923-h.txt or 6923-h.zip *******
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/6/9/2/6923
+Updated editions will replace the previous one--the old editions
+will be renamed.
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.gutenberg.org/fundraising/pglaf.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://www.gutenberg.org/about/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://www.gutenberg.org/fundraising/pglaf
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://www.gutenberg.org/fundraising/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://www.gutenberg.org/dirs/etext06/
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+http://www.gutenberg.org/dirs/1/0/2/3/10234
+
+or filename 24689 would be found at:
+http://www.gutenberg.org/dirs/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+http://www.gutenberg.org/dirs/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***

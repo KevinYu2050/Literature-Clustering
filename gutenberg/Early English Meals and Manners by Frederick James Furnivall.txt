@@ -1,0 +1,3365 @@
+Early English Meals and Manners
+
+
+
+
+
+The Project Gutenberg EBook of Early English Meals and Manners, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Early English Meals and Manners
+
+Author: Various
+
+Editor: Frederick Furnivall
+
+Release Date: March 9, 2008 [EBook #24790]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK EARLY ENGLISH MEALS AND MANNERS ***
+
+
+
+
+Produced by Louise Hope, Kathryn Lybarger and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+This e-text includes characters that will only display in UTF-8
+(Unicode) file encoding:
+
+ȝ (yogh)
+œ (oe ligature)
+There are also a few lines of Greek, and some rarer characters used
+only in one or two selections:
+
+ſ (long s)
+ł, đ (l, d with bar)
+m̅ (m with overline)
+If these characters do not display properly, or if the apostrophes
+and quotation marks in this paragraph appear as garbage, you may have an
+incompatible browser or unavailable fonts. First, make sure that the
+browser’s “character set” or “file encoding” is set to Unicode (UTF-8).
+You may also need to change your browser’s default font.
+
+The text is intended to reproduce the layout of the original as
+closely as possible. If you see a horizontal scroll bar, it may help to
+make your browser window narrower (not wider).
+Headnotes were printed at the top of alternate pages, like
+subsidiary chapter headings. They have been retained in the introductory
+section but were omitted from the main text to reduce visual
+clutter.
+Text-Critical Notes and variant readings have been handled
+differently than in the printed book, where they appeared either as
+footnotes (numbered) or sidenotes (sometimes but not always marked).
+Here, the word they refer to is underlined if necessary, and the note itself will
+generally have this form:
+
+leak] the t of the MS. has a k over it.
+
+
+
+Contents (general)
+
+All items except the Table of Contents, the Collations and
+Corrigenda,
+and the Sidenotes are in separate files.
+
+
+Preface, including Early English Text
+Society material
+Full Table of Contents
+Collations and Corrigenda
+Russell’s Boke of
+Nurture, with Notes
+Shorter Selections
+Index to all Readings
+Collected Sidenotes (section
+added by transcriber)
+
+
+
+
+ 
+
+
+
+The title page was printed again before the General Preface. In the e-text
+it will there be shown as plain text.
+Typography of the table of contents is as close as possible to the
+original. Titles shown in small
+capitals generally represent longer selections.
+
+
+CONTENTS.
+
+
+
+
+
+PAGE
+
+
+
+FOREWORDS, OR GENERAL
+PREFACE
+i
+
+
+
+Education in Early
+England
+iv
+
+
+
+Cleanliness, or Dirt, of Men,
+Houses, &c.
+
+lxiii
+
+
+
+Notice of the separate Poems
+up to Russell
+
+lxviii
+
+
+
+
+PREFACE TO RUSSELL’S BOKE OF NURTURE,
+and the Poems and Treatises following it (except those in the
+Postscript)
+
+lxix
+
+
+
+COLLATIONS AND CORRECTIONS
+xcii
+
+
+
+JOHN RUSSELL’S BOKE OF
+NURTURE
+
+ 1
+
+
+
+(Contents thereof,
+inserted after title; Notes
+thereon, p. 84. Lawrens
+Andrewe on Fish, p. 113.)
+
+
+
+
+
+Wilyam Bulleyn on Boxyng and
+Neckeweede
+
+124
+
+
+
+Andrew Borde on Sleep, Rising, and
+Dress
+
+128
+
+
+
+William Vaughan’s Fifteen Directions
+to preserve Health
+
+133
+
+
+
+The Dyet for every Day (from
+Sir John Harington’s Schoole of Salerne)
+
+138
+
+
+
+On Rising, Diet, and Going
+to Bed (from the same)
+
+140
+
+
+
+Recipes (for Fritters,
+Jussell, and Mawmeny)
+
+145
+
+
+
+Recipes (for Hares and Conies
+in Civeye, and for Doucettes)
+
+146
+
+
+
+WYNKYN DE WORDE’S BOKE OF KERUYNGE (ed.
+1513)
+
+147
+
+
+
+(Contents thereof,
+p. 150;
+Notes thereon,
+p. 173.
+Note on the first edition of
+1508,
+p. lxxxvii.)
+
+
+
+
+
+The
+Boke of Curtasye (from the Sloane MS. 1986, ab. 1460 A.D.)
+
+175
+
+
+
+Contents thereof,
+p. 176. Notes thereto,
+p. 283
+
+
+
+
+
+The Booke
+of Demeanor (from The Schoole of Vertue by Richard Weste)
+
+207
+
+
+
+Bp. Grossetest’s Household
+Statutes (from the Sloane MS. 1986)
+
+215
+
+
+
+Stanzas and Couplets of Counsel
+(from the Rawlinson MS. C. 86)
+
+219
+
+
+
+The Schoole
+of Vertue by F. Seager (A.D. 1557)
+
+221
+
+
+
+Whate-ever thow sey, avyse thee
+welle!
+
+244
+
+
+
+A Dogg Lardyner, & a Sowe
+Gardyner
+
+246
+
+
+
+Maxims in -ly
+247
+
+
+
+Roger Ascham’s Advice to Lord
+Warwick’s Servant
+
+248
+
+
+
+The Babees
+Book, (or a ‘lytyl Reporte’ of how Young People should
+behave)
+
+250
+
+
+
+
+Lerne or be Lewde
+258
+
+
+
+The A B C of Aristotle
+260
+
+
+
+Vrbanitatis
+262
+
+
+
+The Boris Hede furst
+264*
+
+
+
+The Lytylle Childrenes Lytil
+Boke, or Edyllys be (on left-hand pages to p. 273)
+
+265
+
+
+
+The Young Children’s Book
+(on right-hand pages to p. 274)
+
+266
+
+
+
+Stans Puer ad Mensam (in
+English, from MS. Harl. 2251; on left-hand pages to p. 281)
+
+275
+
+
+
+The Book of Curteisie that is
+clepid Stans Puer ad Mensam (from Lambeth MS. 853; on
+right-hand pages to p. 282)
+
+276
+
+
+
+Notes to the Boke of
+Curtasye, &c.
+
+283
+
+
+
+Index to the Poems,
+&c. (before the Postscript)
+
+286
+
+
+
+⁂ POSTSCRIPT (added after the Index was printed).
+
+
+
+
+Ffor to
+serve a Lord (see Preface
+to Russell, p. lxxii.), with A Feste for a Bryde,
+p. 358
+
+349
+
+
+
+Suffer, and hold your tongue
+361
+
+
+
+The Houshold Stuff occupied
+at the Lord Mayor’s Feast, A.D.
+1505
+
+362
+
+
+
+The Ordre of goyng or sittyng
+365
+
+
+
+Latin Graces
+366
+
+
+
+Symon’s Lesson of Wysedome for all maner
+Chyldryn
+
+381
+
+
+
+The Birched School-Boy of
+about 1500 A.D.
+
+385
+
+
+
+The Song of the School-Boy at
+Christmas
+
+387
+
+
+
+The Boar’s Head
+388
+
+
+
+xcii
+ 
+
+
+COLLATIONS.
+
+These are given as a warning to other editors either to collate in
+foot-notes or not at all. The present plan takes up as much room as
+printing a fresh text would, and gives needless trouble to every one
+concerned.
+
+This section is included for completeness. The collations have also been
+incorporated into their respective texts.
+
+p.
+260. The A B C of Aristotle, Harl. MS. 1706, fol. 94,
+collated by Mr Brock, omits the prologue, and begins after l. 14
+with, “Here be-gynnethe Arystoles A B C. made be mayster
+Benett.”
+A, for argue not read Angre the
+B, omit ne; for not to large read thou nat to
+brode
+D,   „     „ ; for not read thow nat
+E,   „     „ ; for to eernesful read ne
+curyons
+F, for fers, famuler, freendli, read Ferde, familier,
+frenfulle
+G, omit to; for & gelosie þou hate, read Ne
+to galaunt never
+H, for in þine read off
+I, for iettynge read Iocunde; for iape not to
+read Ioye thow nat
+K, omit to and &; for knaue read
+knaves
+L, for for to leene read ne to lovyng; for
+goodis read woordys
+M, for medelus read Mellous; for but as mesure
+wole it meeue read ne to besynesse vnleffulle
+N, for ne use no new iettis read ne noughte to
+neffangle
+O, for ouerþwart read ouertwarthe; for
+& ooþis þou hate read Ne othez to haunte
+Q, for quarelose read querelous; for weel ȝoure
+souereyns read men alle abowte
+R, omit the second to; for not to rudeli read
+thou nat but lyte
+S, for ne straungeli to stare read Ne starte nat
+abowte
+T, for for temperaunce is best read But
+temperate euere
+V, for ne &c. read ne violent Ne waste nat to
+moche
+W, for neiþer &c. read Ne to wyse deme the
+¶ for is euere þe beste of read ys best for vs
+Add X Y Z x y wyche esed &
+per se.
+
+
+Tytelle Tytelle Tytelle thañ Esta Amen.
+
+xciii
+ 
+
+
+
+p. 265,
+
+The Lytylle Childrenes Lytil
+Boke, with part of the Advocates Library MS., fol. 84, back
+(collated by Mr David Laing).
+l. 1, for children̄ read childur
+l. 2, dele þat
+l. 3 dele For
+l. 6, for with mary, read oure Lady
+l. 7, for arn̄ read byn
+l. 9, prefix Forst to Loke
+and for wasshe read wasshyd
+l. 12, for tylle read to
+l. 13, prefix And to Loke
+l. 14, is, To he yt reweleth ye howse
+ye bytt
+l. 16, put the that between loke and on
+l. 17, for without any faylys read withowtte fayle
+l. 18, for hungery aylys read empty ayle
+l. 20, for ete esely read etett eysely
+
+
+
+p. 267,
+
+l. 25, for mosselle read morsselle
+l. 26, for in read owt of
+l. 30, for Into thy read nor in the
+for thy salte read hit
+l. 31, for fayre on þi read on a
+l. 32, for The byfore read Byfore the
+and dele þyne
+ll. 33-4, are Pyke not yi tethe wyth yi
+knyfe
+Whyles yu etyst be yi lyfe
+
+
+
+The poem in the Advocates’ MS. has 108 lines, and fills 5 pages of
+the MS. (Wynkyn de Worde’s version ends with this, after l. 105, ‘And in
+his laste ende wyth the swete Ihesus. Amen. Here endeth the boke of
+curtesye.’)
+
+
+
+p. 265.
+The Lytylle Childrenes Lytil
+Boke collated with the Cambridge University MS., by Mr Henry
+Bradshaw. Hem is always written for him in this MS., and
+so with other words.
+l. 2, for wrytyne read brekeyd
+l. 6, for Elizabeth read cortesey
+l. 7, for closide read clodyd
+l. 10, for on read yn
+l. 11, 12, for þou read ye
+l. 14, for hous the bydde read hall þe beyt
+l. 15, for þe read they
+l. 16, for on read no
+l. 17, for any faylys read fayle
+l. 18, for aylys read heydyt
+l. 19, for Ete ... hastely read yet ... hastey
+l. 20, prefix Bot to Abyde
+for esely read all yesley
+
+
+
+p. 267,
+l. 23, for Kerue not thy brede read Kot they bred
+not
+l. 24, is Ne to theke bat be-tweyn
+l. 25, for mosselle read mossels
+for begynnysse to read dost
+l. 26, for in read owt of
+l. 27, for on read yn
+
+
+
+
+xciv
+ 
+
+
+ll. 28-30, are Ne yn they met, feys, ne fleys.
+Put not thy mete yn þey salt seleyr
+l. 32, is Be-fore the, that ys worschep
+l. 33, for ne read nother
+l. 34, for If read And
+for come read comest
+l. 35, for And read Seche
+put the is before yn
+l. 37, for Ete ... by read Kot ... yn
+l. 38, prefix And to Fylle; omit done
+l. 40, is Weyles thou hetys, bey they leyffe
+l. 42, for þow put read take owt
+l. 43, for Ne read Nether
+l. 44, is For no cortesey het ys not habell
+l. 45, for Elbowe ... fyst read Elbowhes ... fystys
+l. 46, for whylis þat read wheyle
+l. 47, is Bolk not as a bolle yn the crofte
+l. 48, for karle þat read charle
+for cote read cotte
+l. 50, for of hyt or þou art read the or ye be
+l. 51, for sterke read lowde
+
+
+
+p. 269,
+l. 52, is all of curtesy loke ye carpe
+l. 53, for at read all
+omit loke þou
+l. 54, for Loke þou rownde not read And loke ye
+l. 55, omit thy
+for and read ne
+l. 56, for doo read make
+l. 57, for laughe not read noþer laughe
+l. 58, for with moche speche read thow meche speke;
+for mayst read may
+l. 59, for first ne read ner
+and for the second ne read not
+l. 60, for fayre and stylle read stere het not
+l. 61, for thy read the
+l. 66, omit a
+l. 67, for I rede of read of j redde þe of
+l. 68, for neþer read neuer
+omit yn þi before drynk
+l. 69, for þat read they
+l. 73, for þou see read be saye
+l. 76, for þou read yow
+for thow art read yow ar
+l. 77, for forthe read before yow
+l. 78, omit þow not
+l. 79, for ynto read yn
+
+
+
+p. 271,
+l. 83, for ende read hendyng
+l. 84, for wasshen read was
+l. 85, for worthy read wortheyor
+l. 86, for to- read be-
+omit &
+for þi prow read gentyll cortesey
+ll. 87, 88, 89, are omitted.
+l. 90, for nether read not
+for ne read ne with
+l. 91, omit þi
+for the hede read they lorde
+l. 92, for hyghly read mekeley
+l. 93, for togydre ynsame read yn the same manere
+
+
+
+
+xcv
+ 
+
+
+l. 95, for therafter read hereafter
+l. 96, after that add he ys
+for was heere read þere aftyr
+l. 97, omit And
+for dispiseth read dispise
+l. 99, for Nether read neuer
+l. 100, for Ner read ne
+l. 101, after for add sent
+l. 102, for Louyth this boke read Loren this lesen
+l. 103, omit and
+for made read wret
+l. 106, is omitted.
+
+
+
+p. 273,
+l. 107, before vs put hem and
+l. 108, for the first Amen read Sey all
+for the Explicit &c. read Expleycyt
+the Boke of cortesey.
+
+
+
+xcvi
+ 
+
+
+CORRIGENDA, ADDITIONAL NOTES, &c.
+
+This section is included for completeness. Where possible, the changes
+noted have been made in the original text, or added as footnotes
+numbered in the form “10a”. The bracketed paragraph, following, is from
+the original text.
+[A few corrections of letters and figures have been made in this
+Reprint.]
+
+p. iv. l. 6. ‘Your Bele Babees are
+very like the Meninos of the Court of Spain, & Menins
+of that of France, young nobles brought up with the young Princes.’
+H. Reeve.
+p. v. last line. This is not
+intended to confine the definition of Music as taught at Oxford to its
+one division of Harmonica, to the exclusion of the others,
+Rythmica, Metrica, &c. The Arithmetic said to have
+been studied there in the time of Edmund the Confessor is defined in his
+Life (MS. about 1310 A.D.) in my
+E. E. Poems & Lives of Saints, 1862, thus,
+
+Arsmetrike is a lore: þat of figours al is
+& of drauȝtes as me draweþ in poudre: & in numbre iwis.
+
+p. xviii. l. 16. The regular
+Cathedral school would have existed at St David’s.
+p. xix., note 4. “There are no French
+universities, though we find every now and then some humbug advertising
+himself in the Times as possessing a degree of the Paris
+University. The old Universities belong to the time before the
+Deluge—that means before the Revolution of 1789. The University of
+France is the organized whole of the higher and middle institutions of
+learning, in so far as they are directed by the State, not the clergy.
+It is an institution more governmental, according to the genius of the
+country, than our London University, to which, however, its organization
+bears some resemblance. To speak of it in one breath with Oxford or
+Aberdeen is to commit the ... error of confounding two things, or
+placing them on the same line, because they have the same name.”
+—E. Oswald, in The English Leader, Aug. 10, 1867.
+p. xxiv. l. 9, for 1574 read 1577.
+
+Corrected in reprint.
+p. xxv. l. 17, related apparently.
+“The first William de Valence married Joan de Monchensi, sister-in-law
+to one Dionysia, and aunt to another.” The Chronicle, Sept. 21,
+1867.
+p. xxvi. One of the inquiries
+ordered by the Articles issued by Archbishop Cranmer, in A.D. 1548, is, “Whether Parsons, Vicars, Clerks, and
+other beneficed men, having yearly to dispend an hundred pound, do not
+find, competently, one scholar in the University of Cambridge or Oxford,
+or some grammar school; and for as many hundred pounds as every of them
+may dispend, so many scholars likewise to be found [supported] by them;
+and what be their names that they so find.” Toulmin Smith, The
+Parish, p. 95. Compare also in Church-Wardens Accompts of St
+Margaret’s, Westminster (ed. Jn. Nichols, p. 41).
+
+
+1631.
+Item, to Richard Busby, a king’s scholler of Westminster, towards
+enabling him to proceed master of arts at Oxon, by consent of the
+vestrie
+
+£6.   13.   4.
+
+
+
+xcvii
+ 
+
+1628.
+Item, to Richard Busby, by consent of the vestry, towards
+enabling him to proceed bachelor of arts
+£5.   0.   0.
+
+
+Nichols, p. 38. See too p. 37.
+p. xxvii., last line. Roger Bacon
+died, perhaps, 11 June, 1292, or in 1294. Book of Dates.
+p. xxvii., dele note 3. ‘The
+truth is that, in his account of Oxford and its early days, Mr Hallam
+quotes John of Salisbury, not as asserting that Vacarius taught there,
+but as making “no mention of Oxford at all”; while he gives for the
+statement about the law school no authority whatever beyond his general
+reference throughout to Anthony Wood. But the fact is as historical as a
+fact can well be, and the authority for it is a passage in one of the
+best of the contemporary authors, Gervaise of Canterbury. “Tunc leges et
+causidici in Angliam primo vocati sunt,” he says in his account of
+Theobald in the Acts of the Archbishops, “quorum primus erat
+magister Vacarius. Hic in Oxonefordiâ legem docuit.”’
+E. A. F.
+p. xxxiii. note, l. 1, for St Paul’s read St Anthony’s
+
+Corrected in reprint.
+p. xxxiv., for sister read brother
+
+Corrected in reprint. The word “brother” appears twice on this page:
+“brother of Anne Bulleyn” and “Jane Seymour’s brother”.
+p. xlv. l. 2, for poor
+read independent. ‘Fitz-Stephen says on the parents of St Thomas,
+“Neque fœnerantibus neque officiose negotiantibus, sed de redditibus
+suis honorifice viventibus.”’ E. A. F.
+p. liii. Thetford. See also p. xli.
+
+Author’s intention unclear. List on
+page liii shows Thetford grammar school, founded 1328. Page xli text has “between 1091 and 1119 ...
+schools at Thetford”.
+p. lxxix. last line. A Postscript of nine fresh pieces has been since
+added, on and after p. 349, with ‘The Boris hede furst’ at
+p. 264*.
+
+Section rewritten for reprint.
+p. 6, l. 77, for the note
+on plommys, damsons, see p. 91, note on l.
+177.
+
+Note corrected from “177” to “77” in reprint; note moved in e-text.
+p. 7, l. 2 of notes, for Houeshold read Household
+
+Corrected in reprint.
+p. 27, l. 418, Areyse. Compare, “and
+the Geaunte pulled and drough, but he myght hym not a-race from
+the sadell.” Merlin, Pt. II. p. 346 (E. E. T. Soc.
+1866).
+p. 35, note 3 (to l. 521), for end of this volume
+read p. 145
+
+Corrected in reprint.
+p. 36, l. 536. Pepper. “The third thing is
+Pepper, a sauce for vplandish folkes: for they mingle Pepper with
+Beanes and Peason. Likewise of toasted bread with Ale or Wine, and with
+Pepper, they make a blacke sauce, as if it were pap, that is called
+pepper, and that they cast vpon theyr meat, flesh and fish.”
+Reg. San. Salerni, p. 67.
+p. 58, l. 851; p. 168, l. 13,
+14. Green sauce. There is a herb of an acid taste, the common name for
+which ... is green-sauce ... not a dozen miles from
+Stratford-on-Avon. Notes & Queries, June 14, 1851, vol. iii.
+p. 474. “of Persley leaues stamped withe veriuyce, or white wine,
+is made a greene sauce to eate with roasted meat ... Sauce for
+Mutton, Veale and Kid, is greene sauce, made in Summer with
+Vineger or Verjuyce, with a few spices, and without Garlicke. Otherwise
+with Parsley, white Ginger, and tosted bread with Vineger. In Winter,
+the same sawces are made with many spices, and little quantity of
+Garlicke, and of the best Wine, and with a little Verjuyce, or with
+Mustard.” Reg. San. Salerni, p. 67-8.
+p. 62, l. 909, ? perhaps a comma
+should go after hed, and ‘his cloak or cape’ as a
+side-note. But see cappe, p. 65, l. 964.
+p. 66, l. 969. Dogs. The nuisance
+that the number of Dogs must have been may be judged of by the following
+payments in the Church-Wardens’ Accounts of St Margaret’s, Westminster,
+in Nichols, p. 34-5.
+
+
+1625
+Item paid to the dog-killer for killing of dogs
+
+0.   9.   8.
+
+
+1625
+Item paid to the dog-killer more for killing 14 dozen and 10 dogs
+in time of visitacion
+
+1.   9.   8.
+
+
+1625
+Item paid to the dog-killer for killing of 24 dozen of dogs
+
+1.   8.
+
+
+See the old French satire on the Lady and her Dogs, in Rel.
+Ant. i. 155.
+xcviii
+ 
+
+p. 67, last line of note, for Hoss read Hog’s
+
+Corrected in reprint.
+p. 71, side-note 12, for King’s read chief
+
+Corrected in reprint.
+p. 84, note to l. 51. Chipping or
+paring bread. “Non comedas crustam, colorem quia gignit adustam
+... the Authour in this Text warneth vs, to beware of crusts eating,
+because they ingender a-dust cholor, or melancholly humours, by reason
+that they bee burned and dry. And therefore great estates the which be
+[orig. the] chollerick of nature, cause the crustes aboue and
+beneath to be chipped away; wherfore the pith or crumme should be
+chosen, the which is of a greater nourishment then the crust.”
+Regimen Sanitatis Salerni, ed. 1634, p. 71. Fr.
+chapplis, bread-chippings. Cotgrave.
+p. 85, note to l. 98,
+Trencher, should be to l. 52.
+
+Line number corrected in reprint; note moved in e-text.
+p. 91, last note, on l. 177, should be on l. 77.
+
+See above under “p. 6”.
+p. 92, l. 6, goddes good.
+This, and barme, and bargood (= beer-good) are only
+equivalents for ‘yeast.’ Goddes-good was so called ‘because it cometh of
+the grete grace of God’: see the following extract, sent me by Mr
+Gillett, from the Book of the Corporate Assembly of Norwich, 8
+Edw. IV.:
+“The Maior of this Cite commaundeth on the Kynges bihalve,
+yt alle maner of Brewers yt shall brewe to
+sale wtynne this Cite, kepe ye assise accordyn to
+ye Statute, & upon peyne ordeyned. And wheras berme,
+otherwise clepid goddis good, wtoute tyme of mynde hath frely
+be goven or delyvered for brede, whete, malte, egges, or other
+honest rewarde, to ye valewe only of a ferthyng at
+ye uttermost, & noon warned, bicause it cometh of
+ye grete grace of God, Certeyn persons of this Cite,
+callyng themselves common Brewers, for their singler lucre &
+avayll have nowe newely bigonne to take money for their seid goddis
+good, for ye leest parte thereof, be it never so litle and
+insufficient to serve the payer therefore, an halfpeny or a peny,
+& ferthermore exaltyng ye price of ye
+seid Goddis good at their proper will, ageyns the olde
+& laudable custome of alle Englande, & specially of this
+Cite, to grete hurte & slaunder of ye same Cite.
+Wherefore it is ordeyned & provided, That no maner of brewer
+of this Cite shall from this time foorth take of eny person for
+lyvering, gevyng, or grauntyng of ye sd goddis
+good, in money nor other rewarde, above ye valewe of a
+ferthyng. He shall, for no malice feyned ne sought, colour, warne, ne
+restregne ye sd goddis good to eny persone
+yt will honestly & lefully aske it, & paye therefore
+ye valewe of a ferthyng, &c.”
+p. 161, l. 4. Flawnes. ‘Pro Caseo
+ad flauns qualibet die . panis j’ (allowance of). Register of
+Worcester Priory, fol. 121 a. ed. Hale, 1865.
+p. 296, col. 2,
+Clof. Can it be “cloth”?
+
+The citation is the Index entry for a word occurring on p. 192.
+p. 181, l. 144, Croscrist. La Croix de
+par Dieu. The Christs-crosse-row; or, the hornebooke wherein a child
+learnes it. Cotgrave. The alphabet was called the
+Christ-cross-row, some say because a cross was prefixed to the
+alphabet in the old primers; but as probably from a superstitious custom
+of writing the alphabet in the form of a cross, by way of charm. This
+was even solemnly practised by the bishop in the consecration of a
+church. See Picart’s Religious Ceremonies, vol. i. p. 131.
+Nares.
+p. 185, l. 267, for be, falle, read be-falle (it
+befalls, becomes)
+p. 189, l. 393, side-note, Hall,
+should be Hall. Fires in Hall lasted to Cena Domini, the
+Thursday before Easter: see l. 398. Squires’ allowances of lights
+ended on Feb. 2, I suppose. These lights, or candle of
+l. 839, would be only part of the allowances. The rest would
+continue all the year. See Household Ordinances & North. Hous.
+Book. Dr Rock says that the holyn or holly and erbere
+grene refer to the change on Easter Sunday described in the Liber
+Festivalis:—“In die paschẽ. Good friends ye shall know well
+that this day
+xcix
+ 
+
+is called in many places God’s Sunday. Know well that it is the manner
+in every place of worship at this day to do the fire out of the
+hall; and the black winter brands, and all thing that is foul with
+smoke shall be done away, and there the fire was, shall be gaily arrayed
+with fair flowers, and strewed with green rushes all about, showing a
+great ensample to all Christian people, like as they make clean their
+houses to the sight of the people, in the same wise ye should cleanse
+your souls, doing away the foul brenning (burning) sin of lechery; put
+all these away, and cast out all thy smoke, dusts; and strew in your
+souls flowers of faith and charity, and thus make your souls able to
+receive your Lord God at the Feast of Easter.” —Rock’s Church
+of the Future, v. iii. pt. 2, p. 250. “The holly, being an
+evergreen, would be more fit for the purpose, and makes less litter,
+than the boughs of deciduous trees. I know some old folks in
+Herefordshire who yet follow the custom, and keep the grate filled with
+flowers and foliage till late in the autumn.” —D. R. On
+Shere-Thursday, or Cena Domini, Dr Rock quotes from the Liber
+Festivalis—“First if a man asked why Sherethursday is called
+so, ye may say that in Holy Church it is called ‘Cena Domini,’ our
+Lord’s Supper Day; for that day he supped with his disciples openly....
+It is also in English called Sherethursday; for in old fathers’ days the
+people would that day sheer their heads and clip their beards, and poll
+their heads, and so make them honest against Easter-day.” —Rock,
+ib., p. 235.
+p. 192, l. 462-4, cut out
+. after hete; put ; after sett, and , after
+let; l. 468-9, for sett, In syce, read sett In syce;
+l. 470, ? some omission
+after this line.
+p. 200, l. 677, side-note,
+steel spoon is more likely spoon handle
+p. 215, l. 14. The T of T
+the is used as a paragraph mark in the MS.
+p. 274, l. 143-4, ? sense, reading
+corrupt.
+p. 275, Lowndes calls the original of
+Stans Puer ad Mensam the Carmen Juvenile of Sulpitius.
+p. 312, col. 2, Holyn.
+Bosworth gives A.S. holen, a rush; Wright’s Vocab.,
+holin, Fr. hous; and that Cotgrave glosses ‘The Hollie,
+Holme, or Huluer tree.’ Ancren Riwle, 418 note *, and Rel.
+Ant., ii. 280, have it too. See Stratmann’s Dict.
+In General Index.
+p. 317, col. 2, The
+extract for Lopster should have been under creuis or
+crao.
+In General Index.
+p. 318, col. 1, Lorely may
+be lorel-ly, like a lorel, a loose, worthless fellow,
+a rascal.
+In General Index.
+p. 339, col. 1, Syles
+is strains. Sile, v., to
+strain, to purify milk through a straining dish; Su.-Got. sila,
+colare.—Sile, s.,
+a fine sieve or milk strainer; Su.-Got. sil, colum.
+Brockett. See quotations in Halliwell’s Gloss., and Stratmann, who gives
+Swed. sîla, colare.
+In General Index.
+On the general subject of diet in olden time consult “Regimen
+Sanitatis Salernitanum, with an Introduction by Sir Alex. Croke, Oxford,
+1830.” H. B. Wheatley. On manners, consult Liber Metricus Faceti
+Morosi. J. E. Hodgkin.
+
+
+
+
+Collected Sidenotes
+
+This section was added by the transcriber. It contains the editor’s
+summaries as given in his sidenotes, and can be read as a condensed
+version of the full text.
+
+
+
+John Russell’s Boke Of Nurture
+Lawrens Andrewe on Fish
+Wilyam Bulleyn on Boxyng and
+Neckeweede
+Andrew Borde on Sleep, Rising, and
+Dress
+William Vaughan’s Fifteen Directions to
+preserve Health
+Harington: The Dyet for every Day
+Harington: On Rising, Diet, and Going to
+Bed
+Wynkyn de Worde’s Boke of Keruynge
+The Boke of Curtasye
+Bp. Grossetest’s Household
+Statutes
+Stanzas and Couplets of Counsel
+The Schoole of Vertue
+Whate-ever thow sey, avyse thee
+welle!
+A Dogg Lardyner, & a Sowe
+Gardyner
+Roger Ascham’s Advice to Lord Warwick’s
+Servant
+The Babees Book
+Lerne or be Lewde
+Vrbanitatis
+The Lytylle Childrenes Lytil Boke, or
+Edyllys be
+The Young Children’s Book
+Stans Puer ad Mensam
+Ffor to serve a Lord, with A Feste for a Bryde
+Latin GracesSymon’s Lesson of Wysedome for all maner Chyldryn
+The Birched School-Boy
+
+
+
+ 
+
+
+Russell’s Boke of Nurture
+In the name of the Father, Son, and Holy Ghost, God keep me! I am an
+Usher to a Prince, and delight in teaching the inexperienced.
+It is charitable to teach ignorant youths.
+If any such won’t learn, give them a toy.
+One May I went to a forest, and by the Forester’s leave walked in the
+woodland, where I saw three herds of deer in the sunshine.
+A young man with a bow was going to stalk them, but I asked him to
+walk with me, and inquired whom he served.
+‘No one but myself, and I wish I was out of this world.’
+‘Good son, despair is sin; tell me what the matter is. When the pain
+is greatest the cure is nearest!’
+‘Sir, I’ve tried everywhere for a master; but because I know nothing,
+no one will take me.’
+‘Will you learn if I’ll teach you? What do you want to be?’
+‘A Butler, Sir, Panter, Chamberlain, and Carver. Teach me the duties
+of these.’
+‘I will, if you’ll love God and be true to your master.’
+A Panter or Butler must have three knives:
+
+1 to chop loaves, 1 to pare them, 1 to smooth the trenchers.
+Give your Sovereign new bread, others one-day-old bread; for the
+house, three-day bread; for trenchers four-day bread; Have your salt
+white, and your salt-planer of ivory, two inches broad, three long.
+Have your table linen sweet and clean, your knives bright, spoons
+well washed, two wine-augers some box taps, a broaching gimlet, a pipe
+and bung.
+To broach a pipe, pierce it with an auger or gimlet, four fingers-
+breadth over the lower rim, so that the dregs may not rise.
+Serve Fruit according to the season, figs, dates, quince-marmalade,
+ginger, &c.
+Before dinner, plums and grapes after, pears, nuts, and hard
+cheese.
+After supper, roast apples, &c.
+In the evening don’t take cream, strawberries, or junket, unless you
+eat hard cheese with them.
+Hard cheese keeps your bowels open.
+Butter is wholesome in youth and old age, anti-poisonous, and
+aperient.
+Milk, Junket, Posset, &c., are binding.
+Eat hard cheese after them.
+Beware of green meat; it weakens your belly.
+For food that sets your teeth on edge, eat almonds and cheese, but
+not more than half an ounce.
+If drinks have given you indigestion, eat a raw apple.
+Moderation is best sometimes, at others abstinence.
+Look every night that your wines don’t ferment or leak Always carry a
+gimlet, adze, and linen cloths; and wash the heads of the pipes with
+cold water.
+If the wine boil over, put to it the lees of red wine, and that will
+cure it.
+Romney will bring round sick sweet wine.
+The names of Sweet Wines.
+Recipe for making Ypocras.
+Take spices thus, Cinnamon, &c., long Pepper.
+Have three basins and three straining-bags to them; hang ’em on a
+perch.
+Let your ginger be well pared, hard, not worm-eaten, (Colombyne is
+better than Valadyne or Maydelyne); your sticks of Cinnamon thin, hot
+and sweet; Canel is not so good.
+Cinnamon is hot and dry, Cardamons are hot and moist.
+Take sugar or sugar candy, red wine, graines, ginger, pepper,
+cinnamon, spice, and turnesole, and put each powder in a bladder by
+itself.
+Hang your straining-bags so that they mayn’t touch,--first bag a
+gallon, others a pottle.
+Put the powders in two or three gallons of red wine; then into the
+runner, the second bag, (tasting and trying it now and then), and the
+third vessel.
+If it’s not right, add cinnamon, ginger, or sugar, as wanted.
+If it’s not right, add cinnamon, ginger, or sugar, as wanted.
+Mind you keep tasting it.
+Strain it through bags of fine cloth, hooped at the mouth, the first
+holding a gallon, the others a pottle, and each with a basin under
+it.
+The Ypocras is made.
+Use the dregs in the kitchen.
+Put the Ypocras in a tight clean vessel, and serve it with
+wafers.
+The Buttery.
+Keep all cups, &c., clean.
+Don’t serve ale till it’s five days old.
+Be civil and obliging, and give no one stale drink.
+To lay the cloth, &c.
+Wipe the table.
+Put a cloth on it (a cowche); you take one end, your mate the other;
+lay the fold of the second cloth(?) on the outer edge of the table, that
+of the third cloth(?) on the inner.
+Cover your cupboard with a diaper towel, put one round your neck, one
+side on your left arm with your sovereign’s napkin; on that, eight
+loaves to eat, and three or four trencher loaves: in your left the
+salt-cellar.
+In your right hand, spoons and knives.
+Put the Salt on the right of your lord; on its left, a trencher or
+two; on their left, a knife, then white rolls, and beside them a spoon
+folded in a napkin.
+Cover all up.
+At the other end set a Salt and two trenchers.
+How to wrap up your lord’s bread in a stately way.
+Cut your loaves all equal.
+Take a towel two and a half yards long by the ends, fold up a handful
+from each end, and in the middle of the folds lay eight loaves or buns,
+bottom to bottom; put a wrapper on the top, twist the ends of the towel
+together, smooth your wrapper, and quickly open the end of it before
+your lord.
+After your lord’s lay the other tables.
+Deck your cupboard with plate, your washing-table with basins,
+&c.
+Have plenty of napkins, &c., and your pots clean.
+Make the Surnape with a cloth under a double napkin.
+Fold the two ends of your towel, and one of the cloth, a foot over,
+and lay it smooth for your lord to wash with.
+The marshal must slip it along the table, and pull it smooth.
+Then raise the upper part of the towel, and lay it even, so that the
+Sewer (arranger of dishes) may make a state.
+When your lord has washed, take up the Surnape with your two arms,
+and carry it back to the Ewery.
+Carry a towel round your neck.
+Uncover your bread; see that all diners have knife, spoon, and
+napkin.
+Bow when you leave your lord.
+Take eight loaves from the bread-cloth, and put four at each end.
+Lay for as many persons as the Sewer has set potages for, and have
+plenty of bread and drink.
+Be lively and soft-spoken, clean and well dressed.
+Don’t spit or put your fingers into cups.
+Stop all blaming and backbiting, and prevent complaints.
+General Directions for Behaviour.
+Don’t claw your back as if after a flea; or your head, as if after a
+louse.
+See that your eyes are not blinking and watery.
+Don’t pick your nose, or let it drop, or blow it too loud, or twist
+your neck.
+Don’t claw your cods, rub your hands, pick your ears, retch, or spit
+too far.
+Don’t tell lies, or squirt with your mouth, gape, pout, or put your
+tongue in a dish to pick dust out.
+Don’t cough, hiccup, or belch, straddle your legs, or scrub your
+body.
+Don’t pick your teeth, cast stinking breath on your lord, fire your
+stern guns, or expose your codware before your master.
+Many other improprieties a good servant will avoid.’
+‘Sir, pray teach me how to carve, handle a knife, and cut up birds,
+fish, and flesh.’
+‘Hold your knife tight, with two fingers and a thumb, in your
+midpalm.
+Do your carving, lay your bread, and take off trenchers, with two
+fingers and thumb.
+Never touch others’ food with your right hand, but only with the
+left.
+Don’t dirty your table or wipe your knives on it.
+Take a loaf of trenchers, and with the edge of your knife raise a
+trencher, and lay it before your lord; lay four trenchers four-square,
+and another on the top.
+Take a loaf of light bread, pare the edges, cut the upper crust for
+your lord, and don’t touch it after it’s trimmed.
+Keep your table clean.
+Indigestibilities.
+You must know what meat is indigestible, and what sauces are
+wholesome.
+These things are indigestible: Fat and Fried, Raw and Resty, Salt and
+Sour, also sinews, skin, hair, feathers, crops, heads, pinions, &c.,
+legs, outsides of thighs, skins; these destroy your lord’s rest.’
+‘Thanks, father, I’ll put your teaching into practice, and pray for
+you.
+But please tell me how to carve fish and flesh.’
+Carving of Meat.
+Cut brawn on the dish, and lift slices off with your knife;
+serve it with mustard.
+Venison with furmity.
+Touch Venison only with your knife, pare it, cross it with 12
+scores, cut a piece out, and put it in the furmity soup.
+Touch with your left hand, pare it clean, put away the sinews,
+&c.
+Partridges, &c.: take up by the pinion, and mince them
+small in the sirrup.
+Larger roast birds, as the Osprey, &c., raise up [? cut
+off] the legs, then the wings, lay the body in the middle, with the
+wings and legs round it, in the same dish.
+Capons: take off the wings and legs; pour on ale or wine,
+mince them into the flavoured sauce.
+Give your lord the left wing, and if he want it, the right one
+too.
+Pheasants, &c.: take off the wings, put them in the dish,
+then the legs.
+Woodcocks, Heronshaws, Brew, &c.
+break the pinions, neck, and beak.
+Cut off the legs, then the wings, lay the body between them.
+Crane: take off the wings, but not the trompe in his
+breast.
+Peacocks, &c.: carve like you do the Crane, keeping their
+feet on.
+Quails, larks, pigeons: give your lord the legs first.
+Fawn: serve the kidney first, then a rib.
+Pick the fyxfax out of the neck.
+Pig:
+
+1. shoulder,
+2. rib.
+
+Rabbit: lay him on his back; pare off his skin; break his
+haunch bone, cut him down each side of the back, lay him on his belly,
+separate the sides from the chine, put them together again, cutting out
+the nape of the neck; give your lord the sides.
+Sucking rabbits: cut in two, then the hind part in two; pare the skin
+off, serve the daintiest bit from the side.
+Such is the way of carving gross meats.
+Cut each piece into four slices (?) for your master to dip in his
+sauce.
+Of large birds’ wings, put only three bits at once in the sauce.
+Of small birds’ wings, scrape the flesh to the end of the bone, and
+put it on your lord’s trencher.
+How to carve Baked Meats.
+Open hot ones at the top of the crust, cold ones in the middle.
+Take Teal, &c., out of their pie, and mince their wings, stir the
+gravy in; your lord may eat it with a spoon.
+Cut Venison, &c., in the pasty.
+Custard: cut in squares with a knife.
+Dowcets: pare away the sides; serve in a sawcer.
+Payne-puff: pare the bottom, cut off the top.
+Fried things are indigestible.
+Poached-egg (?) fritters are best.
+Tansey is good hot.
+Don’t eat Leessez.
+Cooks are always inventing new dishes that tempt people and endanger
+their lives: Syrups Comedies, Jellies, that stop the bowels.
+Some dishes are prepared with unclarified honey.
+Cow-heels and Calves’ feet are sometimes mixed with unsugared leches
+and Jellies.
+Furmity with venison, mortrewes, jussell, &c., are good.
+Other out-of-the-way soups set aside.
+Such is a flesh feast in the English way.
+Sauces.
+Sauces provoke a fine appetite.
+Have ready Mustard for brawn, &c.,
+Verjuice for veal, &c.,
+Chawdon for cygnet and swan, Garlic, &c., for beef and goose,
+Ginger for fawn, &c.,
+Mustard and sugar for pheasant, &c.,
+Gamelyn for heronsew, &c.,
+Sugar and Salt for brew, &c.,
+Gamelyn for bustard, &c.,
+Salt and Cinnamon for woodcock, thrushes, &c., and quails,
+&c.
+How to carve Fish.
+With pea soup or furmity serve a Beaver’s tail, salt Porpoise,
+&c.
+Split up Herrings, take out the roe and bones, eat with mustard.
+Take the skin off salt fish, Salmon, Ling, &c., and let the sauce
+be mustard, but for Mackarel, &c., butter of Claynes or Hackney (?)
+Of Pike, the belly is best, with plenty of sauce.
+Salt Lampreys, cut in seven gobbets, pick out the backbones, serve
+with onions and galentine.
+Plaice: cut off the fins, cross it with a knife, sauce with wine,
+&c.
+Gurnard, Chub, Roach, Dace, Cod, &c., split up and spread on the
+dish.
+Soles, Carp, &c., take off as served.
+Whale, porpoise, congur, turbot, Halybut, &c., cut in the dish,
+and also Tench in jelly.
+On roast Lamprons cast vinegar, &c., and bone them.
+Crabs are hard to carve: break every claw, put all the meat in the
+body-shell, and then season it with vinegar or verjuice and
+powder.
+(?) Heat it, and give it to your lord.
+Put the claws, broken, in a dish.
+The sea Crayfish: cut it asunder, slit the belly of the back part,
+take out the fish, clean out the gowt in the middle of the sea
+Crayfish’s back; pick it out, tear it off the fish, and put vinegar to
+it; break the claws and set them on the table.
+Treat the back like the crab, stopping both ends with bread.
+The fresh-water Crayfish: serve with vinegar and powder.
+Salt Sturgeon: slit its joll, or head, thin.
+Whelk: cut off its head and tail, throw away its operculum, mantle,
+&c., cut it in two, and put it on the sturgeon, adding vinegar.
+Carve Baked Lampreys thus: take off the piecrust, put thin slices of
+bread on a Dish, pour galentyne over the bread, add cinnamon and red
+wine.
+Mince the lampreys, lay them on the sauce, &c., on a hot plate,
+serve up to your lord.
+White herrings fresh; the roe must be white and tender serve with
+salt and wine.
+Shrimps picked, lay them round a sawcer, and serve with vinegar.”
+“Thanks, father, I know about Carving now, but I hardly dare ask you
+about a Sewer’s duties, how he is to serve.”
+The Duties of a Sewer.
+“Son, since you wish to learn, I will gladly teach you.
+Let the Sewer, as soon as the Master begins to say grace, hie to the
+kitchen.
+I. Ask the Panter for fruits (as butter, grapes, &c.), if they
+are to be served.
+II. Ask the cook and Surveyor what dishes are prepared.
+III. Let the Cook serve up the dishes, the Surveyor deliver them and
+you, the Sewer, have skilful officers to prevent any dish being
+stolen.
+IV. Have proper servants, Marshals, &c., to bring the dishes from
+the kitchen.
+V. You set them on the table yourself.
+A Meat Dinner.
+First Course.
+
+1. Mustard and brawn.
+2. Potage.
+3. Stewed Pheasant and Swan, &c.
+4. Baked Venison.
+5. A Device of Gabriel greeting Mary.
+
+Second Course.
+
+1. Blanc Mange (of Meat).
+2. Roast Venison, &c.
+3. Peacocks, heronsew, egrets, sucking rabbits, larks, bream,
+&c.
+4. Dowcets, amber Leche, poached fritters.
+5. A Device of an Angel appearing to three Shepherds on a hill.
+
+Third Course.
+
+1. Almond cream.
+2. Curlews, Snipes, &c.
+3. Fresh-water crayfish, &c.
+4. Baked Quinces, Sage fritters, &c.
+5. Devices: The Mother of Christ, presented by the Kings of
+Cologne.
+
+Dessert.
+White apples, caraways, wafers and Ypocras.
+Clear the Table.
+A Fish Dinner.
+First Course.
+
+1. Minnows, &c.
+2. Porpoise and peas.
+3. Fresh Millwell.
+4. Roast Pike.
+5. A Divice: A young man piping on a cloud, and called
+Sanguineus, or Spring.
+
+Second Course.
+
+1. Dates and Jelly,
+2. Doree in Syrup,
+3. Turbot, &c.
+4. Eels, Fritters,
+5. A Device: A Man of War, red and angry called Estas, or
+Summer.
+
+Third Course.
+
+1. Almond Cream, &c.,
+2. Sturgeon, Whelks, Minnows,
+3. Shrimps, &c.,
+4. Fritters.
+5. A Device: A Man with a Sickle, tired, called Harvest.
+
+Fourth Course.
+Hot apples, Ginger, Wafers, Ypocras.
+The last Device, Yemps or Winter, with grey locks, sitting on
+a stone.
+These Devices represent the Ages of Man:
+
+Sanguineus, the 1st age, of pleasure.
+Colericus, the 2nd, of quarrelling.
+Autumpnus the 3rd, of melancholy.
+Winter, the 4th, of aches and troubles.
+
+These Devices give great pleasure, when shown in a house.
+Inscriptions for the Devices.
+
+Spring. Loving, laughing, singing, benign.
+Summer. Prickly, angry, crafty, lean.
+Autumn. Sleepy, dull, sluggish, fat, white-faced.
+Winter. Envious, sad, timid, yellow-coloured.
+
+A Franklin’s Feast.
+Brawn, bacon and pease, beef and boiled chickens, roast goose, capon,
+and custade.
+Second Course.
+Mortrewes, veal, rabbit, chicken, dowcettes, fritters, or leche,
+spiced pears, bread and cheese, spiced cakes, bragot and mead.
+Dinners on Fish-days.
+Gudgeons, minnows, venprides (?) musclade (?) of almonds, oysters
+dressed, porpoise or seal, pike cullis, jelly, dates, quinces, pears,
+houndfish, rice, mameny.
+If you don’t like these potages, taste them only.
+Fish Sauces.
+Mustard for salt herring, conger, mackerel, &c.
+Vinegar for salt porpoise, swordfish, &c.
+Sour wine for whale, with powder.
+Wine for plaice.
+Galantine for lamprey.
+Verjuice for mullet.
+Cinnamon for base, carp, and chub.
+Garlic, verjuice, and pepper, for houndfish, stockfish, &c.
+Vinegar, cinnamon, and ginger, for fresh-water crayfish, fresh
+porpoise, sturgeon, &c.
+Green Sauce for green fish (fresh ling): Mustard is best for every
+dish.
+Other sauces are served at grand feasts, but the above will please
+familiar guests.”
+“Fair fall you, father! You have taught me lovesomely; but please
+tell me, too, the duties of a Chamberlain.”
+The Chamberlain’s Duties.
+He must be diligent, neatly dressed, clean-washed, careful of fire
+and candle, attentive to his master, light of ear, looking out for
+things that will please.
+The Chamberlain must prepare for his lord a clean shirt, under and
+upper coat and doublet, breeches, socks, and slippers as brown as a
+water-leech.
+In the morning, must have clean linen ready, warmed by a clear
+fire.
+When his lord rises, he gets ready the foot-sheet; puts a cushioned
+chair before the fire, a cushion for the feet, and over all spreads the
+foot-sheet: has a comb and kerchief ready, and then asks his lord to
+come to the fire and dress while he waits by.
+
+1. Give your master his under coat,
+2. His doublet,
+3. Stomacher well warmed,
+4. Vampeys and socks,
+5. Draw on his socks, breeches, and shoes,
+6. Pull up his breeches,
+7. Tie ’em up,
+8. Lace his doublet,
+9. Put a kerchief round his neck,
+10. Comb his head with an ivory comb,
+11. Give him warm water to wash with,
+12. Kneel down and ask him what gown he’ll wear:
+13. Get the gown,
+14. Hold it out to him;
+15. Get his girdle,
+16. His Robe.
+17. His hood or hat.
+18. Before he goes brush him carefully.
+
+Before your lord goes to church, see that his pew is made ready,
+cushion, curtain, &c.
+Return to his bedroom, throw off the clothes, beat the featherbed,
+see that the fustian and sheets are clean.
+Cover the bed with a coverlet, spread out the bench covers and
+cushions, set up the headsheet and pillow, remove the urinal and basin,
+lay carpets round the bed, and with others dress the windows and
+cupboard, have a fire laid.
+Keep the Privy sweet and clean, cover the boards with green cloth, so
+that no wood shows at the hole; put a cushion there, and have some
+blanket, cotton, or linen to wipe on; have a basin, jug, and towel,
+ready for your lord to wash when he leaves the privy.
+In the Wardrobe take care to keep the clothes well, and brush ’em
+with a soft brush at least once a week, for fear of moths.
+Look after your Drapery and Skinnery.
+If your lord will take a nap after his meal, have ready kerchief,
+comb, pillow and headsheet (don’t let him sleep too long), water and
+towel.
+When he goes to bed,
+
+1. Spread out the footsheet,
+2. Take off your lord’s Robe and put it away.
+3. Put a cloak on his back,
+4. Set him on his footsheet,
+5. Pull off his shoes, socks, and breeches,
+6. Throw the breeches over your arm,
+7. Comb his head,
+8. Put on his kerchief and nightcap,
+9. Have the bed, and headsheet, &c., ready,
+10. Draw the curtains,
+11. Set the night-light,
+12. Drive out dogs and cats,
+13. Bow to your lord,
+14. Keep the night-stool and urinal ready for whenever he calls, and
+take it back when done with.
+
+How to prepare a Bath.
+Hang round the roof, sheets full of sweet herbs, have five or six
+sponges to sit or lean on, and one great sponge to sit on with a sheet
+over and a sponge under his feet.
+Mind the door’s shut.
+With a basinful of hot herbs, wash him with a soft sponge, throw
+rose-water on him; let him go to bed.
+Put his socks and slippers on, stand him on his footsheet, wipe him
+dry, take him to bed to cure his troubles.
+To make a Medicinal Bath.
+Boil together hollyhock centaury, herb-benet, scabious, withy leaves;
+throw them hot into a vessel, set your lord on it; let him bear it as
+hot as he can, and whatever disease he has will certainly be cured, as
+men say.
+The Duties of an Usher and Marshal.
+He must know the rank and precedence of all people.
+I.
+
+1. The Pope.
+2. Emperor.
+3. King.
+4. Cardinal.
+5. Prince.
+6. Archbishop.
+7. Royal Duke.
+
+II. Bishop, &c.
+III.
+
+1. Viscount.
+2. Mitred abbot.
+3. Three Chief Justices.
+4. Mayor of London.
+
+IV. (The Knight’s rank.)
+
+1. Cathedral Prior, Knight Bachelor.
+2. Dean, Archdeacon.
+3. Master of the Rolls.
+4. Puisné Judge.
+5. Clerk of the Crown.
+6. Mayor of Calais.
+7. Doctor of Divinity.
+8. Prothonotary.
+9. Pope’s Legate.
+
+V. (The Squire’s rank.)
+
+1. Doctor of Laws.
+2. Ex-Mayor of London.
+3. Serjeant of Law.
+4. Masters of Chancery.
+5. Preacher.
+6. Masters of Arts.
+7. Other Religious.
+8. Parsons and Vicars.
+9. Parish Priests.
+10. City Bailiffs.
+11. Serjeant at Arms.
+12. Heralds (the chief Herald has first place),
+13. Merchants,
+14. Gentlemen,
+15. Gentlewomen may all eat with squires.
+
+I have now told you the rank of every class, and now I’ll tell you
+how they may be grouped at table.
+I. Pope, King, Prince, Archbishop and Duke.
+II. Bishop, Marquis, Viscount, Earl.
+III. The Mayor of London, Baron, Mitred Abbot, three Chief Justices,
+Speaker, may sit together, two or three at a mess.
+IV. The other ranks (three or four to a mess) equal to a Knight,
+unmitred Abbot, Dean, Master of the Rolls, under Judges, Doctor of
+Divinity, Prothonotary, Mayor of Calais.
+V. Other ranks equal to a Squire, four to a mess.
+Serjeants of Law, ex-Mayor of London, Masters of Chancery, Preachers
+and Parsons, Apprentices of Law, Merchants and Franklins.
+Each estate or rank shall sit at meat by itself, not seeing
+another.
+The Bishop of Canterbury shall be served apart from the Archbishop of
+York, and the Metropolitan alone.
+The Bishop of York must not eat before the Primate of England.
+Sometimes a Marshal is puzzled by Lords of royal blood being poor,
+and others not royal being rich; also by a Lady of royal blood marrying
+a knight, and vice versâ.
+The Lady of royal blood shall keep her rank; the Lady of low blood
+shall take her husband’s rank.
+Property is not so worthy as royal blood, so the latter prevails over
+the former, for royal blood may become King.
+The parents of a Pope or Cardinal must not presume to equality with
+their son, and must not want to sit by him, but in a separate room.
+A Marshal must look to the rank of every estate, and do honour to
+foreign visitors and residents.
+A well-trained Marshal should think beforehand where to place
+strangers at the table.
+If the King sends any messenger to your Lord receive him one degree
+higher than his rank.
+The King’s groom may dine with a Knight or Marshal, A Marshal must
+also understand the rank of County and Borough officers, and that a
+Knight of blood and property is above a poor Knight, the Mayor of London
+above the Mayor of Queenborough, the Abbot of Westminster above the poor
+Abbot of Tintern, the Prior of Canterbury above the Prior of Dudley, the
+Prior who is Prelate of a Cathedral Church above any Abbot or Prior of
+his diocese, a Doctor of 12 years’ standing above one of 9 (though the
+latter be the richer), the old Aldermen above the young ones, and
+
+1. the Master of a craft,
+2. the ex-warden.
+
+Before every feast, then, think what people are coming, and settle
+what their order of precedence is to be.
+If in doubt, ask your lord or the chief officer, and then you’ll do
+wrong to no one, but set all according to their birth and dignity.
+Now I have told you of Court Manners, how to manage in Pantry,
+Buttery, Carving, and as Sewer, and Marshal, as I learnt with a Royal
+Prince whose Usher and Marshal I was.
+All other officers have to obey me.
+Our office is the chief, whether the Cook likes it or not.
+All these offices may be filled by one man, but a Prince’s dignity
+requires each office to have its officer, and a servant under him, (all
+knowing their duties perfectly) to wait on their Lord and please his
+guests.
+Don’t fear to serve a prince; take good heed to your duties, watch,
+and you need not fear.
+Tasting is done only for those of royal blood, as a Pope,
+King, Duke, and Earl: not below.
+Tasting is done for fear of poison; therefore keep your room secure,
+and close your safe, for fear of tricks.
+A Prince’s Steward and Chamberlain have the oversight of all offices
+and of tasting, and they must tell the Marshal, Sewer, and Carver how to
+do it.
+I don’t propose to write more on this matter.
+I tried this treatise myself, in my youth, and enjoyed these matters,
+but now age compels me to leave the court; so try yourself.”
+“Blessing on you, Father, for this your teaching of me! Now I shall
+dare to serve where before I was afraid. I will try, and shall learn by
+practice. May God reward you for teaching me!”
+“Good son, and all readers of this Boke of Nurture, pray for
+the soul of me, John Russell, (servant of Humphrey, Duke of Gloucester;)
+also for the Duke, my wife, father, and mother, that we may all go to
+bliss when we die.”
+Little book, commend me to all learners, and to the experienced, whom
+I pray to correct its faults.
+Any such, put to my copying, which I have done as I best could.
+The transcriber is not to blame; he copied what was before him, and
+neither of us wrote it, I only corrected the rhyme.
+God! grant us grace to rule in Heaven with Thine elect!
+
+Andrewe, Extracts on Fish
+Eel. Is of no sex; is best roasted.
+Herring. Is delicious when fresh, or salted. Dies when it
+feels the air.
+Whale? Shipmen cast anchor on him, and make a fire on him. He
+swims away, and drowns them.
+Ahuna. When the Ahuna is in danger, he puts his head in his
+belly, and eats a bit of himself.
+Balena. (The woodcut is a big Merman. ? Whale.) Are seen most
+in winter; breed in summer. In rough weather Balena puts her young in
+her mouth.
+Crevice (Sea and Fresh Water Crayfish). How they engender, and
+hybernate. How the Crayfish manages to eat Oysters.
+Fresh-Water Crayfish is hard to digest.
+Carp. Is difficult to net.
+Whale. Likes Harmony. Gets harpooned, rubs the harpoon into
+himself, and slays himself.
+Phocas. Kills his wife and gets another.
+Halata. Takes her young out of her womb to look at ’em.
+Pike: eats venomous beasts; is begotten by a West Wind.
+Sea-Mouse Musculus is the cock of Balena.
+Lamprey. Must be boiled in wine.
+Mulus: has 2 beards.
+Orchun. Is Balene’s deadly enemy.
+Pecten: winks.
+Pinna. How he catches small fishes.
+Serra. Cuts through ships with his fins.
+Siren. Siren is like an eagle below, sings sweet songs to mariners,
+and tears them to pieces.
+Sturgeon. Eats no food, has no mouth, grows fat on east wind.
+Has no bones in his body.
+
+Wilyam Bulleyn on Boxyng & Neckeweede
+For saucy louts, the best cure is Boxing.
+The names of Hemp.
+Neckweed (a halter) is good for thievish apprentices, for
+swashbucklers past grace, and all scamps.
+Also for young spendthrifts who after their parents’ death waste
+their all with harlots and in gambling which makes men beggars, or
+thieves.
+A life of reckless debauchery and robbery ends with Hemp.
+The use of Hemp to the Sailor, Plowman, Fisher and Archer.
+
+Andrew Borde on Sleep, Rising, and Dress
+After Dinner, sleep standing against a cupboard.
+Before bedtime be merry.
+Have a fire in your bedroom, but stand a good way off it.
+Shut your windows.
+Lie first on your left side.
+To sleep groveling on the belly, is bad; on the back upright, is
+worse.
+Wear a scarlet nightcap.
+Have a flock bed over your featherbed.
+On rising, remember God, brush your breeches, put on your hose,
+stretch, go to stool.
+Truss your points, comb your head, wash your hands and face, take a
+stroll, pray to God.
+Play at tennis, or wield weights.
+At meals, eat only of 2 or 3 dishes; let supper-dishes be light.
+Wear a scarlet petycote.
+Line a jacket with white and black lambskin sewn diamond-wise.
+Keep your neck warm.
+Wear goatskin gloves.
+Don’t stand long on grass or stones.
+Don’t sleep in ratty rooms.
+Don’t take cold in your feet.
+
+William Vaughan’s Fifteen Directions to preserve Health
+1. Stretch yourself.
+2. Rub yourself.
+3. Go to stool.
+4. Put on your clothes.
+5. Comb your head.
+6. Clean your teeth.
+
+(How to keep the teeth sound and the breath sweet. Use Vaughan’s Water
+made after this recipe. It’s better than 1000 Dentrifices.)
+7. Wash. The best remedy for dim sight.
+8. Say your Prayers.
+9. Set to work. Be honest.
+10. Eat only three meals a day. Eat light food before heavy. Drink
+hinders digestion. Use silver cups.
+11. Don’t work directly after meals, but talk, wash, and clean your
+teeth.
+12. Undress by the fire in winter.
+13. Before bed, chew Mastic, and
+14. Pray to God. Look at your water in a Urinal. Have a hole in your
+nightcap.
+15. Against rheums, eat white pepper.
+
+Harington, The Dyet for every Day.
+Stretch your limbs, rub your body and head; protect yourself from
+cold;
+dress, washing in Summer, warming yourself in Winter.
+In Summer wear deer’s and calves’ skins, in Winter, wolf and fox
+skins.
+Comb your head 40 times, wash your face, clean your eyelids, rub your
+neck well.
+
+Harington, On Rising, Diet, and Going to Bed.
+On rising, empty your bladder and belly, nose and lungs.
+Cleanse your whole body.
+Say your Prayers.
+Walk gently, go to stool.
+Work in the forenoon.
+Always wear a precious stone in a ring; hold a crystal in your mouth;
+for the virtue of precious stones is great.
+Eat only twice a day.
+Don’t drink between dinner and supper.
+Don’t have one fixed hour for your meals.
+In Winter eat in hot well-aired places.
+Fast for a day now and then.
+Eat more at supper than dinner.
+After meals, wash your face, and clean your teeth, chat and walk
+soberly.
+Don’t sit up late.
+Before bed, rub your body gently.
+Undress by a fire in Winter, and warm your garments well Put off your
+cares with your clothes, and take them up again in the morning.
+
+The Boke of Keruynge
+The Book of Carving and Arranging; and the Dishes for all the Feasts
+in the year.
+Terms of a Carver:
+Slice brawn, spoil a hen, unbrace a mallard, untache a curlew, border
+a pasty, thigh small birds, splat a pike, fin a chub, barb a
+lobster.
+The Butler has 3 knives:
+
+1. a squarer, 2. a chipper, 3. a smoother.
+Trencher-bread must be 4 days old; the Salt-Planer of ivory; table
+cloths kept in a chest, or hung on a perch.
+To broach a Pipe, have 2 augers, funnels, and tubes, and pierce the
+Pipe 4 inches from the bottom.
+Always have ready fruits and hard cheese.
+Beware of cow cream.
+Hard cheese is aperient, and keeps off poison.
+Milk and Junket close the Maw.
+For food that sets your teeth on edge, eat an almond and hard
+cheese.
+A raw apple will cure indigestion.
+See every night that your wines don’t boil over or leak.
+You’ll know their fermenting by their hissing.
+Names of Wines
+Campolet, Rhenish, &c
+To make Ypocras.
+Take spices; put 6 bags on a perch, 6 pewter basins under, ginger and
+cinnamon.
+(Of the qualities of spices.) Pound each spice separately, put ’em in
+bladders, and hang ’em in your bags, add a gallon of red wine to ’em,
+stir it well, run it through two bags, taste it, pass it through 6
+runners, and put it in a close vessel.
+Keep the dregs for cooking.
+Have your Compost clean, and your ale 5 days old, but not dead.
+To lay the Cloth.
+Put on a couch, then a second cloth, the fold on the outer
+edge; a third, the fold on the inner edge.
+Cover your cupboard, put a towel round your neck, one side lying on
+your left arm; on that, 7 loaves of eating bread and 4 trencher
+loaves.
+In your left hand a saltcellar, in your right the towel.
+Set the saltcellar on your lord’s right, and trenchers on the left of
+it.
+Lay knives, bread, spoons, napkins, and cover ’em up.
+To wrap your Lord’s bread stately.
+Square the loaves; take a Reynes towel 2½ yards long by the ends; put
+it on the table, pinch up a handful of one end, and lay it between 2
+towels, and on it lay your 6 or 7 loaves bottom to bottom.
+Put salt, cups, &c., on the other tables.
+See that your Ewery is properly supplied, and your ale-pots
+kept clean.
+To arrange the Surnape.
+Put a cloth under a double towel, hold 3 ends together, fold them in
+a foot-broad pleat, and lay it smooth.
+After washing, the Marshal must carry the surnape out.
+Leave out half a yard to make estate.
+When your lord has washed, remove the Surnape.
+When he is seated, salute him, uncover your bread, kneel on your knee
+till 8 loaves are served out (?) Provide as many cups as dishes.
+The Sewer or arranger of dishes must ascertain what dishes and
+fruits are prepared daily for dinner; and he must have people ready to
+carry up the dishes.
+The Succession of Dishes.
+
+1. Brawn, &c.
+2. Pheasant, &c.
+3. Meat Fritters, &c
+4. For a standard, a peacock with his tail.
+5. Doucettes, Paynpuff, Brew, Snipe, Petyperuys and Fayge,
+Caraways, &c.
+
+Clear the table
+Keruynge of Flesshe.
+Your hands must be clean; only two fingers and a thumb should be put
+on your knife, or on fish, flesh, or fowl.
+Wipe your knife on your napkin.
+Lay 4 trenchers for your lord, with 2 or 4 on them and the upper
+crust of a fine loaf.
+Give heed to what is indigestible, as resty, fat things, feathers,
+heads, legs, &c.
+Keruynge of Flesshe.
+How to carve Brawn, Venison, (cut it in 12 bits and slice it into the
+furmity,) Pheasant, Stockdoves, (mince the wings into the syrup,) Goose,
+Teal, &c., (take off the legs and wings,) Capon, (mince the wing
+with wine or ale,) Plover, Lapwing, Bittern, Egret.
+How to carve a Crane, (mind the trump in his breast,) Shoveler,
+Quail, Martins, Swallow, Fawn, Kid, Roast Venison, Cony, (lay him on his
+belly with his two cut-off sides, on each side of him.)
+Cut 4 strips to each bit of meat, for your lord to pick it up by.
+Open hot Meat-Pies at the top; cold in the middle.
+Cut Custards in inch blocks.
+Doucettes, pare off sides and bottom.
+Fritters hot are good, cold bad.
+Tansey is good.
+Jelly, Blanche Manger, Charlet, &c., are good, and no other
+potages.
+Sauces for all maner of Fowles.
+Mustard for beef; Verjuice for boiled chickens; Cawdrons for swans;
+Garlick, &c., for beef.
+Ginger for lamb; Gamelyne for heronsewe, &c.; Salt, Sugar and
+Water of Tame for brew, &c.
+White salt for lapwings, &c.
+Cinnamon and salt for thrushes &c.
+The Dinner Courses from Easter to Whitsunday.
+From Easter to Pentecost, set bread, trenchers and spoons:
+
+6 or 8 trenchers for a great lord, 3 for one of low degree.
+Then cut bread for eating.
+For Easter-day Feast: First Course:
+A Calf, boiled and blessed; boiled Eggs and green sauce; Potage, with
+beef, saffron-stained Capons.
+Second Course: Mameny, Pigeons, Chewets, Flawnes.
+Supper: Chickens, Veal, roast Kid, Pigs’-Feet, a Tansey fried.
+Green Sauces of sorrel or vines, for the first course.
+Keruyng of all maner of Fowles.
+
+How to carve a Capon. Sauce: green sauce or verjuice.
+Swan. Chawdron is the sauce for him.
+Pheasant. No sauce but Salt.
+Partridge. Sauce for Partridges.
+How to carve a Quail. Sauce: salt.
+Crane. Sauce: ginger, mustard, vinegar, and salt.
+Heron. Sauce as before.
+Rittern. Salt, the sauce.
+Egret. Salt, the sauce.
+Curlew. Salt, as sauce.
+Brew. Salt, as sauce.
+Cony (or Rabbit.) Sauce: vinegar and ginger.
+Sarcel or Teal.
+Plover.
+Snipe.
+Woodcock.
+
+Sauces for the Second Course.
+First Course: Beef and Capons.
+How to sauce and carve a Roast capon: lay him out as if ready to
+fly.
+Second Course: Potage, Charlet, young Geese, Payne Puff, &c.
+How to carve a Goose.
+Goose must be eaten with green garlic or verjuice.
+Dinner Courses from the Nativity of St John the Baptist, (June
+24,) to Michaelmas.
+First Course: soups, vegetables, legs of Pork, &c.
+Second Course: roast Mutton, glazed Pigeons, Fritters, &c.
+Serve a Pheasant dry, with salt and ginger: a Heronsewe with salt and
+powder (blanche?) Treat open-clawed birds like capons.
+Dinner Courses from Michaelmas to Christmas.
+First Course: legs of Pork, &c.
+Second Course: Widgeon, Fieldfares, Chewets, Beef, with sauces
+Gelopere and Pegyll.
+Cut the skin off boiled meats.
+Carve carefully for Ladies; they soon get angry.
+Carve Goose and Swan like other birds.
+The skin of cloven-footed birds is unwholsome; of whole-footed birds
+wholesome, because the water washes all corruption out of ’em.
+Chicken’s skin is not so pure, because their nature is not to enter
+into the river.
+River birds cleanse their foul stink in the river.
+Take off the heads of all field birds, for they eat worms, toads, and
+the like.
+Sewynge of Fysshe.
+First Course:
+Musculade. Salens, &c., baked Gurnet.
+Second Course:
+Jelly, dates, &c. For a standard, Mullet, Chub, Seal, &c.
+Third Course:
+Bream, Perch, Whelks; and pears in sugar candy. Figs, dates capped with
+minced ginger, &c.
+All over! Clear the table.
+Carving and Dressing of Fish
+Put tails and livers in the pea broth and furmity.
+How to carve Seal Turrentyne, baked Herring, white Herring, Green
+Fish, Merling, Hake, Pike, salt Lamprey, Plaice.
+Gurnard, Bream, Roach, Whiting, Codling.
+Carp, Trout, Conger, Thornback, Halibut, Tench, and Crab.
+How to dress and serve up a Crab.
+How to dress and carve a Crayfish, a Joll of Sturgeon, a fresh
+Lamprey, pasty. (sauce, Galentyne with red wine and powdered cinnamon.)
+Fresh Herring, &c.
+Sprats, Musculade in worts, Oysters.
+Dates, pears, Mortrewes of Dogfish.
+Sauces for Fish.
+Mustard for Salmon, &c.; Vinegar for salt Whale, &c.;
+Galentyne for Lamprey; Verjuice for Roach, &c.; Cinnamon for Chub,
+&c.; Green Sauce for Halibut, &c.
+The Duties of a Chamberlain.
+He must be cleanly, and comb his hair; see to his Lord’s clothes, and
+brush his hose; in the morning warm his shirt, and prepare his
+footsheet; warm his petycote, &c.; put on his shoes, tie up his
+hose, comb his head, wash his hands, put on the robe he orders.
+Make ready his Closet in the Church or Chapel, then come home to his
+Bed-chamber, take off the bed-clothes.
+Make his lord’s bed again with clean sheets, and lay hangings round
+the bed, and windows, &c.
+Keep the privy clean, and the board covered with green cloth, and
+provide down or cotton for wiping.
+When he goes to bed, let him wash; put him on a mantle, take off his
+shoes, &c.
+Comb his head, put on his night-cap, draw the curtains round him,
+drive out the dogs and cats, set the urinal near, and then take
+leave.
+Of the Marshal and Usher.
+He must know the orders of precedence of all ranks.
+A Cardinal before a Prince.
+The Mayor of London ranks with the 3 Chief Justices.
+The Knight’s equals.
+The ex-Mayor of London.
+The Esquire’s equals. Who must dine alone, who 2 together, who 2 or
+3, who 3 or 4. The Marshall must know who are of royal blood, for that
+has the reverence. He must take heed of the King’s officers, do honour
+to strangers, and receive a Messenger from the King as if one degree
+higher than he is, for a King’s groom may sit at a Knight’s table.
+
+The Boke of Curtasye
+In this book you may learn Courtesy. Every one needs it.
+On reaching a Lord’s gate, give the Porter your weapon, and ask leave
+to go in.
+If the master is of low degree, he will come to you: if of high, the
+Porter will take you to him.
+At the Hall-door, take off your hood and gloves, greet the Steward,
+&c., at the dais, bow to the Gentlemen on each side of the hall both
+right and left; notice the yeomen, then stand before the screen till the
+Marshal or Usher leads you to the table.
+Be sedate and courteous if you are set with the gentlemen.
+Cut your loaf in two, the top from the bottom; cut the top crust in
+4, and the bottom in 3. cut the top crust in 4, and the bottom in 3.
+Put your trencher before you, and don’t eat or drink till your Mess
+is brought from the kitchen, lest you be thought starved or a
+glutton.
+Have your nails clean.
+Don’t bite your bread, but break it.
+Don’t quarrel at table, or make grimaces.
+Don’t cram your cheeks out with food like an ape, for if any one
+should speak to you, you can’t answer, but must wait.
+Don’t eat on both sides of your mouth.
+Don’t laugh with your mouth full, or sup up your potage noisily.
+Don’t leave your spoon in the dish or on its side, but clean your
+spoon.
+Let no dirt off your fingers soil the cloth.
+Don’t put into the dish bread that you have once bitten.
+Dry your mouth before you drink.
+Don’t call for a dish once removed, or spit on the table: that’s
+rude.
+Don’t scratch your dog.
+If you blow your nose, clean your hand; wipe it with your skirt or
+put it through your tippet.
+Don’t pick your teeth at meals, or drink with food in your mouth, as
+you may get choked, or killed, by its stopping your wind.
+Tell no tale to harm or shame your companions.
+Don’t stroke the cat or dog.
+Don’t dirty the table cloth with your knife.
+Don’t blow on your food, or put your knife in your mouth, or wipe
+your teeth or eyes with the table cloth.
+If you sit by a good man, don’t put your knee under his thigh.
+Don’t hand your cup to any one with your back towards him.
+Don’t lean on your elbow, or dip your thumb into your drink, or your
+food into the salt cellar:
+That is a vice.
+Don’t spit in the basin you wash in or loosely (?) before a man of
+God.
+If you go to school you shall learn:
+
+1. Cross of Christ,
+2. Pater Noster,
+3. Hail Mary and the Creed,
+4. In the name of the Trinity,
+5. of the Apostles,
+6. the Confession.
+
+Seek the kingdom of God, and worship Him.
+At church, take holy water; pray for all Christian companions; kneel
+to God on both knees, to man only on one.
+At the Altar, serve the priest with both hands.
+Speak gently to your father and mother, and honour them.
+Do to others as you would they should do to you.
+Don’t be foolishly meek.
+The seed of the righteous shall never beg or be shamed.
+Be ready forgive, and fond of peace.
+If you cannot give an asker goods, give him good words.
+Be willing to help every one.
+Give your partner his fair share.
+Go on the pilgrimages (?) you vow to saints, lest God take vengeance
+on you.
+Don’t believe all who speak fair: the Serpent spoke fair words (to
+Eve).
+Be cautious with your words, except when angry.
+Don’t lie, but keep your word.
+Don’t laugh too often, or you’ll be called a shrew or a fool.
+Man’s 3 enemies are: the Devil, the Flesh, and the World.
+Destroy these, and be sure of heaven.
+Don’t strive with your lord, or bet or play with him.
+In a strange place don’t be too inquisitive or fussy.
+If a man falls, don’t laugh, but help him up: your own head may fall
+to your feet.
+At the Mass, if the priest doesn’t please you, don’t blame him.
+Don’t tell your secrets to a shrew.
+Don’t beckon, point, or whisper.
+When you meet a man, greet him, or answer him cheerily if he greets
+you:
+don’t be dumb, lest men say you have no mouth.
+Never speak improperly of women, for we and our fathers were all born
+of women.
+A wife should honour and obey her husband, and serve him.
+Try to reconcile brothers if they quarrel.
+At a gate, let your equal precede you; go behind your superior and
+your master unless he bids you go beside him.
+On a pilgrimage don’t be third man: 3 oxen can’t draw a plough.
+Don’t drink all that’s in a cup offered you; take a little.
+If you sleep with any man, ask what part of the bed he likes, and lie
+far from him.
+If you journey with any man, find out his name, who he is, where he
+is going.
+With friars on a pilgrimage, do as they do.
+Don’t put up at a red (haired and faced) man or woman’s house.
+Answer opponents meekly, but don’t tell lies.
+Before your lord at table, keep your hands, feet, and fingers
+still.
+Don’t stare about, or at the wall, or lean against the post.
+Don’t pick your nose, scratch your arm, or stoop your head.
+Listen when you’re spoken to.
+Never harm child or beast with evil eye (?) Don’t blush when you’re
+chaffed, or you’ll be accused of mischief.
+Don’t make faces.
+Wash before eating.
+Sit where the host tells you; avoid the highest place unless you’re
+told to take it.
+Of the Officers in Lords’ Courts.
+Four bear rods; three wands:
+
+1. Porter, the longest,
+2. Marshal,
+3. Usher, the shortest,
+4. Steward, a staff, a finger thick, half a yard long.
+
+Of the Porter.
+He keeps the Gate and Stocks, takes charge of misdoers till judged,
+also of clothes, and warns strangers.
+He is found in meat and drink.
+On his lord’s removing, he hires horses at 4d. a piece, the statute
+price.
+Of the Marshal of the Hall
+How long Squires shall have allowances, and Fire shall burn in the
+Hall.
+He shall arrest rebels, when the steward is away.
+Yeoman-Usher and Groom are under him.
+The Groom gets fuel for the fire, and makes one in Hall for every
+meal; looks after tables, trestles, forms, the cup-board, and hangings
+of the Hall.
+Fires last from Allsaints’ Day to Candlemas Eve, (Nov. 1 to Feb. 2.)
+and thus long, Squires receive their daily candle?
+The Marshal shall seat men in the Hall.
+Of the Butler, Panter, and Cooks serving him.
+They are the Marshal’s servants.
+He shall score up all messes served, and order bread and ale for men,
+but wine for gentlemen.
+Each mess shall be reckoned at 6d. and be scored up to prevent the
+cook’s cheating.
+If bread runs short, the Marshal orders more, ‘a reward.’
+
+Of the Butler’s duties.
+He shall put a pot and loaf to each mess.
+He is the panter’s mate.
+The Marshal shall see to men’s lodging.
+The Lord’s Chamber and Wardrobe are under the Usher of the
+Chamber.
+Of the Usher and Grooms of the Chamber.
+
+1. Usher,
+2. Yeoman-usher,
+3. Two grooms and a Page.
+
+The Duties of the Grooms of the Chamber.
+They shall make palets of litter 9 ft. long, 7 broad, watered, twisted,
+trodden, with wisps at foot and side, twisted and turned back; from the
+floor-level to the waist.
+For lords, 2 beds, outer and inner, hung with hangings, hooks and
+eyes set on the binding; the valance hanging on a rod (?), four curtains
+reaching to the ground; these he takes up with a forked rod.
+The counterpane is laid at the foot, cushions on the sides, tapestry
+on the floor and sides of the room.
+The Groom gets fuel, and screens.
+The Groom keeps the table, trestles, and forms for dinner; and water
+in a heater.
+He puts 3 wax-lights over the chimney, all in different syces.
+The Usher of the Chamber walks about and sees that all is
+served right, orders the table to be set and removed, takes charge of
+the Wardrobe and Bedchamber, bids the Wardroper get all ready
+before the fire, nightgown, carpet, 2 cushions, a form with a footsheet
+over it; on which the lord changes his gown.
+The Usher orders what’s wanted from the Buttery: a link from the
+Chandler, and ale and wine.
+(No meat shall be assayed except for King, Prince, Duke or
+Heirs-apparent.)
+From the Pantry the Usher takes fine and coarse bread, and a
+wax-light that burns all night in a basin.
+(The Yeoman-Usher removes the torches.)
+The Usher puts lights on the Bedroom door, brings bread and wine,
+(the lord washing first,) offers the drink kneeling; puts his lord to
+bed, and then goes home himself.
+The Yeoman-Usher sleeps at the Lord’s door.
+Of the Steward.
+Few are true, but many false.
+He, the clerk, cook and surveyor consult over their Lord’s
+dinner.
+Any dainty that can be had, the Steward buys.
+Before dishes are put on, the Steward enters first, then the
+Server.
+The Steward shall post into books all accounts written on tablets,
+and add them up.
+Of the Controller.
+He puts down the receipt and consumption of every day.
+Of the Surveyor.
+He, the steward, and controller, receive nothing, but see that all
+goes straight.
+The Controller checks daily the Clerk of the kitchen’s account.
+Of the Clerk of the Kitchen.
+He shall keep account of all purchases, and payments, and wages,
+shall preside at the Dresser, and keep the spices, stores, &c., and
+the clothes of the officers.
+Of the Chancellor.
+He looks after the servants’ clothes, and horses, seals patents, and
+grants of land, &c., for life, or during the lord’s pleasure.
+He oversees the land too, and is a great man.
+Of the Treasurer.
+He takes from the Receiver what is collected from bailiff and grieve,
+courts and forfeits.
+He gives the Kitchen clerk money to buy provisions with, and the
+clerk gives some to the baker and butler.
+The Treasurer pays all wages.
+He, the Receiver, Chancellor, Grieves, &c., account once a year
+to the Auditor, from whom they can appeal to a Baron of the
+Exchequer.
+Of the Receiver of Rents.
+He gives receipts, and gets a fee of 6d.
+He pays fees to park-keepers, and looks after castles and
+manor-houses.
+Of the Avener.
+He shall give the horses in the stable two armsful of hay and a peck
+of oats, daily.
+A Squire is Master of the Horse; under him are Avener and Farrier,
+(the Farrier has a halfpenny a day for every horse he shoes,) and grooms
+and pages hired at 2d. a day, or 3 halfpence, and footmen who run by
+ladies’ bridles.
+Of the Baker.
+Out of a London bushel he shall bake 20 loaves, fine and coarse.
+Of the Huntsman and his Hounds.
+He gets a halfpenny a day for every hound.
+The Feuterer 2 lots of bread if he has 2 leash of Greyhounds, and a
+bone for each, besides perquisites of skins, &c.
+Of the Ewerer or Water-bringer.
+He has all the candles and cloths and gives water to every one.
+Who may wash his hands, and where.
+The bringer of Water shall kneel down.
+The Ewerer shall cover the lord’s table with a double cloth, the
+lower with the selvage to the lord’s side; the upper cloth shall be laid
+double, the upper selvage turned back as if for a towel.
+He shall put on cleaners for every one.
+Of the Panter.
+He carries 3 loaves cut square for trenchers, and the covered
+Saltcellar, 2 Carving-knives, and sets the 3rd, and a spoon to his
+lord.
+Of the Lord’s Knives, (Bread, and Washing.)
+The hafts of 2 are laid outwards, that of the 3rd inwards, and the
+spoon handle by it.
+More trencher loaves are set, and wine served to the Duchess.
+2 Trencher-loaves, and salt, to the lord’s son; and 1 loaf and
+saltcellar set at the end of the table.
+Then 3 loaves of white bread are brought, and 1 coarse loaf is put in
+the Alms-dish.
+To assay bread, the Panter kneels, the Carver cuts him a slice, and
+he eats it.
+The Ewerer strains water into his basins, on the upper one of which
+is a towel folded dodgily.
+Then the water is assayed in a cup of white wood.
+The Carver takes up the basins; a knight takes down the towel, and
+wipes the cup, into which the Carver pours water; the knight hands it to
+him;
+he assays it, and empties the cup.
+Two knights hold the towel before the lord’s sleeves, and hold the
+upper basin while the Carver pours water into the lower; then he puts
+the lower into the upper, and empties both, takes them to the Ewerer,
+returns to the lord’s table, lays 4 trenchers for him, with 1 above.
+The Carver takes 3 to cut the lord’s messes on, and has a cloth round
+his neck to wipe his knives on.
+Of the Almoner.
+He says grace, sets down the Alms-dish, and the Carver puts the first
+loaf in it.
+The other loaves he pares round, cuts one in two, and gives the upper
+half in halves to him.
+The Almoner has a staff in his hand.
+He keeps the broken food and wine left, for poor men at the gate, and
+is sworn to give it all to them.
+He distributes silver as he rides.
+Of the Sewer (or setter-on of Dishes).
+The Cook assays the meat before it’s dished.
+The Sewer puts the cover on it, and the cover must never be raised
+for fear of treason.
+(A Dodge: If the silver dish burns you, put bits of bread under
+it.)
+The Sewer assays all the food: potage with a piece of bread; fish or
+flesh, he eats a piece; baked meats hot, he lifts up the crust, and dips
+bread in the gravy; baked meats cold, he eats a bit.
+The meat-bearer stands or kneels as the Sewer does.
+When bread is wanted, the Butler puts one loaf on the table, the
+other on the cupboard.
+The Butler assays all the wine.
+What is left in the lord’s cup goes to the Alms-dish.
+The Carver fills the empty cup, assays it, and gives it the lord or
+puts it down.
+He carves the lord’s meat, and lays it on his trencher, putting a
+piece of every thing in the Alms-dish, except any favourite piece or
+potage sent to a stranger.
+(To say more about the Carver would require another section, so I
+pass it over.)
+After dinner the Sewer brings the Surnape, a broad towel and a
+narrow, and slides it down.
+The Usher takes one end of the broad one, the Almoner the other, and
+when it is laid, he folds the narrow towel double before his lord and
+lady.
+After grace removes them, lays the table on the floor, and takes away
+the trestles.
+Of the Chandler.
+He can make all kinds of candles, little and big, and mortars of
+wax.
+He snuffs them with short scissors.
+In bed-chambers wax lights only shall be burnt; in hall, Candles of
+Paris, each mess having one from Nov. 1 to Feb. 2 (see l. 393), and
+squires one too.
+The Butler shall give Squires their daily bread and ale all the year,
+and Knights their wine.
+May Christ bring us to His dwelling-place. Amen!
+
+Bp. Grossetest’s Household Statutes.
+All servants should serve truly God and their Master; doing fully all
+that their Master orders, without answering.
+The upper servants must be honest and diligent, and engage no
+untrusty or unfit man.
+iv. Dishonest, quarrelsome, and drunken servants must be turned
+out.
+v. All must be of one accord, vi. obedient to those above them, vii.
+dress in livery, and not wear old shoes.
+viii. Order your Alms to be given to the poor and sick.
+ix. Make all the household dine together in the Hall.
+x. Let no woman dine with you.
+Let the Master show himself to all.
+Don’t allow grumbling.
+xi. Let your servants go to their homes.
+xii. Tell your Panter and Butler to come to the table before
+grace.
+Tell off three yeomen to wait at table.
+xiii. Tell the Steward to keep good order in the Hall, and serve
+every one fairly.
+xiv. Have your dish well filled that you may help others to it.
+xv. Always admit your special friends, and show them you are glad to
+see them.
+xvi. Talk familiarly to your Bailiffs, ask how your tenants and store
+do.
+xvii. Allow no private meals; only those in Hall.
+
+Stanzas and Couplets of Counsel
+Never mistrust or fail your friend.
+Don’t talk too much.
+Spare your master’s goods as your own.
+A lawless youth, a despised old age.
+A Gentleman says the best he can of every one.
+
+The schoole of Vertue
+First, say this prayer: “O God! enable us to follow virtue. Defend us
+this day. Let us abound with virtues, flee from vice, and go forward in
+good doing to our live’s end.”
+Repeat the Lord’s Prayer night and morning.
+How to wash and dress yourself.
+Don’t sleep too long.
+Rise early; cast up your bed, and don’t let it lie.
+Go down, salute your parents, wash your hands, comb your head, brush
+your cap and put it on.
+Tie on your shirt-collar, fasten your girdle, rub your breeches,
+clean your shoes, wipe your nose on a napkin, pare your nails, clean
+your ears, wash your teeth.
+Have your torn clothes mended, or new ones obtained.
+Get your satchell and books, and haste to School, taking too pen,
+paper, and ink, which are necessary for use at school.
+Then start off.
+How to behave going to, and at, School.
+Take off your cap to those you meet; give way to passers by.
+Call your playmates on your road.
+At School salute your master, and the scholars.
+Go straight to your place, undo your satchell, take out your books
+and learn your lesson; stick well to your books.
+If you don’t work, you’ll repent it when you grow up.
+Who could now speak of famous deeds of old, had not Letters preserved
+them?
+Work hard then, and you’ll be thought worthy to serve the state.
+Men of low birth win honour by Learning, and then are doubly
+happy.
+When you doubt, ask to be told.
+Wish well to those who warn you.
+On your way home walk two and two orderly (for which men will praise
+you); don’t run in heaps like a swarm of bees like boys do now.
+Don’t whoop or hallow as in fox-hunting don’t chatter, or stare at
+every new fangle, but walk soberly, taking your cap off to all, and
+being gentle.
+Do no man harm; speak fair words.
+On reaching home salute your parents reverently.
+How to wait at table.
+Look your parents in the face, hold up your hands, and say Grace
+before meate.
+Grace before Meat.
+Make a low curtesy; wish your parents’ food may do ’em good.
+If you are big enough, bring the food to table.
+Don’t fill dishes so full as to spill them on your parents’ dress, or
+they’ll be angry.
+Have spare trenchers ready for guests.
+See there’s plenty of everything wanted.
+Empty the Voiders often.
+Be at hand if any one calls.
+When the meat is over, clear the table:
+
+1. cover the salt,
+2. have a tray by you to carry things off on,
+3. put the trenchers, &c., in one Voider,
+4. sweep the crumbs into another,
+5. set a clean trencher before every one,
+6. put on Cheese, Fruit, Biscuits, and
+7. serve Wine, Ale or Beer.
+
+When these are finished, clear the table, and fold up the cloth.
+Then spread a clean towel, bring bason and jug, and when your parents
+are ready to wash, and when your parents are ready to wash, pour out the
+water.
+Clear the table; make a low curtsey.
+How to behave at your own dinner.
+Let your betters sit above you.
+See others served first, then wait a while before eating.
+Take salt with your knife, cut your bread, don’t fill your spoon too
+full, or sup your pottage.
+Have your knife sharp.
+Don’t smack your lips or gnaw your bones: avoid such beastliness.
+Keep your fingers clean, wipe your mouth before drinking.
+Don’t jabber or stuff.
+Silence hurts no one, and is fitted for a child at table.
+Don’t pick your teeth, or spit too much.
+Behave properly.
+Don’t laugh too much.
+Learn all the good manners you can.
+They are better than playing the fiddle, though that’s no harm, but
+necessary; yet manners are more important.
+How to behave at Church.
+Pray kneeling or standing.
+Confess your sins to God.
+He knows your disease.
+Ask in faith, and what you ask you shall have; He is more merciful
+than pen can tell.
+Behave nicely in church, and don’t talk or chatter.
+Behave reverently; the House of Prayer is not to be made a fair.
+Avoid dicing and carding.
+Delight in Knowledge, Virtue, and Learning.
+Happy is he who cultivates Virtue.
+Cursed is he who forsakes it.
+Let reason rule you, and subdue your lusts.
+These ills come from gambling: strife, murder, theft, cursing and
+swearing.
+How to behave when conversing.
+Understand a question before you answer it; let a man tell all his
+tale.
+Then bow to him, look him in the face, and answer sensibly, not
+staring about or laughing, but audibly and distinctly, your words in due
+order, or you’ll straggle off, or stutter, or stammer, which is a foul
+crime.
+Always keep your head uncovered.
+Better unfed than untaught.
+How to take a Message.
+Listen to it well; don’t go away not knowing it.
+Then hurry away, give the message; get the answer, return home, and
+tell it to your master exactly as it was told to you.
+Against Anger, &c.
+The slave of Anger must fall.
+Anger’s deeds are strange to wise men.
+A hasty man is always in trouble.
+Take no revenge, but forgive.
+Envy no one.
+An ill body breeds debate.
+The Fruits of Charity, &c.
+Charity seeketh not her own, but bears patiently.
+Charity seeketh not her own, but bears patiently.
+Love incites to Mercy.
+Patience teaches forbearance.
+Pray God to give thee Charity and Patience, to lead thee to Virtue’s
+School, and thence to Eternal Bliss.
+Against Swearing.
+Take not God’s name in vain, or He will plague thee.
+Beware of His wrath, and live well in thy vocation.
+What is the good of swearing?
+It kindles God’s wrath against thee.
+God’s law forbids swearing, and so does the counsel of
+Philosophers.
+Against filthy talking.
+Never talk dirt.
+For every word we shall give account at the Day of Doom, and be
+judged according to our deeds.
+Let lewd livers then fear.
+Keep your tongue from vain talking.
+Against Lying.
+To speak the truth needs no study, therefore always practise it and
+speak it.
+Shame is the reward of lying.
+Always speak the truth.
+Who can trust a liar?
+If a lie saves you once, it deceives you thrice.
+A bedward Prayer.
+God of mercy, take us into Thy care.
+Forgive us our sins.
+Deliver us from evil, and our enemy the Devil.
+Assist us to conquer him and ascribe all honour to Thee.
+Each one’s Duty.
+The Duty of Princes, Judges, Prelates, Parents, Children, Masters,
+Servants, Husbands.
+The Duty of Wives, Parsons and Vicars, Men of Law, Craftsmen,
+Landlords, Merchants, Subjects, Rich Men, Poor Men, Magistrates,
+Officers, The Duty of all Men.
+God grant us all to live and die well!
+
+Whate-ever thow sey, avyse thee welle!
+A man must mind what he says; hearts are fickle and fell.
+Take care what you say. A false friend may hear it, and after a year
+or two will repeat it.
+Hasty speech hurts hearer and speaker. In the beginning, think on the
+end.
+You tell a man a secret, and he’ll betray it for a drink of wine.
+Mind what you say.
+Avoid backbiting and flattering; refrain from malice, and
+bragging.
+A venomous tongue causes sorrow. When words are said, regret is too
+late.
+Mind what you say.
+Had men thought of this, many things done in England would never have
+been begun.
+To speak aright observe six things:
+
+1. what; 2. of whom; 3. where; 4. to whom; 5. why; 6. when.
+In every place mind what you say.
+Almighty God, grant me grace to serve Thee!
+Mary, mother, send me grace night and day!
+
+A Dogg Lardyner, & a Sowe Gardyner
+A dog in a larder, a sow in a garden, a fool with wise men, are ill
+matcht.
+
+Roger Ascham’s Advice to Lord Warwick’s Servant
+Fear God, serve your lord faithfully, be courteous to your
+fellows.
+Despise no poor man.
+Carry no tales.
+Tell no lies.
+Don’t play at dice or cards.
+Take to your lord’s favourite sport.
+Beware of idleness.
+Always be at hand when you’re wanted.
+Diligence will get you praise.
+God be with you!
+
+The Babees Book
+My God, support me while I translate this treatise from Latin. It
+shall teach those of tender age.
+To know and practise virtues is the most profitable thing in the
+world.
+Young Babies, adorned with grace, I call on you to know this book
+(for Nurture should accompany beauty), and not on aged men expert
+therein.
+Why add pain to hell, water to the sea, or heat to fire?
+Babies, my book is for you only, and so I hope no one will find fault
+with it, but only amend it.
+The only reward I seek is that my book may please all and improve
+you.
+If you don’t know any word in it, ask till you do, and then keep hold
+of it.
+And do not wonder at this being in metre.
+I must first describe how you Babies who dwell in households should
+behave at meals, and be ready with lovely and benign words when you are
+spoken to.
+Lady Facetia, help me! Thou art the Mother of all Virtue.
+Help the ignorance of me untaught!
+Fair Babies, when you enter your lord’s place, say “God speed,” and
+salute all there.
+Kneel on one knee to your lord.
+If any speak to you, look straight at them, and listen well till they
+have finished; do not chatter or let your eyes wander about the
+house.
+Answer sensibly, shortly, and easily.
+Many words are a bore to a wise man.
+Stand till you are told to sit: keep your head, hands, and feet
+quiet:
+don’t scratch yourself, or lean against a post, or handle anything
+near.
+Bow to your lord when you answer.
+If any one better than yourself comes in, retire and give place to
+him.
+Turn your back on no man.
+Be silent while your lord drinks, not laughing, whispering, or
+joking.
+If he tells you to sit down, do so at once.
+Then don’t talk dirt, or scorn any one, but be meek and cheerful.
+If your better praises you, rise up and thank him heartily.
+When your lord or lady is speaking about the household, don’t you
+interfere, but be always ready to serve at the proper time, to bring
+drink, hold lights, or anything else, and so get a good name.
+The best prayer you can make to God is to be well mannered.
+If your lord offers you his cup, rise up, take it with both hands,
+offer it to no one else, but give it back to him that brought it.
+At Noon, when your lord is ready for dinner, some pour water on him,
+some hold the towel for him till he has finished, and don’t leave till
+grace is said.
+Stand by your lord till he tells you to sit, then keep your knife
+clean and sharp to cut your food.
+Be silent, and tell no nasty stories.
+Cut your bread, don’t break it.
+Lay a clean trencher before you, and eat your broth with a spoon,
+don’t sup it up.
+Don’t leave your spoon in your dish.
+Don’t lean on the table, or dirty the cloth.
+Don’t hang your head over your dish, or eat with a full mouth, or
+pick your nose, teeth, and nails, or stuff your mouth so that you can’t
+speak.
+Wipe your mouth when you drink, and don’t dirty the cup with your
+hands.
+Don’t dip your meat in the salt-cellar, or put your knife in your
+mouth.
+Taste every dish that’s brought to you, and when once your plate is
+taken away, don’t ask for it again.
+If strangers dine with you, share all good food sent to you with
+them.
+It’s not polite to keep it all to yourself.
+Don’t cut your meat like field labourers, who have such an appetite
+they don’t care how they hack their food.
+Sweet children, let your delight be courtesy, and eschew
+rudeness.
+Have a clean trencher and knife for your cheese, and eat
+properly.
+Don’t chatter either, and you shall get a good repute for
+gentleness.
+When the meal is over, clean your knives, and put them in their
+places; keep your seats till you’ve washed; then rise up without
+laughing or joking, and go to your lord’s table.
+Stand there till grace is said.
+Then some of you go for water, some hold the towel, some pour water
+over his hands.
+Other things I shall not put in this little Report, but skip over,
+praying that no one will abuse me for this work.
+Let readers add or take away: I address it to every one who likes to
+correct it.
+Sweet children, I beseech you know this book, and may God make you so
+expert therein that you may attain endless bliss.
+
+Lerne or be Lewde
+Don’t be too loving or angry, bold or busy, courteous or cruel or
+cowardly, and don’t drink too often, or be too lofty or anxious, but
+friendly of cheer.
+Hate jealousy, be not too hasty or daring; joke not too oft; ware
+knaves’ tricks.
+Don’t be too grudging or too liberal, too meddling, too particular,
+new-fangled, or too daring.
+Hate oaths and flattery.
+Please well thy master.
+Don’t be too rackety, or go out too much.
+Don’t be too revengeful or wrathful, and wade not too deep.
+The middle path is the best for us all.
+
+Urbanitatis
+When you come before a lord take off your cap or hood, and fall on
+your right knee twice or thrice.
+Keep your cap off till you’re told to put it on; hold up your chin;
+look in the lord’s face; keep hand and foot still; don’t spit or snot;
+get rid of it quietly; behave well.
+When you go into the hall, don’t press up too high.
+Don’t be shamefaced.
+Wherever you go, good manners make the man.
+Reverence your betters, but treat all equally whom you don’t
+know.
+See that your hands are clean, and your knife sharp.
+Let worthier men help themselves before you eat.
+Don’t clutch at the best bit.
+Keep your hands from dirtying the cloth, and don’t wipe your nose on
+it, or dip too deep in your cup.
+Have no meat in your mouth when you drink or speak; and stop talking
+when your neighbour is drinking.
+Scorn and reprove no man.
+Keep your fingers from what would bring you to grief.
+Among ladies, look, don’t talk.
+Don’t laugh loud, or riot with ribalds.
+Don’t repeat what you hear.
+Words make or mar you.
+If you follow a worthier man, let your right shoulder follow his
+back, and don’t speak till he has done.
+Be austere (?) in speech; don’t stop any man’s tale.
+Christ gives us all wit to know this, and heaven as our reward.
+Amen!
+
+The Lytylle Childrenes Lytil Boke or Edyllys be
+Clerks say that courtesy came from heaven when Gabriel greeted our
+Lady.
+All virtues are included in it.
+See that your hands and nails are clean.
+Don’t eat till grace is said, or sit down till you’re told.
+First, think on the poor; the full belly wots not what the hungry
+feels.
+Don’t eat too quickly.
+Touch nothing till you are fully helped.
+Don’t break your bread in two, or put your pieces in your pocket,
+your fingers in the dish, or your meat in the salt-cellar.
+Don’t pick your ears or nose, or drink with your mouth full, or cram
+it full.
+Don’t pick your teeth with your knife.
+Take your spoon out when you’ve finished soup.
+Don’t spit over or on the table, that’s not proper.
+Don’t put your elbows on the table, or belch as if you had a bean in
+your throat.
+Be careful of good food; and be courteous and cheerful.
+Don’t whisper in any man’s ear.
+Take your food with your fingers, and don’t waste it.
+Don’t grin, or talk too much, or spill your food.
+Keep your cloth before you.
+Cut your meat, don’t bite it.
+Don’t open your mouth too wide when you eat, or blow in your
+food.
+If your lord drinks, always wait till he has done.
+Keep your trencher clean.
+Drink behind no man’s back.
+Don’t rush at the cheese, or throw your bones on the floor.
+Sit still till grace is said and you’ve washed your hands, and don’t
+spit in the basin.
+Rise quietly, don’t jabber, but thank your host and all the company,
+and then men will say, ‘A gentleman was here!’
+He who despises this teaching isn’t fit to sit at a good man’s
+table.
+Children, love this little book, and pray that Jesus may help its
+author to die among his friends, and not be troubled with devils, but be
+in joy for ever.
+Amen!
+
+The Young Children’s Book
+Whoever will thrive, must be courteous, and begin in his youth.
+Courtesy came from heaven, and contains all virtues, as rudeness does
+all vices.
+Get up betimes; cross yourself; wash your hands and face; comb your
+hair; say your prayers; go to church and hear Mass.
+Say ‘Good Morning’ to every one you meet.
+Then have breakfast, first crossing your mouth.
+Say grace, thank Jesus for your food, and say an Ave for the souls in
+pain.
+Then set to work, and don’t be idle.
+Scripture tells you, if you work, you must eat what you get with your
+hands.
+Be true in word and deed; truth keeps a man from blame.
+Mercy and Truth are the two ways to heaven, fail not to go by
+them.
+Make only proper promises, and keep them without falsehood.
+Love God and your neighbours, and so fulfil all the Law.
+Meddle only with what belongs to you.
+Scorn not the poor; flatter no one; oppress (?) not servants.
+Be meek, and wait till your better has spoken.
+When you speak to a man, keep still, and look him in the face.
+Don’t be a tale-bearer.
+Thank all who speak well of you.
+Use few words; don’t swear or lie in your dealings.
+Earn money honestly, and keep out of debt.
+Try to please; seek peace; mind whom you speak to and what you
+say.
+Wherever you enter, say “God be here;” and speak courteously to
+master and man.
+Stand till you are told to sit at meat, and don’t leave your seat
+before others.
+Sit upright; be sociable, and share with your neighbours.
+Take salt with a clean knife; talk no scandal, but speak well of
+all.
+Hear and see; don’t talk.
+Be satisfied with what’s set before you.
+Wipe your mouth before you drink; keep your fingers and lips
+clean.
+Don’t speak with your mouth full.
+Praise your food for whether it’s good or bad, it must be taken in
+good part.
+Mind where you spit, and put your hand before your mouth.
+Keep your knife clean, and don’t wipe it on the cloth.
+Don’t put your spoon in the dish, or make a noise, like boys, when
+you sup.
+Don’t put meat off your plate into the dish, but into a voider.
+If your superior hands you a cup, drink, but take the cup with two
+hands.
+When he speaks to you, doff your cap and bend your knee.
+Don’t scratch yourself at table, wipe your nose, or play with your
+spoon, &c.
+This book is for young children who don’t stay long at school.
+God grant them grace to be virtuous!
+
+Stans Puer ad Mensam (both versions).
+When you stand before your sovereign, speak not recklessly, and keep
+your hands still.
+Don’t stare about, lean against a post, look at the wall, pick your
+nose, or scratch yourself.
+When spoken to, don’t lumpishly look at the ground.
+Walk demurely in the streets, and don’t laugh before your lord.
+Clean your nails and wash your hands.
+Sit where you’re told to, and don’t be too hasty to begin eating.
+Don’t grin, shout, or stuff your jaws with food, or drink too
+quickly.
+Keep your lips clean, and wipe your spoon.
+Don’t make sops of bread, or drink with a dirty mouth.
+Don’t dirty the table linen, or pick your teeth with your knife.
+Don’t swear or talk ribaldry, or take the best bits; share with your
+fellows.
+Eat up your pieces, and keep your nails clean.
+It’s bad manners to bring up old complaints.
+Don’t play with your knife, or shuffle your feet about.
+Don’t spill your broth on your chest, or use dirty knives, or fill
+your spoon too full. Be quick to do whatever your lord orders.
+Take salt with your knife; don’t blow in your cup, or begin
+quarrels.
+Interrupt no man in his story.
+Drink wine and ale in moderation.
+Don’t talk too much, but keep a middle course.
+Be gentle and tractable, but not too soft.
+Children must not be revengeful; their anger is appeased with a bit
+of apple.
+Children’s quarrels are first play, then crying; don’t believe their
+complaints; give ’em the rod.
+Spare that, and you’ll spoil all.
+Young children, pray take heed to my little ballad, which shall lead
+you into all virtues.
+My mistakes I submit to correction.
+
+Ffor to serve a lord.
+1. Have your table-cloths and napkins ready, also trenchers, salts,
+&c.
+2. Bring your cloths folded, lay them on the table, then cover the
+cupboard, the side-table, and the chief table.
+3. Bring out the chief salt-cellar, and pared loaves, and hold the
+carving-knives in your right hand.
+4. Put your chief salt-cellar before the chief person’s seat, his
+bread by it, and his trenchers before it.
+5. Put the second salt-cellar at the lower end. If wooden trenchers
+are used, bring them on.
+6. Put salt-cellars on the side-tables.
+7. Bring out your basins, &c., and set all your plate on the
+cupboard.
+8. Let the chief servants have basins, &c., ready, and after
+Grace, hold the best basin to the chief lord, with the towel under; and
+then let his messmates wash.
+9. The chief lord takes his seat, then his messmates theirs; then the
+lower-mess people theirs. (When Grace begins, the bread cover is to be
+taken away.)
+10. The Carver takes 4 trenchers on his knife-point, and lays them
+before the chief lord, (one to put his salt on,) and 3 or 2 before the
+less people.
+11. The Butler gives each man a spoon and a napkin.
+12. The Carver pares 2 loaves, lays 2 before his lord, and 2 or 1 to
+the rest.
+13. Serve brawn, beef, swan, pheasant, fritters. As a change for
+beef, have legs or chines of pork, or tongue of ox or hart.
+14. Clear away the 1st course, crumbs, bones, and used trenchers.
+15. Serve the Second Course: Small birds, lamb, kid, venison,
+rabbits, meat pie, teal, woodcock. Great birds.
+16. Fill men’s cups and remove their trenchers.
+17. Collect the spoons.
+18. Take up the lowest dishes at the side-tables, and then clear the
+high table.
+19. Sweep all the bits of bread, trenchers, &c., into a
+voyder.
+20. Take away the cups, &c., from all the messes, putting the
+trenchers,
+&c., in a voyder, and scraping the crumbs off with a carving-knife.
+21. Serve wafers in towels laid on the table, and sweet wine. In
+holiday time serve cheese, or fruit; in winter, roast apples.
+22. Clear away all except the chief salt-cellar, whole bread, and
+carving-knives; take these to the pantry.
+23. Lay a fresh cloth all along the chief table.
+24. Have ready basons and jugs with hot or cold water; and after
+Grace, hand basins and water to the first mess, then the second.
+25. Take off and fold up the towels and cloth, and give ’em to
+the
+Panter.
+26. Clear away tables, trestles, forms; and put cushions on other
+seats.
+27. Butler, put the cups, &c., back into your office.
+28. Serve knights and ladies with bread and wine, kneeling.
+29. Conduct strangers to the Chamber.
+30. Serve them with dainties: junket, pippins, or green ginger; and
+sweet wines. How to carve a Swan, Goose, Wild-fowl, Crane, Heronsew,
+Bittern, Egret, Partridge, Quail, Pheasant.
+
+A Bridal Feast.
+First Course.
+Boar’s head, and a Device of Welcome. Venison and Custard, with a Device
+of Meekness.
+Second Course.
+Venison, Crane, &c., and a Device of Gladness and Loyalty.
+Third Course.
+Sweets, &c., Game, with a Device of Thankfulness.
+Fourth Course.
+Cheese and a cake with a Device of Child-bearing and a promise of
+babies.
+
+Latin Graces.
+A general Grace.
+The eyes of all wait upon thee, O Lord. Glory be to the Father,
+&c. Lord, have mercy upon us. Lord, bless us. Make us partakers of
+the heavenly table.
+Grace after Dinner.
+May the God of peace be with us! We thank thee, O Lord, for thy
+benefits. Lord, have mercy upon us! Christ, have mercy upon us! I will
+bless the Lord alway. May the name of the Lord be blessed for ever!
+Hail, Queen of Heaven, flower of virgins! pray thy Son to save the
+faithful!
+Grace on Fish-Days.
+The poor shall eat and be satisfied. Glory be to the Father, &c.
+The grace of our Lord Jesus Christ be with us all.
+In Lent.
+Break thy bread to the hungry, and take the wanderer to thy home.
+Grace after Dinner.
+Four Short Graces.
+
+1. Before Dinner.
+2. After Meals.
+Bless the Lord for this meal. Mary, pray for us!
+3. Before Supper.
+Giver of all, sanctify this supper.
+4. After Supper.
+The Lord is holy in all his works. Blessed be the name of the
+Lord.
+
+On Easter-Eve.
+Christ, have mercy upon us! Seek those things that are above.
+Grace after Dinner.
+God of Peace, We give thee thanks, O Lord. Pour into us thy Spirit,
+through Jesus Christ our Lord.
+On Easter-Day.
+This is the day which the Lord hath made: Let us rejoice and be glad
+in it. Bless us, O Lord! Our passover is slain, even Christ.
+After Dinner.
+Of thy resurrection, Christ, the heavens and the earth are glad.
+Thanks be to God!
+Before Supper.
+After Supper.
+This is the day, &c. Hallelujah. Let us bless the Lord!
+
+Symon’s Lesson of Wysedome for all Maner Chyldryn.
+Children, attend.
+You’d be better unborn than untaught.
+You mustn’t have your own way always.
+Tell the truth, don’t be froward, hold up your head, take off your
+hood when you’re spoken to.
+Wash your hands and face.
+Be courteous.
+Don’t throw stones at dogs and hogs.
+Mock at no one.
+Don’t swear.
+Eat what’s given you, and don’t ask for this and that.
+Honour your father and mother: kneel and ask their blessing.
+Keep your clothes clean.
+Don’t go bird’s-nesting, or steal fruit, or throw stones at men’s
+windows, or play in church.
+Don’t chatter.
+Get home by daylight.
+Keep clear of fire and water, and the edges of wells and brooks.
+Take care of your book, cap, and gloves, or you’ll be birched on your
+bare bottom.
+Don’t be a liar or thief, or make faces at any man.
+When you meet any one, lower your hood and wish ’em “god speed.” Be
+meek to clerks.
+Rise early, go to school, and learn fast if you want to be our
+bishop.
+Attend to all these things, for a good child needs learning, and he
+who hates the child spares the rod.
+As a spur makes a horse go, so a rod makes a child learn and be
+mild.
+So, children, do well, and you’ll not get a sound beating.
+May God keep you good!
+
+The Birched School-Boy
+Learning is strange work; the birch twigs are so sharp.
+I’d sooner go 20 miles than go to school on Mondays.
+My master asks where I’ve been.
+‘Milking ducks,’ I tell him, and he gives me pepper for it.
+I only wish he was a hare, and my book a wild cat, and all his books
+dogs.
+Wouldn’t I blow my horn!
+Don’t I wish he was dead!
+ 
+ 
+
+
+
+
+
+End of Project Gutenberg's Early English Meals and Manners, by Various
+
+*** END OF THIS PROJECT GUTENBERG EBOOK EARLY ENGLISH MEALS AND MANNERS ***
+
+***** This file should be named 24790-h.htm or 24790-h.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/4/7/9/24790/
+
+Produced by Louise Hope, Kathryn Lybarger and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
