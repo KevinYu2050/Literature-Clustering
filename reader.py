@@ -48,6 +48,3 @@ def read_data(data_dir, label_dir):
     
     return x_train, y_train, x_valid, y_valid, vocab
 
-
-read_data('./data.txt', './label.txt')
-

@@ -1,5 +1,6 @@
 import reader
-import numpy as np
+from numpy import loadtxt
+from keras.models import load_model
 from matplotlib import pyplot as plt 
 import tensorflow as tf 
 from keras.preprocessing import sequence
@@ -40,10 +41,21 @@ def plot(history, str):
     plt.ylabel(str)
     plt.legend([str, 'val_' + str])
     plt.show()
+
+def load_model_(data_dir, label_dir, dir):
+    # load and evaluate a saved model
+    model = load_model(dir)
+    # summarize model.
+    print(model.summary())
+    _, _, x_valid, y_valid, _ = reader.read_data(data_dir, label_dir)
+    score = model.evaluate(x_valid, y_valid)
+    print("%s: %.2f%%" % (model.metrics_names[1], score[1]*100))
+
     
-history = lstm_classifier('./data.txt', './label.txt', "./keras_Shakespeare.h5")
-plot(history, 'acc')
-plot(history, 'loss')
+# history = lstm_classifier('./data.txt', './label.txt', "./keras_Shakespeare.h5")
+# plot(history, 'acc')
+# plot(history, 'loss')
+load_model_('./data.txt', './label.txt', './keras_Shakespeare.h5')
 
 
 
