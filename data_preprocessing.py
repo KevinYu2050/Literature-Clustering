@@ -22,12 +22,12 @@ def preprocessing(booklist):
     # Remove all the licenses and text-unrelated content
     start_pattern = '[***] START OF THIS PROJECT GUTENBERG EBOOK'
     end_pattern = 'End of Project Gutenberg'
-    punc_pattern = string.punctuation + '\n' 
+    # punc_pattern = string.punctuation + '\n' 
 
     booklist = [list(filter(None, [sent.replace('\n', '') for sent in book])) for book in booklist]
     booklist = [[sent.replace('\xa0', '') for sent in book] for book in booklist]
     booklist = [[sent for sent in book if not re.match('^[^a-z]*$', sent)] for book in booklist]
-    booklist = [[re.sub('[{}]'.format(punc_pattern), r'', sent).lower() for sent in book] for book in booklist]
+    # booklist = [[re.sub('[{}]'.format(punc_pattern), r'', sent).lower() for sent in book] for book in booklist]
 
     for book in booklist:
         for sent in book:
@@ -60,12 +60,12 @@ non_skp = create_dataset(preprocessing(read_files('./gutenberg/')), 'Non-Shakesp
 
 dataset = skp + non_skp[:len(skp)]
 random.shuffle(dataset)
-with open('./data.txt', 'w+', encoding="utf-8") as f:
+with open('./data_with_punctuation.txt', 'w+', encoding="utf-8") as f:
     for i in dataset:
         f.write(i[0])
         f.write('\n')
 
-with open('./label.txt', 'w+', encoding="utf-8") as f:
+with open('./label_with_punctuation.txt', 'w+', encoding="utf-8") as f:
     for i in dataset:
         f.write(i[1])
         f.write('\n')
