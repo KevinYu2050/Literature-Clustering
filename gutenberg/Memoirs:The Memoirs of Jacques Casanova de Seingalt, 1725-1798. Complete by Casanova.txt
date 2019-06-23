@@ -1,0 +1,523 @@
+.icon   { background: transparent url(/pics/sprite.png?1561122312) 0 0 no-repeat; }
+
+
+//<![CDATA[
+var json_search     = "/ebooks/suggest/";
+var mobile_url      = "//m.gutenberg.org/ebooks/2981.mobile?msg=welcome_stranger";
+var canonical_url   = "https://www.gutenberg.org/ebooks/2981?msg=welcome_stranger";
+var lang            = "en_US";
+var fb_lang         = "en_US"; /* FB accepts only xx_XX */
+var msg_load_more   = "Load More Results…";
+var page_mode       = "screen";
+var dialog_title    = "Welcome";
+var dialog_message  = "Welcome to Project Gutenberg. You'll find here 59,714 ebooks completely free of charge.";
+//]]>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Complete by Casanova - Free Ebook
+
+
+.qrcode { background: transparent url(//www.gutenberg.org/cache/epub/2981/pg2981.qrcode.png) 0 0 no-repeat; }
+
+
+
+
+
+
+
+
+
+
+Project Gutenberg
+
+
+
+59,714 free ebooks
+
+
+
+40 by Giacomo Casanova
+
+
+
+
+The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Complete by Casanova
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download
+Bibrec
+
+
+
+Bibliographic Record 
+
+
+
+
+
+
+
+
+Author
+
+Casanova, Giacomo, 1725-1798
+
+Translator
+
+Machen, Arthur, 1863-1947
+
+
+Title
+
+The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Complete
+
+
+Contents
+
+Casanova at Dux -- Author's preface -- Translator's preface -- Childhood and adolescence -- A cleric in Naples -- Military career -- Return to Venice -- Milan and Mantua -- Paris -- Venice -- Convent affairs -- The false nun -- Under the leads -- Paris and Holland -- Return to Paris -- Holland and Germany -- Switzerland -- With Voltaire -- Depart Switzerland -- Return to Italy -- Return to Naples -- Back again to Paris -- Milan -- South of France -- To London -- The English -- London to Berlin -- Russia and Poland -- Spain -- Expelled from Spain -- Rome -- Florence to Trieste -- Old age and death.
+
+
+
+Language
+English
+
+
+LoC Class
+
+D: History: General and Eastern Hemisphere
+
+
+
+Subject
+
+
+Casanova, Giacomo, 1725-1798
+
+
+
+Subject
+
+
+Europe -- History -- 18th century -- Biography
+
+
+
+
+Category
+Text
+
+
+EBook-No.
+2981
+
+
+Release Date
+Nov 11, 2004
+
+
+Copyright Status
+Public domain in the USA.
+
+
+Downloads
+622 downloads in the last 30 days.
+
+
+Price
+$0.00
+
+
+
+
+Similar Books
+
+
+
+
+
+
+Readers also downloaded…
+
+
+
+
+
+
+
+
+
+
+In Germany
+
+
+
+
+
+
+
+
+
+
+In Banned Books from Anne Haight's list
+
+
+
+
+ 
+
+
+
+Download This eBook
+
+
+
+
+
+
+
+
+
+
+
+Format 
+
+
+Url
+Size
+
+
+
+
+
+
+
+
+
+
+
+
+Read this book online: HTML
+//www.gutenberg.org/files/2981/2981-h/2981-h.htm
+7.9 MB
+
+
+
+
+
+
+
+
+
+EPUB (with images)
+//www.gutenberg.org/ebooks/2981.epub.images?session_id=ee903620c21e8d9ba5e8a23e28dbc01c70966de6
+6.4 MB
+
+
+
+
+
+
+
+
+
+
+
+EPUB (no images)
+//www.gutenberg.org/ebooks/2981.epub.noimages?session_id=ee903620c21e8d9ba5e8a23e28dbc01c70966de6
+3.1 MB
+
+
+
+
+
+
+
+
+
+
+
+Kindle (with images)
+//www.gutenberg.org/ebooks/2981.kindle.images?session_id=ee903620c21e8d9ba5e8a23e28dbc01c70966de6
+18.3 MB
+
+
+
+
+
+
+
+
+
+
+
+Kindle (no images)
+//www.gutenberg.org/ebooks/2981.kindle.noimages?session_id=ee903620c21e8d9ba5e8a23e28dbc01c70966de6
+11.8 MB
+
+
+
+
+
+
+
+
+
+
+
+Plain Text UTF-8
+//www.gutenberg.org/files/2981/2981-0.txt
+6.5 MB
+
+
+
+
+
+
+
+
+
+More Files…
+https://www.gutenberg.org/files/2981/
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+https://www.gutenberg.org/ebooks/2981?msg=welcome_strangerProject Gutenberg offers 59,714 free ebooks to download.
+
+
+
+
+
+
+
+
+
+
+
+
+Project Gutenberg offers 59,714 free ebooks to download.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+Latest
+Terms of Use
+Donate?
+Mobile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help
+
+
+
+
+
+
+
+
+
+Enter your search terms separated by spaces,
+then press <Enter>.
+Avoid punctuation except as indicated below:
+
+
+Suffixes
+.
+exact match
+
+
+Prefixes
+a.
+author
+
+
+t.
+title
+
+
+s.
+subject
+
+
+l.
+language
+
+
+#
+ebook no.
+
+
+n.
+ebook no.
+
+
+cat.
+category
+
+
+
+Operators
+Always put spaces around these.
+
+|
+or
+
+
+!
+not
+
+
+( )
+grouping
+
+
+
+
+this query
+finds
+
+
+shakespeare hamlet
+"Hamlet" by Shakespeare
+
+
+qui.
+"qui", not "Quixote"
+
+
+love stories
+love stories
+
+
+a.shakespeare
+by Shakespeare
+
+
+s.shakespeare
+about Shakespeare
+
+
+#74
+ebook no. 74
+
+
+juvenile l.german
+juvenile lit in German
+
+
+verne ( l.fr | l.it )
+by Verne in French or Italian
+
+
+love stories ! austen
+love stories not by Austen
+
+
+jane austen cat.audio
+audio books by Jane Austen
+
+
+
+
+
+WelcomeClose
+Welcome to Project Gutenberg. You'll find here 59,714 ebooks completely free of charge.Ok

@@ -1,0 +1,7642 @@
+1001 Questions and Answers on Orthography and
+    Reading.
+
+    /*<![CDATA[*/
+
+    <!--
+    body                 {margin-left: 10%; margin-right: 10%;}
+    p                    {text-align: justify;}
+    blockquote           {text-align: justify;}
+    h1,h2,h3,h4          {text-align: center;}
+    h5,h6                {text-align: left;}
+
+    hr                   {text-align: center; width: 50%;}
+    html>body hr         {margin-right: 25%; margin-left: 25%; width: 50%;}
+    hr.full              {width: 100%;}
+    html>body hr.full    {margin-right: 0%; margin-left: 0%; width: 100%;}
+    hr.short             {text-align: center; width: 20%;}
+    html>body hr.short   {margin-right: 40%; margin-left: 40%; width: 20%;}
+
+    .note
+    {margin-left: 10%; margin-right: 10%; font-size: 0.9em;}
+
+    span.pagenum
+    {position: absolute; left: 1%; right: 91%; font-size: 8pt;}
+
+    .poem
+    {margin-left:10%; margin-right:10%; margin-bottom: 1em; text-align: left;}
+    .poem .stanza        {margin: 1em 0em 1em 0em;}
+    .poem p              {margin: 0; padding-left: 3em; text-indent: -3em;}
+    .poem p.i2           {margin-left: 1em;}
+    .poem p.i4           {margin-left: 2em;}
+    .poem p.i6           {margin-left: 3em;}
+    .poem p.i8           {margin-left: 4em;}
+    .poem p.i10          {margin-left: 5em;}
+
+    .figure, .figcenter, .figright, .figleft
+    {padding: 1em; margin: 0; text-align: center; font-size: 0.8em;}
+    .figure img, .figcenter img, .figright img, .figleft img
+                       {border: none;}
+    .figure p, .figcenter p, .figright p, .figleft p
+                       {margin: 0; text-indent: 1em;}
+    .figcenter           {margin: auto;}
+    .figright            {float: right;}
+    .figleft             {float: left;}
+
+    .footnote            {font-size: 0.9em; margin-right: 10%; margin-left: 10%;}
+
+    p.author {text-align: right;}
+    -->
+    /*]]>*/
+    
+
+
+
+The Project Gutenberg EBook of 1001 Questions and Answers on Orthography
+and Reading, by B. A. Hathaway
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: 1001 Questions and Answers on Orthography and Reading
+
+Author: B. A. Hathaway
+
+Release Date: December 21, 2004 [EBook #14403]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ORTHOGRAPHY ***
+
+
+
+
+Produced by Juliet Sutherland, William Flis, and the PG Online
+Distributed Proofreading Team.
+
+
+
+
+
+
+
+1001 QUESTIONS AND ANSWERS ON
+ORTHOGRAPHY and READING.
+
+BY
+B.A. HATHAWAY,
+Author of the "1001 Question and Answer Book
+    Series.
+
+THE BURROWS BROTHERS COMPANY,
+CLEVELAND, OHIO.
+
+IN THE SAME SERIES.
+1001 QUESTIONS AND ANSWERS ON
+U.S. HISTORY,
+
+        (Including the Federal Constitution and Amendments.)
+    
+1001 QUESTIONS AND ANSWERS ON
+GEOGRAPHY.
+
+        (Embracing Descriptive, Physical, and Mathematical
+        Geography.)
+    
+1001 QUESTIONS AND ANSWERS ON
+GRAMMAR.
+
+        (With copious Illustrations, Parsing and Analysis.)
+    
+1001 QUESTIONS AND ANSWERS ON
+ARITHMETIC.
+
+        (Including nearly 300 Test Examples, with Solutions.)
+    
+1001 QUESTIONS AND ANSWERS ON
+THE THEORY AND PRACTICE OF TEACHING.
+
+        (The latest and most exhaustive Book on this subject ever
+        published.)
+    
+1001 QUESTIONS AND ANSWERS ON
+PHYSIOLOGY AND HYGIENE.
+
+        (Containing a separate and exhaustive Chapter on the
+        Physiological effects of Alcohol and Narcotics.)
+    
+1001 QUESTIONS AND ANSWERS ON
+ORTHOGRAPHY AND READING.
+1001 QUESTIONS AND ANSWERS ON
+GENERAL HISTORY.
+1001 QUESTIONS AND ANSWERS ON
+BOTANY.
+1001 QUESTIONS AND ANSWERS ON
+TEST EXAMPLES IN ARITHMETIC.
+
+        EXTRA CLOTH, PRICE 50c. Each. Postage prepaid.
+    
+
+Any 6 assorted for $2.50, postpaid.
+
+
+Any 8 assorted for $3.25, postpaid.
+
+
+The 10 assorted $4.00 postpaid.
+
+
+        PUBLISHED BY
+    
+
+        THE BURROWS BROS. COMPANY,
+    
+
+        CLEVELAND, OHIO.
+    
+
+
+        Entered according to Act of Congress, in the year 1888,
+    
+
+        BY B.A. HATHAWAY,
+    
+
+        In the office of the librarian of Congress at Washington,
+        D.C.
+    
+
+[pg 1]
+PREFATORY NOTE.
+In presenting this, the seventh book of the "1001
+    Question and Answer Series," we feel that a great want is
+    partially met. It is evident, from the number of inquiries made
+    for such a book, that the works devoted to the subject of
+    Orthography are very limited.
+We are also aware that the Authors of the different
+    Grammars devote such a limited space to the subject of Orthoepy
+    and technical Orthography, that both Teacher and Pupil turn
+    away from the subject in disgust.
+In preparing this list of questions and answers we have
+    consulted the best authority of the present day, and believe we
+    have gone over the ground in such a way that it will meet the
+    approval of all interested.
+The questions and answers on Reading we trust will add to
+    the interest of the book, and only hope that it will be
+    received with as gracious a welcome and hearty approval as the
+    rest of the series.
+B.A.H.
+    APRIL, 1888.
+
+[pg 3]
+CONTENTS.
+
+
+PAGE.
+Letters, 5
+Orthoepy, 13
+Substitutes, 17
+Definitions and Words, 20
+Rules and Terms, 25
+Numerical Values of the Letters,
+            32
+Capitals and Italics, 35
+Abbreviations, 38
+Accent and Punctuation, 40
+Diacritical Marks, 44
+Prefixes and Suffixes, 46
+Promiscuous Questions, 56
+Reading and Elocution, 60
+Miscellaneous Exercises,
+            80
+
+
+
+[pg 5]
+LETTERS.
+
+
+1. What is Orthography?
+The science and art of the Letters of a
+            language.
+
+
+2. Of what does Orthography treat?
+The nature and power of letters, and correct
+            spelling.
+
+
+3. From what is the word Orthography
+            derived?
+Two Greek words, signifying "To write right."
+
+
+4. What is a Letter?
+A character used to represent an elementary sound,
+            or combination of sounds.
+
+
+5. What is an Alphabet of a Language?
+A complete list of its letters.
+
+
+6. What is the origin of the word
+            Alphabet?
+It is derived from the first two letters of the
+            Greek Alphabet: Alpha and Beta.
+
+
+7. Where did the Alphabet originate?
+The English comes from the Greek, which was brought
+            by Cadmus from Phoenicia, about the year 1490 B.C.
+
+
+8. What was the first Alphabet ever used?
+The Hebrew.
+
+
+9 How many letters were in the original
+            Alphabet?
+Sixteen.
+
+
+10. Where did the other letters
+            originate?
+They have been added since the time of Cadmus, as
+            their use became necessary.
+
+
+11. What was the last letter added to the English
+            Alphabet?
+W.
+
+
+12. Why was it called W?
+On account of it being composed of two u's, or a
+            double u.
+
+
+13. How many letters in the English
+            Alphabet?
+Twenty-six.[pg 6]
+
+
+14. How many in the Latin Alphabet?
+Twenty-five.
+
+
+15. What is the difference between the Latin
+            Alphabet and the English?
+The Latin omits the letter W.
+
+
+16. What Alphabet has the greatest number of
+            letters?
+The Chinese.
+
+
+17. How many letters in the Chinese
+            Alphabet?
+Over two hundred.
+
+
+18. What is a Perfect Alphabet?
+One which contains the same number of letters that
+            it has elementary sounds.
+
+
+19. Is the English a perfect Alphabet?
+It is not.
+
+
+20. How many Elementary sounds in the English
+            Language?
+About forty-three.
+
+
+21. What is an Imperfect Alphabet?
+One in which the number of sounds exceeds the number
+            of letters.
+
+
+22. What is an Equivocal Alphabet?
+An Imperfect one.
+
+
+23. What is an Unequivocal Alphabet?
+Same as Perfect.
+
+
+24. Is the English Alphabet Equivocal or
+            Unequivocal?
+Equivocal.
+
+
+25. What is a Univocal Alphabet?
+One that has a separate character for each
+            elementary sound.
+
+
+26. What is an Alphabetic Language?
+A language in which the characters represent
+            separate articulate sounds.
+
+
+27. What is a Phonetic Alphabet?
+One in which there is a separate character for each
+            elementary
+            sound.[pg 7]
+
+
+28. Is there any Phonetic Alphabet of the English
+            Language?
+There have been several published, but they are not
+            in general use.
+
+
+29. How many letters in the English Phonetic
+            Alphabet?
+Forty-three.
+
+
+30. What is the name of a Letter?
+The appellation by which it is known.
+
+
+31. What is the difference between a Letter and
+            its Name?
+The letter is the character, and the name is its
+            appellation.
+
+
+32. What Letters name themselves?
+The vowels A, E, I, O, and U.
+
+
+33. How are the Letters divided?
+Into Vowels and Consonants.
+
+
+34. What are Vowels?
+Those letters which represent only pure tones.
+
+
+35. Name all the Vowels.
+A, E, I, O, U, and in some situations W and Y.
+
+
+36. What is a Consonant?
+A letter that represents an interruption of sound or
+            breath.
+
+
+37. Why called Consonants?
+Because they cannot be used alone in a word, but
+            must be connected with a Vowel.
+
+
+38. How many kinds of Consonants are
+            there?
+Two; single Letters and Combinations.
+
+
+39. Name the Consonant letters.
+B, C, D, F, G, H, J, K, L, M, N, P, Q, R, S, T, V,
+            W, X, Y, and Z.
+
+
+40. Name the Consonant Combinations.
+Th, Sh, Ch, Zh, Wh, and Ng.
+
+
+41. Name the two Orders of the
+            Consonants.
+Mutes and Semi-vowels.
+
+
+42. What are Mutes?
+Those letters which admit of no escape of breath
+            while the organs of speech are in
+            contact.[pg 8]
+
+
+43. Name the Mutes.
+B, D, K, P, T, and C and G hard.
+
+
+44. What other term is often applied to the
+            Mutes?
+Close Consonant.
+
+
+45. What are Semi-vowels?
+Those letters that admit of an escape of breath
+            while the organs of speech are in contact.
+
+
+46. Name the Semi-vowels.
+F, H, J, L, M, N, R, S, V, W, X, Y, Z, and C and G
+            soft.
+
+
+47. Are the Combinations Mutes or
+            Semi-vowels?
+They are all Semi-vowels.
+
+
+48. What letters are called Nasals?
+M, N, and Ng.
+
+
+49. What other term is often applied to the
+            Semi-vowels?
+Loose Consonant.
+
+
+50. What letters are called Liquids?
+L, M, N, and R.
+
+
+51. Why are the Liquids so called?
+Because of their flowing sound, which readily unites
+            with the sound of other letters.
+
+
+52. What are Sibilants?
+Letters which have a hissing sound; as, S and Z.
+
+
+53. What letter is called the Mute
+            Sibilant?
+The letter X.
+
+
+54. What letters represent no sound of their
+            own?
+C, Q, and X.
+
+
+55. What are these letters called?
+Redundant letters.
+
+
+56. Why are they so named?
+Because they are not necessary for the completion of
+            the Alphabet.
+
+
+57. By what letters are the sounds of C
+            represented?
+K and S.[pg 9]
+
+
+58. What letters represent the sound of
+            Q?
+Kw.
+
+
+59. What letters represent the sound X?
+Ks.
+
+
+60. What letters of themselves form
+            words?
+A, I, and O.
+
+
+61. Spell all of the Consonants.
+Bee, Cee, Dee, Eff, Gee, Aitch, Jay, Kay, Ell, Em,
+            En, Pee, Kw, Ar, Ess, Tee, Vee, Double-u, Ex, Wy, and
+            Zee.—Goold Brown.
+
+
+62. What letters are called the Twins?
+Q and U.
+
+
+63. Why so called?
+Because Q is always followed by U in English
+            spelling.
+
+
+64. Is there any exception to this rule?
+The word LEECLERCQ is sometimes given as an example,
+            but in English it is spelled LEECLERC.
+
+
+65. What is meant by style of letters?
+Different type; as, Roman, Script, Italics, etc.
+
+
+66. How many forms have letters?
+Two.
+
+
+67. What are they?
+Small letters and Capitals.
+
+
+68. What are the Natural Divisions of
+            Consonants?
+Subvocals and Aspirates.
+
+
+69. What are Subvocals?
+Those Consonants which produce an undertone of voice
+            when their sounds are uttered.
+
+
+70. Name the Subvocals.
+B, D, G hard; J and G soft; L, M, N, R, V, W, Y, Z,
+            Zh, and Ng.
+
+
+71. What are Aspirates?
+Mere whispers made by the organs of speech and
+            breath.[pg 10]
+
+
+72. Name the Aspirates.
+C, F, H, K, P, Q, S, T, X, Ch, Sh, and Wh.
+
+
+73. What Combination is both Aspirate and
+            Subvocal?
+Th.
+
+
+74. What are Cognate letters?
+Those which are produced by the same organs of
+            speech in a similar position.
+
+
+75. Give an example of a Cognate letter.
+D is a cognate of T.
+
+
+76. What are Quiescent letters?
+Those that are silent.
+
+
+77. How many uses have Silent letters?
+Five.
+
+
+78. What are they?
+To modify vowels; to modify consonants; to determine
+            signification; to determine origin; and to distinguish
+            words of like signification.
+
+
+79. What are Explodents?
+Those letters whose sound cannot be prolonged.
+
+
+80. Name the Explodents.
+B, D, G, J, P, Q, T, and K.
+
+
+81. What are the principle organs of
+            speech?
+Lips, teeth, tongue, and palate.
+
+
+82. What is meant by Organical division of the
+            consonants?
+Pertaining to those particular organs used in their
+            pronunciation.
+
+
+83. Name the Organical divisions.
+Labials, Dentals, Linguals, and Palatals.
+
+
+84. What are Labials?
+Those letters whose sounds are modified by the
+            lips.
+
+
+85. Name them.
+B, F, M, P, V, W, and Wh.
+
+
+86. What are Dentals?
+Those letters whose sounds are modified by the
+            teeth.[pg 11]
+
+
+87. Name them.
+J, S, Z, Ch, Sh, Zh, C and G soft.
+
+
+88. What are Linguals?
+Those letters whose sounds are modified by the
+            tongue.
+
+
+89. Name them.
+D, L, N, R, T, Y, and Th.
+
+
+90. What are Palatals?
+Those letters whose sounds are modified by the
+            palate.
+
+
+91. Name them.
+K, Q, X, Ng, C and G hard.
+
+
+92. What letters have no Organical
+            classification?
+H, and all the vowels.
+
+
+93. What is an Aphthong?
+A silent letter or combination.
+
+
+94. How many kinds of Aphthongs?
+Three.
+
+
+95. What are they?
+Vowels, Consonants, and Combinations.
+
+
+96. What letters are never silent?
+F, J, Q, R, and X.
+
+
+97. In what words is V silent?
+Sevennight and twelvemonth.
+
+
+98. In what word is Z silent?
+Rendezvous.
+
+
+99. What letters are never doubled?
+X and H.
+
+
+100. How many words contain all the vowels in
+            regular order?
+Two.
+
+
+101. What are they?
+Abstemious and Facetious.
+
+
+102. What is a Diphthong?
+Two vowels sounded together in the same
+            syllable.
+
+
+103. Name the Diphthongs.
+Ou, Ow, Oi, and
+            Oy.[pg 12]
+
+
+104. How many sounds do they represent?
+Two.
+
+
+105. What are the sounds called?
+Diphthongal sounds.
+
+
+106. How many kinds of Diphthongs are
+            there?
+Two.
+
+
+107. What are they?
+Separable and Inseparable.
+
+
+108. Which ones are Separable?
+Oi and Oy.
+
+
+109. What is an Improper Diphthong?
+The union of two vowels in a syllable, one of which
+            is silent.
+
+
+110. By what other name are they known?
+Digraph.
+
+
+111. How many Digraphs are there?
+Twenty-five.
+
+
+112. Name them.
+Aa, Ae, Ai, Ao, Au, Aw, Ay, Ea, Ee, Ei, Eo, Eu, Ew,
+            Ey, Ie, Oa, Oe, Oi, Oo, Ou, Ow, Ua, Ue, Ui, and Uy.
+
+
+113. What is a Trigraph?
+A union of three vowels in one syllable, two of
+            which are silent, or all three representing one
+            sound.
+
+
+114. How many Trigraphs are there?
+Eight.
+
+
+115. Name them.
+Awe, Aye, Eau, Eou, Eye, Ieu, Iew, and Uoi.
+
+
+116. What is a Tetragraph?
+Union of four vowels in one syllable.
+
+
+117. How many Tetragraphs are there?
+One.
+
+
+118. What is it?
+Ueue in the word
+            Queue.[pg 13]
+
+
+119. May the terms Digraph, etc., be used with
+            the Consonants?
+They may.
+
+
+120. Give example of Consonant Digraph.
+Gh, in the word laugh.
+
+
+121. Give example of Consonant Trigraph.
+Thr, in the word throw.
+
+
+122. Give example of Consonant
+            Tetragraph.
+Phth, in the word phthisic.
+
+
+123. What is a regular Triphthong?
+A vowel trigraph in which all three of the vowels
+            are sounded.
+
+
+124. Give an example.
+Quoit.
+
+
+ORTHOEPY.
+
+
+1. What is Orthoepy?
+That science which treats of the elementary sounds
+            and the pronunciation of words.
+
+
+2. What is Phonology?
+The science of the elementary sounds uttered by the
+            human voice in speech.
+
+
+3. What is an Elementary sound?
+One that cannot be divided so as to be represented
+            by two or more letters.
+
+
+4. What is Sound?
+A sensation produced on the auditory nerve by the
+            rapid vibratory motion of any elastic substance.
+
+
+5. What is the least number of vibrations that
+            will produce an audible sound?
+Sixteen per
+            second.[pg 14]
+
+
+6. What is the greatest number that can be
+            heard?
+About forty thousand per second.
+
+
+7. What is Voice?
+Sound produced by the vocal chords.
+
+
+8. What is an Articulate sound?
+One made by the organs of speech and used in
+            language.
+
+
+9. What is a Vocal sound?
+One that is modified but not obstructed by the
+            articulatory organs.
+
+
+10. What is a simple Vocal sound?
+One made without any change in the position of the
+            articulatory organs during its emission.
+
+
+11. What is a Coalescent?
+An articulate sound that always precedes and unites
+            with a vocal.
+
+
+12. What is a Guttural sound?
+One that is modified by the soft palate.
+
+
+13. What are Unarticulate sounds?
+The sounds of the vowels.
+
+
+14. How many Elementary sounds do the vowels
+            represent?
+Fifteen.
+
+
+15. How many do the Consonants represent?
+Eighteen.
+
+
+16. How many do the Combinations
+            represent?
+Seven.
+
+
+17. How many do the Diphthongs represent?
+Only one, as oi and oy only repeat sounds already
+            represented by a and i.
+
+
+18. How many sounds has A?
+Five.
+
+
+19. What are they?
+Long, Short, Medial, Flat, and Broad.
+
+
+20. How many sounds has E?
+Two.[pg 15]
+
+
+21. What are they?
+Long and Short.
+
+
+22. How many sounds has I?
+Two.
+
+
+23. What are they?
+Long and Short.
+
+
+24. How many sounds has O?
+Three.
+
+
+25. What are they?
+Long, Short, and Slender.
+
+
+26. How many sounds has U?
+Three.
+
+
+27. What are they?
+Long, Short, and Medial.
+
+
+28. How many sounds has B?
+One; as heard in the word babe.
+
+
+29. How many sounds has C?
+None that may be properly called its own.
+
+
+30. How many sounds has D?
+One; as heard in the word did.
+
+
+31. How many sounds has F?
+One; as heard in the word flew.
+
+
+32. How many sounds has G?
+Two; as heard in the words go and age.
+
+
+33. How many sounds has H?
+One; as heard in the word high.
+
+
+34. How many sounds has J?
+None of its own, but represents one; the sound of
+            G.
+
+
+35. How many sounds has K?
+One; as heard in the word key.
+
+
+36. How many sounds has L?
+One; as heard in the word lily.
+
+
+37. How many sounds has M?
+One; as heard in the word
+            money.[pg 16]
+
+
+38. How many sounds has N?
+One; as heard in the word nat.
+
+
+39. How many sounds has P?
+One; as heard in the word pie.
+
+
+40. How many sounds has R?
+One; as heard in the word roar. (REM.—Some
+            authors give r three sounds.)
+
+
+41. How many sounds has S?
+One; as heard in the word same.
+
+
+42. How many sounds has T?
+One; as heard in the word tight.
+
+
+43. How many sounds has V?
+One; as heard in the word view.
+
+
+44. How many sounds has W?
+One; as heard in the word we.
+
+
+45. How many sounds has X?
+None of its own, as it is a redundant letter.
+
+
+46. How many sounds has Z?
+One; as heard in the word ooze.
+
+
+47. How many sounds has Th?
+Two; as heard in the words thigh and the.
+
+
+48. How many sounds has Ch?
+One; as heard in the word church.
+
+
+49. How many sounds has Sh?
+One; as heard in the word ash.
+
+
+50. How many sounds has Zh?
+One obscurely; represented by si in such
+            words as fusion, zi in glazier.
+
+
+51. How many sounds has Wh?
+One; as heard in the word what.
+
+
+52. How many sounds has Ng?
+One; as heard in the word sing.
+
+
+53. What are regular sounds?
+The long sounds of the letters.
+
+[pg 17]
+SUBSTITUTES.
+
+
+1. What is a Substitute?
+A letter representing a sound usually represented by
+            another.
+
+
+2. What are Equivalent letters?
+Letters representing the same sound.
+
+
+3. What properties do Substitutes assume?
+The properties of the letter whose sound it
+            represents.
+
+
+4. How many Substitutes has a long?
+Four.
+
+
+5. What are they?
+E in tete; ei in feint; ey in
+            they; and ao in gaol.
+
+
+6. How many Substitutes has a middle?
+Two.
+
+
+7. What are they?
+E in there; and ei in heir.
+
+
+8. How many Substitutes has a broad?
+Two.
+
+
+9. What are they?
+O in cord; and ou in sought.
+
+
+10. How many Substitutes has e long?
+Three.
+
+
+11. What are they?
+I in marine; ie in fiend; and
+            ay in quay.
+
+
+12. How many Substitutes has e short?
+Two.
+
+
+13. What are they?
+A in says; and u in bury.
+
+
+14. How many Substitutes has i long?
+Two.
+
+
+15. What are they?
+Y in chyme; and oi in
+            choir.[pg 18]
+
+
+16. How many Substitutes has i short?
+Six.
+
+
+17. What are they?
+Y in hymn; e in England; u in
+            busy; o in women; ee in been; and
+            ai in captain.
+
+
+18. How many Substitutes has o long?
+Two.
+
+
+19. What are they?
+Eau in beau; and ew in sew.
+
+
+20. How many Substitutes has o short?
+One.
+
+
+21. What is it?
+A in what.
+
+
+22. How many Substitutes has u long?
+One.
+
+
+23. What is it?
+Ew in new.
+
+
+24. How many Substitutes has u short?
+Three.
+
+
+25. What are they?
+E in her; i in sir; and o in
+            son.
+
+
+26. How many Substitutes has u medial?
+One.
+
+
+27. What is it?
+O in wolf.
+
+
+28. How many Substitutes has F?
+Two.
+
+
+29. What are they?
+Gh in laugh; and ph in philosophy.
+
+
+30. How many Substitutes has J?
+Three.
+
+
+31. What are they?
+G in rage; di in soldier; and d
+            in verdure.[pg 19]
+
+
+32. How many Substitutes has S?
+Two.
+
+
+33. What are they?
+C soft, as in central; and z in
+            quartz.
+
+
+34. How many Substitutes has T?
+One.
+
+
+35. What is it?
+Ed final, after any aspirate except t.
+
+
+36. How many Substitutes has V?
+One.
+
+
+37. What is it?
+F in of.
+
+
+38. How many Substitutes has W?
+One.
+
+
+39. What is it?
+U in quick.
+
+
+40. How many Substitutes has X?
+One.
+
+
+41. What is it?
+Ks in exist.
+
+
+42. How many Substitutes has Y?
+One.
+
+
+43. What is it?
+I in alien.
+
+
+44. How many Substitutes has Z?
+Three.
+
+
+45. What are they?
+S in was; c in suffice; and x
+            in xebec.
+
+
+46. How many Substitutes has Ch?
+Two.
+
+
+47. What are they?
+Ti in question; and t in nature.
+
+
+48. How many Substitutes has Sh?
+Six.[pg 20]
+
+
+49. What are they?
+Ce in ocean; ci in social; si
+            in mansion; ti in motion; ch in chaise;
+            and s in sugar.
+
+
+50. How many Substitutes has Zh?
+Four.
+
+
+51. What are they?
+Si in fusion; zi in brazier; z
+            in azure; and s in rasure.
+
+
+52. How many substitutes has Ng?
+One.
+
+
+53. What is it?
+N generally before palate sounds; as, conquer,
+            etc.
+
+
+54. What letters have no Substitutes?
+B, D, G, H, L, M, N, P, and R.
+
+
+55. What combinations have no
+            Substitutes?
+Th and Wh.
+
+
+56. Why is X never doubled?
+It already represents the sounds of K and S.
+
+
+57. What letter ends no English word?
+J.
+
+
+DEFINITIONS AND WORDS.
+
+
+1. What is Language?
+Any method for the communication of thought and
+            feeling.
+
+
+2. What is Natural Language?
+Instinctive methods of communicating thought or
+            feeling.
+
+
+3. What is Artificial Language?
+That which must be learned before it can be
+            used.
+
+
+4. Is the English Language natural or
+            artificial?
+
+            Artificial.[pg 21]
+
+
+5. How many kinds of Artificial Language?
+Two.
+
+
+6. What are they.
+Spoken and written.
+
+
+7. What is Spoken Language?
+That produced by the vocal organs.
+
+
+8. What is Written Language?
+Any method of communicating thought or feeling by
+            the use of written or printed characters.
+
+
+9. What are the messengers of thought?
+Sentences.
+
+
+10. What is a Sentence?
+An assemblage of words conveying a thought.
+
+
+11. What is a Word?
+A sign of an idea.
+
+
+12. What is Lexicology?
+That science which treats of the meaning of
+            words.
+
+
+13. What is Etymology?
+That science which treats of the origin and
+            derivation of words.
+
+
+14. What is Orthogeny?
+That science which treats of the classification of
+            words into parts of speech.
+
+
+15. What is Syntax?
+That science which treats of the relation and
+            connection of words in the construction of a
+            sentence.
+
+
+16. What is Prosody?
+That science which treats of punctuation and the
+            laws of versification.
+
+
+17. Of what is a word composed?
+A syllable or combination of syllables.
+
+
+18. What is a Syllable?
+A letter or letters uttered by a single impulse of
+            the voice.[pg 22]
+
+
+19. What is the essential part of a
+            syllable?
+A vowel.
+
+
+20. Can there be a syllable without it containing
+            a vowel sound?
+There cannot.
+
+
+21. What is Syllabication?
+That branch of etymology which treats of the
+            division of words into syllables.
+
+
+22. How many methods of Syllabication are
+            there?
+Two.
+
+
+23. What are they?
+English and American.
+
+
+24. What is the object of the English
+            method?
+To separate words into their elementary parts
+            without regard to pronunciation; as, a-tom.
+
+
+25. What is the object of the American
+            method?
+To indicate the proper pronunciation by separating
+            affixes from the roots.
+
+
+26. What is a word of one syllable
+            called?
+A monosyllable.
+
+
+27. What is a word of two syllables
+            called?
+A dissyllable.
+
+
+28. What is a word of three syllables
+            called?
+A trisyllable.
+
+
+29. What is a word of more than three syllables
+            called?
+A polysyllable.
+
+
+30. What is the Ultimate syllable of a
+            word?
+The last syllable.
+
+
+31. What is the Penultimate syllable?
+Next to the last syllable in a word.
+
+
+32. What is the Antepenultimate syllable?
+The last syllable but two in a word.
+
+
+33. What is the Preantepenultimate
+            syllable?
+The last syllable but three in a
+            word.[pg 23]
+
+
+34. What other way may the syllables be
+            described?
+In their numerical order; as, first, second,
+            etc.
+
+
+35. How many syllables can a word have?
+As many as it has vowels or diphthongs sounded.
+
+
+36. How many words in the English
+            language?
+About one hundred and twenty thousand.
+
+
+37. How are words divided in reference to
+            form?
+Into simple and compound.
+
+
+38. How are they divided in reference to
+            origin?
+Into primitive and derivative.
+
+
+39. What is a Simple word?
+One that is not composed of two or more whole
+            words.
+
+
+40. What is a Compound word?
+One that is composed of two or more distinct
+            words.
+
+
+41. What is a Primitive word?
+One in no way derived from another in the same
+            language.
+
+
+42. What is a Radical word?
+Same as primitive.
+
+
+43. What is a Derivative word?
+One formed by joining to a primitive some letter or
+            letters to modify its meaning.
+
+
+44. What is Analysis?
+Separating a word or syllable into its elements or
+            parts.
+
+
+45. What is Synthesis?
+The process of combining elements to form syllables
+            and words.
+
+
+46. What is the Base of a Compound word?
+That word representing the fundamental idea.
+
+
+47. What is the Modifier in a Compound
+            word?
+That word which describes the other.
+
+
+48. What is the Base of a Derivative
+            word?
+The primitive from which it is derived.
+
+
+49. What is the Modifier in a Derivative
+            word?
+The affix.[pg 24]
+
+
+50. What is an Affix?
+That part of a derivative word attached to the
+            root.
+
+
+51. How many Root words in the English
+            language?
+Over one thousand.
+
+
+52. What is a Prefix?
+That part of a derivative word placed before the
+            root.
+
+
+53. What is a Postfix?
+That part of a derivative word placed after the
+            root.
+
+
+54. What is a Suffix?
+Same as a postfix.
+
+
+55. What are Affixes?
+Prefixes and postfixes together are called
+            affixes.
+
+
+56. How many kinds of Derivatives are
+            there?
+Two.
+
+
+57. What are they?
+Regular and irregular.
+
+
+58. What is a Regular derivative?
+One that is formed by the addition of affixes
+            without changing the letters in the primitive part
+            (except final e silent).
+
+
+59. What is an Irregular derivative?
+One in which the letters of the primitive part are
+            changed.
+
+
+60. In using Affixes, what rule should be
+            observed?
+The affix and root should be from the same
+            language.
+
+
+61. Is the same rule to be observed in forming
+            Compound words?
+It is.
+
+
+62. What is a Mongrel compound word?
+One formed contrary to the rule.
+
+
+63. Give an example.
+Cable-graph and cable-gram.
+
+
+64. What are Barbarisms?
+Same as mongrel.
+
+
+65. When use the hyphen in Compound
+            words?
+When they are not permanently compounded.
+
+
+66. What is an Obsolete word?
+One gone out of date.
+
+[pg 25]
+RULES AND TERMS.
+
+
+1. What is Spelling?
+A distinct expression of the letters or sounds of a
+            word in their proper order.
+
+
+2. How many kinds of Spelling?
+Two.
+
+
+3. What are they?
+Orthographic and Phonic.
+
+
+4. What is Orthographic spelling?
+An expression of the letters of a written or printed
+            word in their proper order.
+
+
+5. What is Phonic spelling?
+An expression of the elementary sounds of a word in
+            their proper order, according to established usage.
+
+
+6. What is meant by good usage?
+The usage, or custom, of the best speakers and
+            writers of the times.
+
+
+7. How do we know when we have spelled a word
+            correctly?
+By reference to the Dictionary?
+
+
+8. What is a Lexicographer?
+An author of a dictionary.
+
+
+9. Can we spell by Rules?
+We cannot.
+
+
+10. Why?
+Because there are too many exceptions.
+
+
+11. What makes a rule in Orthography?
+Whenever a letter is silent, or usually so, a rule
+            is formed.
+
+
+12. Why is c placed before r in acre, massacre,
+            etc.?
+To preserve the hard sound of c.
+
+
+13. What is the rule for Digraphs?
+A digraph must have one vowel
+            silent.[pg 26]
+
+
+14. Give rule for E final.
+E final is silent when another vowel precedes it in
+            the same syllable.
+
+
+15. What effect does final E have on the
+            preceding vowel?
+It usually preserves its long sound.
+
+
+16. When is B silent?
+Before t, or after m, in the same
+            syllable.
+
+
+17. When is C silent?
+Before k in the same syllable; also, before
+            z, l, or
+t, in a few words.
+
+
+18. When is D silent?
+Before g in the same syllable.
+
+
+19. When is G silent?
+Before m or n in the same
+            syllable.
+
+
+20. When is H silent?
+After g or r in the same syllable; and
+            h final after a vowel is always silent; also, in
+            a few words after t, and initial in a few
+            words.
+
+
+21. When is L silent?
+After a when followed by f, m,
+            k, or v, except in the word valve; also,
+            before d in could, etc.
+
+
+22. When is M silent?
+Before n in a few words.
+
+
+23. When is N silent?
+Final after l or m.
+
+
+24. When is P silent?
+Initial before n, s, or t.
+
+
+25. When is S silent?
+In a few irregular words; as, isle,
+            puisne, viscount, corps, etc.
+
+
+26. When is T silent?
+Before ch in the same syllable; also, in
+            Christmas, eclat, mortgage,
+            etc.[pg 27]
+
+
+27. When is V silent?
+In two words only—Sevennight and
+            Twelvemonth.
+
+
+28. When is W silent?
+Before r in the same syllable also, in
+            whoop, sword, two, etc.
+
+
+29. When is Gh silent?
+After i in the same syllable; also, after
+            au and ou in some words.
+
+
+30. When is Ch silent?
+In a few words; as, drachm, yacht,
+            etc.
+
+
+31. When is Z silent?
+In one word only—Rendezvous.
+
+
+32. What letters are never silent?
+F, J, Q, and R.
+
+
+33. What is meant by Antecedent part of a
+            syllable?
+That part before the vowel.
+
+
+34. What is the Consequent part of a
+            syllable?
+That part which follows the vowel.
+
+
+35. How many words end in Ceed?
+Three.
+
+
+36. What are they?
+Exceed, proceed, and succeed.
+
+
+37. How many of the English words are derived
+            from the Latin?
+About, three-fourths.
+
+
+38. What Language is called "Our mother
+            tongue?"
+Anglo-Saxon.
+
+
+39. From what language do we get most of our
+            Scientific terms?
+The Greek.
+
+
+40. How many English words begin with IN
+            as a prefix?
+Two hundred and fifty.
+
+
+41. How many begin with im?
+
+            Seventy-five.[pg 28]
+
+
+42. How many begin with un?
+About two thousand.
+
+
+43. Were final E not silent, what would be the
+            result?
+Another syllable would be formed.
+
+
+44. When is final E dropped in spelling?
+Before vowel terminations mostly.
+
+
+45. Why is the final E retained in such words as
+            changeable and traceable?
+To preserve the soft sound of the c or g.
+
+
+46. In the words fleeing, seeing, etc., why
+            retain both Es?
+To determine the proper meaning of the word.
+
+
+47 What is a Figure of orthography?
+Any departure from the ordinary spelling of a
+            word.
+
+
+48. How many Figures are there?
+Two.
+
+
+49 What are they?
+Archaism and Mimesis.
+
+
+50. What is Archaism?
+The spelling of a word according to ancient
+            usage.
+
+
+51. What is Mimesis?
+The spelling of a word in imitation of a false
+            pronunciation.
+
+
+52. When is i used as a consonant?
+When followed by a vowel in the same syllable; as in
+            alien, etc.
+
+
+53. When is y final changed to e?
+Before the suffix ous; as in beauteous.
+
+
+54. When is y final changed to i?
+Before the suffix ful; as in beautiful.
+
+
+55. What is a Redundant prefix?
+One that does not change the signification of the
+            root; as, a in the word adry.
+
+
+56. When is ie changed to y?
+Before the ending
+            ing.[pg 29]
+
+
+57. When use the digraph ei in spelling?
+Ei follows c soft, and begins words.
+
+
+58. When use ie in spelling?
+Ie follows consonants (except c soft), and ends
+            words.
+
+
+59. In changing the word hoe to hoeing, why
+            retain the e?
+To preserve its signification.
+
+
+60. What is the origin of the suffix
+            less?
+Anglo-Saxon.
+
+
+61. What is the origin of the word
+            English?
+It is derived from the word Angles.
+
+
+62. Who were the Angles?
+They were a tribe of people who came from the land
+            of the Low Germans and settled in Britain in the fifth
+            century.
+
+
+63. What does the word England mean?
+"The land of the Angles."
+
+
+64. Why is our language sometimes called the
+            "Teutonic language"?
+Because it is derived from the ancient Germans, who
+            were called Teutons.
+
+
+65. What kind of words end in ize?
+Verbs derived from the Greek.
+
+
+66. What kind of words end in ise?
+Most words derived from the French.
+
+
+67. Why is the English called a Composite
+            Language?
+Because it is derived from so many different
+            sources.
+
+
+68. Does adding a single consonant to a word ever
+            make an additional syllable?
+It does.
+
+
+69. Give examples.
+Grade, grad-ed; confide, con-fi-ded.
+
+
+70. Can a word be compound and derivative at the
+            same time?
+It can; as,
+            ball-player.[pg 30]
+
+
+71. How distinguish between an affix and a part
+            of a compound word?
+If all the parts retain their literal signification
+            they form a compound; if not, the part which loses its
+            signification becomes an affix in a derivative.
+
+
+72. Is the word outside compound or
+            derivative?
+It is compound.
+
+
+73. Is the word outrun compound or
+            derivative?
+It is derivative.
+
+
+74. What is Derivation?
+That branch of etymology which treats of the sources
+            of the words of a language.
+
+
+75. How many kinds of Derivation?
+Two.
+
+
+76. What are they?
+Paronymous and Historical.
+
+
+77. What is Paronymous derivation?
+That part of etymology which treats of present
+            sources of English words.
+
+
+78. Give examples of Paronymous
+            derivation.
+Kingdom, from king; Manly, from man, etc.
+
+
+79. What is Historical derivation?
+That part of etymology which treats of the foreign
+            sources of the English language.
+
+
+80. Give examples of Historical
+            derivation.
+Book, from boc; Moon, from mona, etc.
+
+
+81. When use a, and when an, in a
+            sentence?
+Use a before all words beginning with a consonant
+            sound, and use an before words beginning with a vowel
+            sound, or with h mute, or h initial, if
+            the accent is on any other syllable than the first.
+
+
+82. Why do words in the English language become
+            obsolete?
+Because it is a living
+            language.[pg 31]
+
+
+83. What is a new word?
+One that has recently come into use.
+
+
+84. Name some new words.
+Outsider, intensify, repudiate, and idiom.
+
+
+85. What is meant by suspended animation of a
+            word?
+A word that passes out of use for a while and then
+            resumes its place in literature.
+
+
+86. Give examples of suspended words.
+The words reckless, abate, and abandon, fell into
+            disuse in the seventeenth century, but have since been
+            revived.
+
+
+87. What letters are called the pivots?
+Y and w.
+
+
+88. Why are they so called?
+Because of their peculiar sounds in changing from
+            vowels to consonants.
+
+
+89. What kind of new words should be
+            avoided?
+Any word formed contrary to the genius of the
+            language.
+
+
+90. What is meant by idiom?
+A peculiar mode of expression.
+
+
+91. What is diction?
+Diction treats of the selection and right use of
+            words.
+
+
+92. When is our diction pure?
+When we use only such words as belong to the idiom
+            of our language.
+
+
+93. What are Synonyms?
+Words having a similar signification.
+
+
+94. What is a Synonymicon?
+A dictionary of synonymous words.
+
+
+95. What is meant by a reputable word?
+One that is used by educated people.
+
+
+96. What is an Anacoluthic word?
+One that is unnecessary to the completion of a
+            sentence.
+
+
+97. What is an Idiomatic word?
+A word belonging to an individual
+            language.[pg 32]
+
+
+98. What is an Ideographical language?
+One in which the characters represent ideas rather
+            than sounds.
+
+
+99. Can there be a derivative word without an
+            affix?
+There can; as, brought from bring.
+
+
+100. What is Dactylology?
+The art of spelling words with the fingers.
+
+
+101. What is the Pythagorean letter?
+Y.—Am. Cyclopedia.
+
+
+102. Why so called?
+Because its Greek original represents the sacred
+            triad used to designate the diverging paths of virtue
+            and vice.
+
+
+NUMERICAL VALUES OF THE LETTERS.
+
+
+1. What is meant by the Numerical value of
+            letters?
+Its value as a numeral used in the notation of
+            different languages.
+
+
+2. Have all the letters Numerical value?
+All except J, U, W, and Y.
+
+
+3. What is the Numerical value of A?
+500.
+
+
+4. By whom used?
+The ancient European Nations.
+
+
+5. What is the Numerical value of B?
+300.
+
+
+6. By whom used?
+The Romans.
+
+
+7. What is the Numerical value of C?
+100 in the Roman
+            notation.[pg 33]
+
+
+8. What is the Numerical value of D?
+500 in the Roman notation.
+
+
+9. What is the Numerical value of E?
+5.
+
+
+10. By whom used?
+The ancient Greeks.
+
+
+11. What is the Numerical value of F?
+40 in some of the Ancient notations; 80 in the
+            Arabian; and 10,000 in the Armenian.
+
+
+12. What is the Numerical value of G?
+400.
+
+
+13. By whom used?
+The Latins.
+
+
+14. What is the Numerical value of H?
+100 in the Greek notation; and 200 in the Latin.
+
+
+15. What is the Numerical value of I?
+1 in the Roman notation; and 100 in some of the
+            Ancient notations.
+
+
+16. What is the Numerical value of K?
+20 in the Greek notation; and 60 in the Semitic.
+
+
+17. Give the Numerical values of L.
+50 in Roman, and 30 in Semitic notation.
+
+
+18. What are the Numerical values of M?
+As a Roman numeral, 1,000; Greek and Hebrew, 40.
+
+
+19. What is the value of N as a Numeral?
+In the Greek notation, 50; Roman, 90; and by some
+            other, 900.
+
+
+20. What is the Numerical value of O?
+70 in the Greek; and 11 in the Ancient Latins.
+
+
+21. What is the Numerical value of P?
+In the Greek notation, 5; in the Latin, 80; and in
+            the Roman, by some authors, 7, by one, 100, and by
+            still another,
+            400.[pg 34]
+
+
+22. As a Numeral, what is the value of Q?
+500.
+
+
+23. By whom used?
+Several of the Ancient Nations of Europe.
+
+
+24. What is the Numerical value of R?
+80
+
+
+25. By whom used?
+The ancient Romans.
+
+
+26. What is the Numerical value of S?
+7
+
+
+27. By whom used?
+The Ancients.
+
+
+28. Give the values of T as a Numeral.
+300 in the Greek notation; in the Latin, 160.
+
+
+29. What is the Numerical value of V?
+5 in the Roman notation.
+
+
+30. What are the values of X as a
+            Numeral?
+In the Roman, 10; in the Greek, 60.
+
+
+31. What are the Numerical values of Z?
+7 in the Greek notation; and 2,000 in the Roman.
+
+
+32. Why have J, U, W, and Y no Numerical
+            values?
+Because they have been introduced into the Alphabet
+            since the Science of Arithmetical Notation was
+            invented.
+
+
+33. What effect does it have on the value of a
+            letter to draw a line above it?
+In most cases it increases its value a thousand
+            times.
+
+
+34. Is a line ever drawn beneath a letter for the
+            same purpose?
+In some instances it is.
+
+
+35. What effect does it have on a letter as a
+            numeral to repeat it?
+Repeats its value as often as it is repeated.
+
+[pg 35]
+CAPITALS AND ITALICS.
+
+
+1. What is a Capital letter?
+A large letter.
+
+
+2. What is an Italic letter?
+A form of oblique letters derived from the
+            Italians.
+
+
+3. What is Rule 1 for the use of
+            Capitals?
+Title pages and headings of chapters should be
+            entirely in capitals.
+
+
+4. Give Rule 2.
+The first word of every book, tract, essay, letter,
+            etc., should begin with a capital.
+
+
+5. Give Rule 3.
+The first word of every sentence should begin with a
+            capital.
+
+
+6. Give Rule 4.
+Clauses separately numbered should begin with a
+            capital.
+
+
+7. Give Rule 5.
+The first word after an interrogation point should
+            usually begin with a capital.
+
+
+8. Give Rule 6.
+The first word of a clause, or sentence, given as an
+            example, should begin with a capital.
+
+
+9. Give Rule 7.
+In quoting a title of a book, each important word of
+            the title should begin with a capital.
+
+
+10. Give Rule 8.
+First word of a direct question should begin with a
+            capital.
+
+
+11. Give Rule 9.
+The first word of a direct quotation should begin
+            with a
+            capital.[pg 36]
+
+
+12. Give Rule 10.
+All letters used as numerals should be written or
+            printed in capitals.
+
+
+13. Give Rule 11.
+The pronoun I should always be a capital.
+
+
+14. Give Rule 12.
+The vocative particle O should always be a
+            capital.
+
+
+15. Give Rule 13.
+The first word of every line of poetry should begin
+            with a capital.
+
+
+16. Give one exception to Rule 13.
+In humorous poetry, when a word is divided at the
+            end of a line, the detached syllable at the beginning
+            of the next line should begin with a small letter.
+
+
+17. Give Rule 14.
+All names and titles of the Deity should begin with
+            a capital.
+
+
+18. Give Rule 15.
+All proper names should begin with a capital.
+
+
+19. Give Rule 16.
+All words derived from proper nouns should begin
+            with a capital.
+
+
+20. Give Rule 17.
+Titles of honor and distinction should begin with
+            capitals.
+
+
+21. Give Rule 18.
+The words father, mother, sister, brother, aunt,
+            etc., when followed by a proper noun, should always
+            begin with a capital.
+
+
+22. Give Rule 19.
+All words referring to the Bible should begin with a
+            capital.
+
+
+23. Give Rule 20.
+All proper adjectives should begin with a
+            capital.[pg 37]
+
+
+24. Give Rule 21.
+The names of famous events, historical eras, noted
+            documents, etc., should begin with a capital.
+
+
+25. What establishes a rule for Capitals?
+Good usage, or custom.
+
+
+26. Give Rule 1 for the use of Italics.
+Words for emphasis should be printed in italics.
+
+
+27. Give Rule 2.
+Names of books, poems, etc., are usually printed in
+            italics.
+
+
+28. Give Rule 3.
+Words from foreign languages are printed in
+            italics.
+
+
+29. Give Rule 4.
+Words in the Bible supplied by the translators are
+            printed in italics.
+
+
+30. How are written words marked that are to be
+            printed in Capitals?
+By underscoring the words with two lines.
+
+
+31. How are written words marked that are to be
+            printed in Italics?
+By underscoring the words with one line.
+
+
+32. When use the Interjection O?
+The letter O is a vocative particle, and should
+            always be used before nouns or pronouns in the absolute
+            case by direct address.—[Ridpath.]
+
+
+33. When use Oh?
+In all cases where it is not followed by nouns, or
+            pronouns, in the vocative
+            case.—[Ridpath.]
+
+[pg 38]
+ABBREVIATIONS.
+
+
+1. What is an abbreviation?
+One or more of the letters of a word standing for
+            the whole word.
+
+
+2. What is the signification of A.C.S.?
+American Colonization Society.
+
+
+3. Give meaning A.B.C.F.M.
+American Board of Commissioners for Foreign
+            Missions.
+
+
+4. What is the signification AAA.?
+Amalgamation.
+
+
+5. What is the signification of
+            Ang.-Sax.?
+Anglo-Saxon.
+
+
+6. Give signification of A.T.
+Arch-Treasurer.
+
+
+7. What is the signification of C.A.S.?
+Fellow of the Connecticut Academy.
+
+
+8. What is the signification of C.C.?
+County Court, or County Commissioner.
+
+
+9. What is the meaning of D.C.L.?
+Doctor of Civil Law.
+
+
+10. What is the signification of D.M.?
+Doctor of Music.
+
+
+11. What is the signification of A.U.C.?
+In the year of the city.
+
+
+12. What is the meaning of F.E.S.?
+Fellow of the Entomological Society.
+
+
+13. What is the signification of
+            H.R.I.P.?
+Here rests in peace.
+
+
+14. What is the signification of L.C.J.?
+Lord Chief Justice.
+
+
+15. What is the signification of N.u.?
+Name
+            unknown.[pg 39]
+
+
+16. What is the signification of P.a.?
+Participial adjective.
+
+
+17. What is the signification of P.v.?
+Post village.
+
+
+18. What is the signification of Qy.?
+Query.
+
+
+19. What is the signification of Ro.?
+Righthand page.
+
+
+20. What is the signification S.C.L.?
+Student of the Civil Law.
+
+
+21. What is the signification of S.R.I.?
+Holy Roman Empire.
+
+
+22. What is the signification of S.J.C.?
+Supreme Judicial Court.
+
+
+23. What is the signification of U.S.S.?
+United States Ship.
+
+
+24. What does U.K. signify?
+United Kingdom.
+
+
+25. What does V.R. signify?
+Queen Victoria.
+
+
+26. What does V.G. signify?
+For example.
+
+
+27. What does Xt. signify?
+Christ.
+
+
+28. What does Xmas. signify?
+Christmas.
+
+
+29. What is the signification of Y.B.?
+Year Book.
+
+
+30. What is the signification of Zoöl.?
+Zoölogy.
+
+
+31. What does Yt. signify?
+That.
+
+
+32. What is the signification of S.T.P.?
+Doctor of Divinity.
+
+[pg 40]
+ACCENT AND PUNCTUATION.
+
+
+1. Why is a word divided into syllables?
+For the purpose of showing their proper
+            pronunciation and etymological composition.
+
+
+2. What is Accent?
+A greater stress of voice placed on one syllable of
+            a word than the others.
+
+
+3. What kind of words have no accent?
+Monosyllables.
+
+
+4. Why?
+Accent implies comparison, and there can be no
+            comparison with one syllable.
+
+
+5. How many kinds of accent?
+Common, Emphatic, and Discriminating.
+
+
+6. What is common accent?
+Ordinary accent of spelling.
+
+
+7. How many kinds of common accent?
+Two.
+
+
+8. What are they?
+Primary and secondary.
+
+
+9. What is primary accent?
+The principal accent.
+
+
+10. What is secondary accent?
+The partial accent.
+
+
+11. What kind of accent is essential to every
+            word of more than one syllable?
+Primary.
+
+
+12. How close can primary and secondary accent
+            come together?
+Not closer than two syllables.
+
+
+13. How many primary accents can one word
+            have?
+Only one.[pg 41]
+
+
+14. How many secondary accents can a word
+            have?
+Two.
+
+
+15. In case of two secondary accents, where are
+            they placed?
+On the first and third.
+
+
+16. In case of two secondary, where is the
+            primary accent?
+On the last but two.
+
+
+17. Do the primary and secondary ever change
+            places?
+They do.
+
+
+18. In words of two syllables, where is the
+            accent?
+Usually on the first.
+
+
+19. In trisyllables, what syllable is
+            accented?
+Usually the first.
+
+
+20. Are there any exceptions?
+There are.
+
+
+21. In polysyllables, where is the
+            accent?
+On the antepenult usually.
+
+
+22. In all words ending in ation, where is the
+            accent?
+On the syllable next to the last.
+
+
+23. What is Emphatic accent?
+Accent used for emphatic distinction.
+
+
+24. Have monosyllables any accent?
+They have sometimes an emphatic, or poetic.
+
+
+25. What is Discriminating accent?
+That used to determine parts of speech.
+
+
+26, Give some examples.
+Au'gust, Au-gust'; Reb'el, Re-bel'.
+
+
+27, What is Punctuation?
+The use of certain characters to aid the reader in
+            determining the thought of the writer.
+
+
+28. How many kinds of punctuation are
+            there?
+Four.
+
+
+29. What are they?
+Rhetorical, Etymological, for Reference, and for the
+            Printer.[pg 42]
+
+
+30. What is Rhetorical punctuation?
+That used for rhetorical effect.
+
+
+31. What is Etymological punctuation?
+That used in Orthography and Orthoepy.
+
+
+32. What is Reference punctuation?
+That used to refer the reader to the margin of the
+            page.
+
+
+33. What is punctuation for the Printer?
+That used by the writer to inform the printer the
+            kind of type to use.
+
+
+34. What are the principal Etymological
+            points?
+Apostrophe, Caret, Dieresis, Macron, Breve, Tilde,
+            Grave Accent, Acute Accent, Circumflex Accent, Hyphen,
+            and Period.
+
+
+35. What is the use of the Apostrophe?
+To indicate the omission of a letter, or letters, of
+            a word.
+
+
+36. What letter is omitted in the word
+            o'clock?
+The letter f.
+
+
+37. What is the use of the Caret?
+To correct an error of omission.
+
+
+38. Is the Caret used in printed copy or
+            manuscript?
+In manuscript.
+
+
+39. For what is the Dieresis used?
+To separate two vowels which would otherwise form a
+            diphthong.
+
+
+40. Give an example of the use of the
+            Dieresis.
+Zoölogy, and Diëresis.
+
+
+41. What is the use of the Macron?
+To mark the long quantity of syllables.
+
+
+42. What is a long syllable?
+One in which the vowel has the long sound.
+
+
+43. What is the use of the Breve?
+To mark the short quantity of syllables.
+
+
+44. What is a short syllable?
+One in which the vowel has the short
+            sound.[pg 43]
+
+
+45. What kind of a mark is the Tilde?
+A Spanish mark.
+
+
+46. How many uses has the Tilde?
+Two.
+
+
+47. What are they?
+Placed over n it gives the sound of ny
+            as, in cañon. In English it indicates certain sounds of
+            the vowels.
+
+
+48. How many accent marks are there?
+Three.
+
+
+49. What are they?
+Grave, Acute, and Circumflex.
+
+
+50. What is the use of the Grave accent?
+To mark the falling inflection.
+
+
+51. What is the use of the Acute accent?
+To mark the primary accent, and the rising
+            inflection.
+
+
+52. What is the use of the Circumflex?
+To mark the peculiar inflection of the voice in the
+            pronunciation of a word.
+
+
+53. How many uses has the Hyphen?
+Three.
+
+
+54. What are they?
+To separate the parts of a compound word; to
+            separate a word into syllables; and to divide a word at
+            the end of a line.
+
+
+55. When should the Hyphen be used in a compound
+            word?
+When the word has not become permanently
+            compounded.
+
+
+56. When use the Dieresis instead of the
+            Hyphen?
+When the syllables are divided by the hyphen, there
+            is no hyphen used between the vowels of the
+            digraph.
+
+
+57. What is the use of the Period?
+To denote an abbreviation.
+
+
+58. Are there any other uses of the
+            Period?
+There are.[pg 44]
+
+
+59. Where else is the Period used?
+In Rhetorical punctuation.
+
+
+60. Name the points used in Reference
+            punctuation.
+Asterisk, Obelisk, Parallels, Section, Paragraph,
+            and Index.
+
+
+61. Are these marks ever doubled?
+They are.
+
+
+62. Are Letters ever used for reference?
+They are.
+
+
+DIACRITICAL MARKS.
+
+
+1. What are Diacritical Marks?
+Characters indicating the different sounds of
+            letters.
+
+
+2. Name the Diacritical Marks.
+Macron, Breve, Dieresis, Semi-Dieresis, Caret,
+            Tilde, Cedilla, and the inverted T.
+
+
+3. Make the Diacritical Marks in the order
+            named:
+(¯); (˘); (¨); (·); (ˇ); (~); (¸); (
+            ˔).
+
+
+4. What does the Macron indicate?
+Over a vowel, its long sound; under e, the sound of
+            a, long; across c, the sound of k; over g, the hard
+            sound; across th, the subvocal sound, and over oo, the
+            long sound.
+
+
+5. What are the uses of the Breve?
+Over vowels, it indicates their short sound, and
+            over oo, its short sound.
+
+
+6. What does the Dieresis indicate?
+Over a, its Italian sound; under a, its broad sound;
+            over i, the sound of e, long; under u, when preceded by
+            r, makes it equivalent to o, Italian.
+
+
+7. What is the use of the Semi-Dieresis?
+Over a, gives it the medium sound; under a, the
+            sound of o, short; over o, the sound of u, short; under
+            o, the Italian sound; over g, the soft sound; and under
+            u, the sound of Italian
+            o.[pg 45]
+
+
+8. Where is the Cedilla used?
+Under c, to give it the sound of s.
+
+
+9. What is the use of the Caret as a Diacritical
+            Mark?
+Over a, it indicates the flat sound; over e, the
+            sound of a, flat; over u, the sound of e, in her.
+
+
+10. Where is the Tilde used?
+Over n in Spanish words it indicates that the sound
+            of y immediately follows. It is also used over e in
+            such words as her, and over i in sir, etc.
+
+
+11. What is the use of the inverted
+            ˔?
+Under s, it gives it the sound of z; under x, it
+            gives the sound of gz.
+
+
+12. Give some words illustrating the use of the
+            Macron.
+Māte, bēam, fīne, bōat,
+            tūbe, ro͞od, ḡo, and
+            pre̱y.
+
+
+13. Give words showing the use of the
+            Breve.
+Măt, sĕt, lŏt, tŭb, and
+            fo͝ot.
+
+
+14. Illustrate the use of the Dieresis.
+Cär, polïce, fa̤lling, and trṳe.
+
+
+15. Give words showing the use of the
+            Semi-Dieresis.
+Mȧsk, whạt, mȯney, ġin,
+            wọlf, and bụsh.
+
+
+16. Illustrate the use of the Caret.
+Fâir, thêre, sûrge, and sometimes over o as in
+            stôrm.
+
+
+17. Give words showing the use of the
+            Tilde.
+Mẽrge and cañon.
+
+
+18. Illustrate the use of the Cedilla.
+Çell and çhaise.
+
+
+19. Give some words showing the use of the
+            inverted t.
+Was̝ and ex̝ist.
+
+
+20. Are there any other names for the inverted
+            t?
+It has been given different names by different
+            authors.[pg 46]
+
+
+21. What are they?
+"The Perpendicular," "Suspended Macron," etc.
+
+
+22. Is the letter y ever marked by Diacritical
+            Marks?
+It is, sometimes.
+
+
+23. What marks are used for y?
+Macron and Breve.
+
+
+24. Give examples where y is marked with the
+            Macron.
+Spȳ, slȳ, stȳ, etc.
+
+
+25. Give example where y is marked with the
+            Breve.
+Hy̆mn.
+
+
+26. What mark is used to cancel silent
+            letters?
+Short bar, similar to the Macron.
+
+
+PREFIXES AND SUFFIXES.
+
+
+1. What is the signification of A as a
+            Prefix?
+On, in, at, to, or towards.
+
+
+2. Is A as a prefix ever redundant?
+It is.
+
+
+3. Give examples.
+Adry and ameliorate.
+
+
+4. What does the prefix Ab signify?
+From.
+
+
+5. What does Ab signify?
+Away from.
+
+
+6. What is the signification of Ante?
+Before.
+
+
+7. Name all the prefixes meaning To.
+Ad, ac, af, ag, al, an, ap, ar, and at.
+
+
+8. What does Anti signify?
+Against.[pg 47]
+
+
+9. What does Bis signify?
+Twice.
+
+
+10. What other prefix means the same?
+Dis, from the Greek.
+
+
+11. What does Be signify?
+Upon.
+
+
+12. What does Circum signify?
+Around, as circumscribe.
+
+
+13. What is the meaning of Cis?
+On this side, as cisalpine.
+
+
+14. What prefixes signify With?
+Con, com, co, col, and cor.
+
+
+15. What prefixes signify Against?
+Contra and counter.
+
+
+16. What does Di signify?
+Two, as ditone.
+
+
+17. What prefixes signify Out of, or
+            From?
+E, and ex.
+
+
+18. What does Dys signify?
+Ill, or difficult, as dysentery and dyspepsia.
+
+
+19. What does Enter signify?
+Between or among.
+
+
+20. What does Epi signify?
+On, as epitaph; during, as ephemeral.
+
+
+21. What prefix signifies Equal?
+Equi, as equidistant.
+
+
+22. What does Extra signify?
+Beyond, as extraordinary.
+
+
+23. What is the signification of Eu?
+Well, or agreeable, as euphony.
+
+
+24. What does Gain signify?
+Against, as gainsay.
+
+
+25. What is the signification of Hex?
+Six, as
+            Hexagon.[pg 48]
+
+
+26. What does Hyper signify?
+Over, as hypercriticism.
+
+
+27. What does Hypo signify?
+Under, or beneath, as hypotenuse and hypocrite.
+
+
+28. What prefixes signify Not or In?
+In, im, il, and ir.
+
+
+29. What is the signification of Inter?
+In the midst of, or between, as intellect and
+            intermarry.
+
+
+30. What does Intra signify?
+Within, or on the inside of.
+
+
+31. What other prefix means the same as
+            Intra?
+Intro.
+
+
+32. What is the signification of Juxta?
+Joined to, or next, as juxtaposition.
+
+
+33. What does Mal signify?
+Bad, as malpractice and maladministration.
+
+
+34. What is the signification of Meta?
+In the middle, after, and with.
+
+
+35. What does Mis signify?
+Amiss, or wrong, as misapply and mishap.
+
+
+36. What is the signification of Mono?
+One, as monotheistic.
+
+
+37. What prefixes signify Many?
+Multi and poly, as multiform and polysyllable.
+
+
+38. What does Non signify?
+Not, as nonsense, nonessential, etc.
+
+
+39. What other prefixes signify Not?
+Neg, as in negative, and ne, as in nefarious.
+
+
+40. What does Ob signify?
+In the way of, as obstruct.
+
+
+41. What does Oct signify?
+Eight, as octagon.
+
+
+42. What does Omni signify?
+All, or complete, as
+            omnipresent.[pg 49]
+
+
+43. What is the signification of Out?
+Beyond, as outlaw, outbid, outbalance, etc.
+
+
+44. What does Over signify?
+Above, as overseer, overreach, etc.
+
+
+45. What does Ovi signify?
+An egg, as oviform.
+
+
+46. What does Para signify?
+Beside, as parallel, paragraph, etc.
+
+
+47. What is the signification of Pene?
+Almost, as peninsula—almost an island.
+
+
+48. What does Per signify?
+Through, or by, as permit, perchance, etc.
+
+
+49. What does Peri signify?
+Around, as perimeter, periosteum.
+
+
+50. What does Pleni signify?
+Completeness, or full, as plenitude, etc.
+
+
+51. What does Post signify?
+After, or backwards, as postfix, and postpone.
+
+
+52. What does Pre signify?
+Before, as prefer, prefix, etc.
+
+
+53. What is the signification of Preter?
+Beyond, as preternatural.
+
+
+54. What is the signification of Pro?
+Before, forth, and for.
+
+
+55. What does Pros signify?
+To, as proselyte.
+
+
+56. What is the signification of Proto?
+First, as protocol, protoplasm, etc.
+
+
+57. What does Quad signify?
+Four, as quadrangle, etc.
+
+
+58. What does Re signify?
+Back, or again, as react, recollect, etc.
+
+
+59. What prefixes signify Right?
+Rect and
+            Recti.[pg 50]
+
+
+60. What does Retro signify?
+Backwards, as retrospect and retrograde.
+
+
+61. What does Se signify?
+By itself, as separate, seclude, etc.
+
+
+62. What prefixes signify Half?
+Semi, demi, and hemi, as semicircle, demitone, and
+            hemisphere.
+
+
+63. What does Sine signify?
+Without, as sinecure.
+
+
+64. What does Stereo signify?
+Solid, as stereotype.
+
+
+65. What does Sub signify?
+Under, or inferior, as subterranean and
+            subordinate.
+
+
+66. What does Super signify?
+Over, above, or beyond, as supernatural, etc.
+
+
+67. What does Suf signify?
+Less or after, as suffix, etc.
+
+
+68. What does Supra signify?
+Same as Super.
+
+
+69. What does Sur signify?
+More than, as surcharge.
+
+
+70. What prefixes signify Together?
+Syn, sy, syl, and sym, as in syntax, system,
+            syllable, and symbol.
+
+
+71. What does Trans signify?
+Beyond, across, and again, as transalpine,
+            transatlantic, and transform.
+
+
+72. What does Tra signify?
+Across, as traverse.
+
+
+73. What is the signification of Tri?
+Three, as trisyllable, triangle, etc.
+
+
+74. What does Ultra signify?
+Beyond, as
+            ultramarine.[pg 51]
+
+
+75. What does Un signify?
+Not, as unhappy, unable, etc.
+
+
+76. What is the signification of Under?
+Below, as undercurrent, underrate, etc.
+
+
+77. What does Ve signify?
+No or not, as vehement.
+
+
+78. What does Vice signify?
+Instead of, as Vice-President.
+
+
+79. What does With signify?
+Against or back, as withstand, withdraw.
+
+
+80. What other signification has With in some
+            words?
+Near, as within; together, as withal, etc.
+
+
+81. What suffixes signify "able to be"?
+Able, ible, and ile, as curable, audible, and
+            visible.
+
+
+82. What suffixes signify rank, or
+            office?
+Acy, ate, ric; dom, and ship, as in curacy,
+            pontificate, bishopric, kingdom, and clerkship.
+
+
+83. What is the signification of Age?
+Act of, as marriage, passage, etc.
+
+
+84. Has the suffix Age any other
+            signification?
+From the Latin ago, it means collection.
+
+
+85. What does An signify?
+One who, or the person who acts, as equestrian,
+            pedestrian, etc.
+
+
+86. What does Ana signify?
+A collection of memorable sayings, as
+            Franklinana—the sayings of Franklin.
+
+
+87. What does Ant signify?
+Being, and has the force of ing, as dominant,
+            verdant, etc.
+
+
+88. What is the signification of the suffix
+            Art?
+One who, as braggart.
+
+
+89. What does Ary signify?
+Place where, or place which, as library, aviary,
+            etc.[pg 52]
+
+
+90. What does Ate signify?
+Full of, or abundance, as desolate, passionate,
+            etc.
+
+
+91. What is the signification of Celli?
+Little, as vermicelli, etc.
+
+
+92. What other suffixes also signify
+            Little?
+Cle, cule, el, en, kin, let, ot, ling, ock, and
+            ie.
+
+
+93. What does Ene signify?
+Belonging to, as terrene, etc.
+
+
+94. What is the signification of Eous?
+Full of, as beauteous, etc.
+
+
+95. What does Ed signify?
+When added to a verb it signifies did, as played;
+            but to a participle, was, as completed.
+
+
+96. What is the signification of Er?
+More or often, as brighter, glimmer, etc.
+
+
+97. What does Erly signify?
+Direction of, as northerly.
+
+
+98. What does Es signify?
+More than one, as foxes, etc.
+
+
+99. What does Escent signify?
+Growing or becoming, as convalescent.
+
+
+100. What does Esque signify?
+Belonging to, or like, as picturesque, etc.
+
+
+101. What does Ess signify?
+Feminine when added to nouns, as tigress.
+
+
+102. What does Est signify?
+Greatest or least, as largest, smallest, etc.
+
+
+103. What does Head signify?
+State or nature, as Godhead.
+
+
+104. What does Ics signify?
+Things relating to, as optics, etc.
+
+
+105. What does Ides signify?
+Resemblance, as alkaloides,
+            etc.[pg 53]
+
+
+106. What is the signification of Im?
+More than one, as cherubim.
+
+
+107. What does Ina signify?
+Feminine, as Czarina.
+
+
+108. What does Ing signify?
+Continuing, as singing, etc.
+
+
+109. What is the signification of Ior?
+More, as superior.
+
+
+110. What does Ique signify?
+Belonging to, as antique.
+
+
+111. What is the signification of Ish?
+Like, as boyish, girlish, etc.
+
+
+112. What does Isk signify?
+Little, as asterisk, etc.
+
+
+113. What does Ite signify?
+That which, as appetite.
+
+
+114. What does Ive signify?
+Able to do, as adhesive, etc.
+
+
+115. What does Ion signify?
+State or act, as location.
+
+
+116. What does Ism signify?
+Doctrine, as Calvinism, etc.
+
+
+117. What does Ix signify?
+Feminine of nouns, as testatrix.
+
+
+118. What does Kin signify?
+A son of, or little, as lambkin.
+
+
+119. What does Kind signify?
+Race, as mankind.
+
+
+120. What does Less signify?
+Without, as guiltless, breathless, etc.
+
+
+121. What does Ling signify?
+Young, as duckling, etc.
+
+
+122. What does Ly signify?
+Like, or in a manner, as manly, calmly,
+            etc.[pg 54]
+
+
+123. What does Most signify?
+Greatest or furthest, as hindmost.
+
+
+124. What does Ment signify?
+State or act, as settlement, judgment, etc.
+
+
+125. What does Ness signify?
+The quality of, or state of, as whiteness, etc.
+
+
+126. What does Ock signify?
+Small or young, as hillock, bullock, etc.
+
+
+127. What does Oid signify?
+Likeness, as spheroid, etc.
+
+
+128. What does Or signify?
+One who, as actor, director, etc.
+
+
+129. What does Ory signify?
+Having the quality of, as vibratory, etc.
+
+
+130. What does On signify?
+Large, as million, etc.
+
+
+131. What does Ous signify?
+Having the quality of, as solicitous.
+
+
+132. What does Ot signify?
+Little, as idiot.
+
+
+133. What does Re signify?
+Same as Er, as it is another form of it.
+
+
+134. What does Red signify?
+Those who, as kindred, etc.
+
+
+135. What is the signification of Ress?
+Feminine of nouns, as instructress.
+
+
+136. What does Ric signify?
+Office of, as bishopric.
+
+
+137. What does Ry signify?
+Place where, or things collectively.
+
+
+138. What does Se signify?
+To make, as cleanse.
+
+
+139. What does San signify?
+The person who, as partisan,
+            etc.[pg 55]
+
+
+140. What does Ship signify?
+The condition, as professorship.
+
+
+141. What does Some signify?
+Full, as quarrelsome.
+
+
+142. What does Ster signify?
+The person who, as teamster.
+
+
+143. What does Teen signify?
+Ten to be added, as fourteen.
+
+
+144. What is the signification of Tude?
+The state of being, as similitude.
+
+
+145. What does Ty signify?
+To multiply into, as seventy, forty, etc.
+
+
+146. What does Ude signify?
+Same as Tude, the state of being.
+
+
+147. What does Ule signify?
+Little, as globule.
+
+
+148. What does Ward signify?
+Direction of, as eastward, etc.
+
+
+149. What does Ways signify?
+Manner, as crossways, lengthways, etc.
+
+
+150. What does the suffix Y signify?
+Plenty, as smoky; also abounding in, as wealthy.
+
+
+151. Are there any exceptions to the meaning of
+            the foregoing Prefixes and Postfixes?
+There are some, and therefore great judgment must be
+            exercised in applying them to the analysis of
+            words.
+
+
+152. What is meant by the term "Good
+            Bye"?
+God be with you.
+
+
+153. What does the suffix Ster signify?
+Feminine, as spinster.
+
+[pg 56]
+PROMISCUOUS QUESTIONS.
+
+
+1. Is A the first letter of all written
+            alphabets?
+All but one, the Abyssinian.
+
+
+2. What number is A in the Abyssinian
+            alphabet?
+The thirteenth.
+
+
+3. Is double A ever written together as a
+            word?
+It is, as a proper noun.
+
+
+4. What is Aa the name of?
+About forty small rivers in
+            Europe.—Cyclopedia.
+
+
+5. Is B the second letter of all
+            alphabets?
+All except the Ethiopic.
+
+
+6. What number is B in the Ethiopic?
+Ninth.
+
+
+7. Give a word in which P has the sound of
+            B.
+Cupboard.
+
+
+8. What letter is the Sonorous counterpart of
+            T?
+The letter D.—Cyclopedia.
+
+
+9. Give the Periodic changes of the English
+            language.
+Saxon, Semi-Saxon, Old English, Middle English, and
+            Modern English.
+
+
+10. Give date of "Saxon period."
+Previous to 1150 A.D.
+
+
+11. Give date of "Semi-Saxon period."
+1150 to 1250.
+
+
+12. Give date of "Old English period."
+1250 to 1350.
+
+
+13. Give date of "Middle English period."
+1350 to 1550.
+
+
+14. Give date of "Modern English period."
+Time since 1550.
+
+
+15. What constitutes a Period in
+            Language?
+Any great change in the Literature of a
+            People.[pg 57]
+
+
+16. What causes these changes?
+Mostly national invasion.
+
+
+17. What is assimilation of Consonants?
+When an aspirate and subvocal comes together, it is
+            necessary to change the sound of one or the other, to
+            make the combination pronounceable.
+
+
+18. What is meant by an Element of
+            Speech?
+An indivisible portion of language.
+
+
+19. What is a Sonant sound?
+One uttered with intonated or resonant breath.
+
+
+20. In changing the word traffic to trafficked,
+            why supply the letter k?
+To preserve the proper sound of c.
+
+
+21. Under what condition is a consonant never
+            doubled at the end of a word?
+When immediately following a
+            diphthong.—Webster.
+
+
+22. When is C followed by K in spelling?
+Words ending with the sound of k, and in which c
+            follows the vowel.
+
+
+23. Give some examples.
+Back, black, fleck, etc.
+
+
+24. Are there any exceptions?
+There are, as sac, arc, etc.
+
+
+25. Why is the word Humbugged spelt with two
+            g's?
+To prevent sounding the g like j.
+
+
+26. Give some words spelled differently in the
+            U.S. and in England.
+Woolen—woollen, honor—honour, etc.
+
+
+27. When do words, ending in double e, drop one e
+            on taking an additional syllable?
+When the suffix begins with e.
+
+
+28. Why?
+To prevent three e's coming
+            together.[pg 58]
+
+
+29. Does pluralizing a word ever change the
+            accent?
+Sometimes it does.
+
+
+30. Give an example.
+An'tipode—Antip'odes.
+
+
+31. In such words as Defense, which is correct,
+            se or ce for the termination?
+Se, because the s belongs to the words from which
+            they are derived.—Webster.
+
+
+32. Should words of English origin end in ise or
+            ize?
+Ize; same as those from the Greek.
+
+
+33. Are there any exceptions to these
+            rules?
+There are; as advertise, from English, etc.
+
+
+34. Are the words ox, calf, sheep, and pig of
+            French or Saxon origin?
+Saxon.
+
+
+35. From what language do the words beef, veal,
+            mutton, and pork come?
+The Norman-French.
+
+
+36. What is a Lexicon?
+A Dictionary.
+
+
+37. What is an irregular sound?
+Sound of a Redundant letter.
+
+
+38. How are words divided as regards
+            Specie?
+Primitive and Derivative.
+
+
+39. How may the meaning of a word be
+            changed?
+By accent; as Aug'ust, August'.
+
+
+40. What is an irregular derivative?
+One in which the letters of the root are changed in
+            forming the derivative.
+
+
+41. What is Pronunciation?
+The distinct utterance of the sounds of a word.
+
+
+42. What are the significant parts of a
+            word?
+Root, prefix, and
+            suffix.[pg 59]
+
+
+43. How are words divided as to variety?
+Italic, Roman, Old English, etc.
+
+
+44. Name some compound word in which both parts
+            retain their own accent.
+Writ'ing-mas'ter.
+
+
+45. Name some word in which one part loses its
+            accent.
+Gentle-manly.
+
+
+46. Can all the vowels form syllables
+            themselves?
+All except W.
+
+
+47. When has R a rough sound?
+When it begins a word.
+
+
+48. How are words distinguished?
+By their forms and uses.
+
+
+49. Why do Consonants ever unite?
+To form complex sounds: as rr in Burr.
+
+
+50. From what language are most words derived
+            that end in less?
+Anglo-Saxon.
+
+
+51. Is Z the last letter of all
+            alphabets?
+All except the Greek, and Hebrew.
+
+
+52. What is its place in the Greek
+            alphabet?
+Sixth.
+
+
+53. What is its place in the Hebrew?
+Seventh.
+
+
+54. What letter is the sonorous counterpart of
+            S?
+The letter Z.—Cyclopedia.
+
+
+55. What is spelling of Z in England?
+Zed, and also Izzard.
+
+
+56. What language has two letters representing
+            the sound of Z?
+The Russian.
+
+
+57. When was the letter W first used?
+About the end of the Seventh Century.
+
+
+58. What changes the sound of a vowel from long
+            to short?
+The absence of the
+            accent.[pg 60]
+
+
+59. In what situation is gh always
+            silent?
+After i in the same syllable.
+
+
+60. How many words of two syllables are changed
+            from nouns to verbs by accent?
+About eighty.
+
+
+61. What word contains a consonant
+            Tetragraph?
+Phthisic.
+
+
+62. What is Philology?
+The science of language.
+
+
+63. When is ue final, silent?
+After g and q; as fatigue and oblique.
+
+
+64. What are the elements of spoken
+            language?
+Vocal and articulate sounds.
+
+
+65. What are Hybrid words?
+Mongrel compounds.
+
+
+66. What is Terminology?
+A treatise on technicalities.
+
+
+READING AND ELOCUTION.
+
+
+1. What is Reading?
+Silent perusal or distinct utterance of thought and
+            feeling, as seen expressed in written language.
+
+
+2. How many kinds of Reading are there?
+Two.
+
+
+3. What are they?
+Silent and Audible.
+
+
+4. What is Silent Reading?
+The perusal of Language without utterance.
+
+
+5. What is Audible Reading?
+The utterance of thought and feeling, as seen
+            expressed in written
+            Language.[pg 61]
+
+
+6. What is Elocution?
+The science and art of the delivery of
+            composition.
+
+
+7. How many kinds of Delivery are there?
+Three.
+
+
+8. What are they?
+Speaking, Declamation, and Oratory.
+
+
+9. What is Speaking?
+The utterance of thought and feeling without
+            reference to the written page.
+
+
+10. What is Declamation?
+The delivery of another's composition.
+
+
+11. What is Oratory?
+The delivery of one's own composition.
+
+
+12. How many kinds of Oratory are there?
+Two.
+
+
+13. What are they?
+Prepared and Extempore.
+
+
+14. What is Prepared oratory?
+That which has been studied previous to
+            delivery.
+
+
+15. What is Extempore oratory?
+That which is accomplished simultaneously with the
+            delivery.
+
+
+16. What is Vocal Culture?
+The training of the organs of speech for effective
+            delivery.
+
+
+17. What should be the primary object in Audible
+            reading?
+To convey to the hearer the ideas and sentiments of
+            the writer.
+
+
+18. In order to accomplish this, what should the
+            Reader do?
+Endeavor to make the feelings and sentiments of the
+            writer his own.
+
+
+19. What are some of the essential qualities of a
+            good Reader?
+To read slowly, observe the pauses, give proper
+            inflections, read distinctly, and with
+            expression.[pg 62]
+
+
+20. What is Enunciation?
+The utterance of words.
+
+
+21. Under how many Divisions should the subject
+            of reading be treated?
+Six.
+
+
+22. What are they?
+Articulation, Inflection, Accent, Emphasis, the
+            Voice, and Gesture.
+
+
+23. What is Articulation?
+Distinct utterance of the elementary sounds, and of
+            the combinations.
+
+
+24. Name four common faults in
+            Articulation.
+Omitting an unaccented vocal, dropping the final
+            sound, sounding incorrectly an unaccented vowel, and
+            omitting syllables.
+
+
+25. What is Inflection?
+Sliding of the voice upward or downward.
+
+
+26. How many kinds of Inflection are
+            there?
+Two.
+
+
+27. What are they?
+Rising and falling.
+
+
+28. What is the Rising inflection?
+An upward slide of the voice.
+
+
+29. What is the Falling inflection?
+A downward slide of the voice.
+
+
+30. Are the rising and falling inflections both
+            ever given to the same sound?
+They are.
+
+
+31. How is such inflection marked?
+By the Circumflex.
+
+
+32. How many kinds of Circumflex?
+Two.
+
+
+33. What are they?
+Rising and
+            falling.[pg 63]
+
+
+34. What is the Rising Circumflex?
+The sliding of the voice downward and then upward on
+            the same sound.
+
+
+35. What is the Falling Circumflex?
+The sliding of the voice upward and then downward on
+            the same sound.
+
+
+36. What is a Monotone?
+Reading without sliding the voice either upward or
+            downward.
+
+
+37. Give Rule 1 for falling inflection.
+Propositions which make complete sense require the
+            falling inflection.
+
+
+38. Does Emphasis ever reverse this rule?
+It does sometimes.
+
+
+39. Give Rule 2.
+Emphasis generally requires the falling
+            inflection.
+
+
+40. Where the sense is dependent, what inflection
+            is generally used?
+The rising.
+
+
+41. Does Emphasis ever affect this rule?
+Relative emphasis sometimes reverses it.
+
+
+42. What kind of inflection should be used at the
+            end of an interrogative sentence?
+Falling, if it cannot be answered by yes or no.
+
+
+43. Negative sentences require what kind of
+            inflection?
+Rising.
+
+
+44. Does Emphasis ever affect this rule?
+It does; often reversing it.
+
+
+45. Imperative sentences have what
+            inflection?
+Usually the falling.
+
+
+46. What kind of words require opposite
+            inflection?
+Words or members expressing antithesis or
+            contrast.[pg 64]
+
+
+47. What is a Series?
+A number of particulars following one another in the
+            same construction.
+
+
+48. How many kinds of Series?
+Two.
+
+
+49. What are they?
+Commencing and Concluding.
+
+
+50. What is a Commencing Series?
+One that commences a sentence.
+
+
+51. What is a Concluding Series?
+One that concludes a sentence.
+
+
+52. What inflection is given to the members of a
+            commencing series?
+The rising.
+
+
+53. What inflection is given to the members of a
+            concluding series?
+The falling.
+
+
+54. Are there any exceptions to these
+            rules?
+There are.
+
+
+55. What causes the exceptions?
+Emphasis.
+
+
+56. What is a Parenthesis in reading?
+A sentence, or clause, set off by curves from the
+            context.
+
+
+57. How should the Parenthesis be read?
+In a lower tone and more rapidly.
+
+
+58. What is the use of the Circumflex?
+To express irony, or sarcasm.
+
+
+59. What meaning is always suggested by the
+            Circumflex?
+Doubtful or double meaning.
+
+
+60. What is the use of the Monotones?
+To produce an effect in grave and solemn
+            subjects.
+
+
+61. What is Accent in reading?
+Increase of force on certain syllables of a
+            word.[pg 65]
+
+
+62. Give an example of Emphatic accent.
+This corrup'tion must put on in'terruption.
+
+
+63. What does Pitch signify?
+The place in the musical scale on which an element
+            is sounded.
+
+
+64. What is Force?
+That property of the voice which relates to loudness
+            of sound.
+
+
+65. How many different kinds of Force?
+Five.
+
+
+66. What are they?
+Suppressed, subdued, ordinary, energetic, and
+            vehement.
+
+
+67. To what does Stress relate?
+Different modes of applying force.
+
+
+68. How many kinds of Stress?
+Three.
+
+
+69. What are they?
+Expulsive, Explosive, and Vanishing.
+
+
+70. What is meant by Quantity?
+Length of time the voice dwells on a word.
+
+
+71. What is Quality?
+That property which relates to the kind of
+            voice.
+
+
+72. What is Movement?
+The degree of rapidity with which the voice moves
+            from one word to another.
+
+
+73. How many kinds of Movement?
+Six.
+
+
+74. What are they?
+Very slow, slow, moderate, lively, rapid, and very
+            rapid.
+
+
+75. What does Expression comprehend?
+The practical application of all the principles of
+            reading and
+            elocution.[pg 66]
+
+
+76. What is Cadence?
+The natural dropping of the voice at the end of a
+            sentence, denoting completeness of thought.
+
+
+77. What is a Rhetorical pause?
+A suspension of the voice for rhetorical effect.
+
+
+78. What is Emphasis?
+Giving force and energy to certain words.
+
+
+79. How many kinds of Emphasis?
+Two.
+
+
+80. What are they?
+Absolute and relative.
+
+
+81. What is Absolute emphasis?
+Emphasis made without any contrast with other
+            words.
+
+
+82. What is Relative emphasis?
+Emphasis used where there is antithesis either
+            expressed or implied.
+
+
+83. Is a whole Phrase ever made emphatic?
+It is often.
+
+
+84. For what purpose?
+To give it great force.
+
+
+85. What is the Emphatic pause?
+Pause made for emphasis.
+
+
+86. What is Antithesis?
+Two or more words opposed to each other in
+            meaning.
+
+
+87. What is a Climax?
+A series of particulars increasing in importance to
+            the last.
+
+
+88. What is Anti-climax?
+A series of particulars decreasing in importance to
+            the last.
+
+
+89. What is meant by Transition?
+Any sudden change in reading.
+
+
+90. What is Emphatic repetition?
+Words repeated for emphasis.
+
+
+91. What is an Interrogation?
+A statement, or assertion, put in the form of a
+            question.[pg 67]
+
+
+92. What is an Exclamation?
+A statement denoting strong emotions.
+
+
+93. What is Personation?
+One person imitating the actions and manners of some
+            other person or persons.
+
+
+94. How many kinds of style in reading?
+Five.
+
+
+95. What are they?
+Description, Argument, Narration, Persuasion,
+            Exhortation.
+
+
+96. What should be characteristic of the
+            Descriptive style?
+The Speaker should use the same manner that he would
+            if he were actually describing the thing spoken of.
+
+
+97. What should be characteristic of the
+            Argumentative style?
+Directness and earnestness.
+
+
+98. What should characterize the
+            Narrative?
+The Reader should proceed as though relating his own
+            experience.
+
+
+99. What the Persuasive?
+Those tones, looks, and gestures which bring
+            conviction to the hearer.
+
+
+100. What should characterize the
+            Exhortative?
+The performer should appeal, beseech, and implore,
+            as the case may require.
+
+
+101. What is the Slur?
+The smooth gliding of the voice in parenthetic
+            clauses, etc.
+
+
+102. How are Emphatic words
+            distinguished?
+By different styles of printing.
+
+
+103. How many kinds of letters are used to denote
+            emphasis?
+Three usually.
+
+
+104. What are they?
+Italics, small capitals, and capitals.
+
+
+105. What is Antithetic emphasis?
+Same as
+            Relative.[pg 68]
+
+
+106. What is Modulation?
+Variation of the voice in speaking and reading.
+
+
+107. What is Pure tone?
+A clear, flowing sound, with moderate pitch.
+
+
+108. What is the Orotund?
+Pure tone intensified.
+
+
+109. For what is it adapted?
+To express sublime and pathetic emotions.
+
+
+110. What is the Aspirated tone?
+An expulsion of breath, the words being spoken in a
+            whisper.
+
+
+111. What is the Guttural quality?
+Deep undertone.
+
+
+112. What does it express?
+Hatred, contempt, loathing, etc.
+
+
+113. What is the Trembling tone?
+A constant waver of the voice.
+
+
+114. What does it express?
+An intense degree of suppressed excitement, or
+            personates old age.
+
+
+115. What are Pauses?
+Suspensions of the voice in reading or speaking.
+
+
+116. How many kinds of pauses are there?
+Two.
+
+
+117. What are they?
+Grammatical and Rhetorical.
+
+
+118. What is Suspensive quantity?
+Prolongation of the voice at the end of a word
+            without making an actual pause.
+
+
+119. What does Quantity embrace?
+Force and rate.
+
+
+120. What quality of voice is mostly used in
+            speaking and reading?
+Pure tone.[pg 69]
+
+
+121. What is meant by Prose?
+All composition which is not written in verse.
+
+
+122. What are some of the varieties of
+            Prose?
+Letters, Essays, Travels, History, and
+            Discourses.
+
+
+123. What is a Letter as a variety of
+            prose?
+A written communication addressed by the writer to
+            some other person.
+
+
+124. What is an Essay?
+A written discourse on some special subject.
+
+
+125. What are Travels?
+Records of journeys.
+
+
+126. What is History?
+A record of past events.
+
+
+127. What is a Discourse?
+A performance read or spoken to an audience.
+
+
+128. Should the voice agree in style with the
+            different varieties of prose?
+It should, and the performer should endeavor to
+            produce the exact sentiments of the writer.
+
+
+129. What is Poetry?
+A discourse written in verse and metrical
+            language.
+
+
+130. What is a Verse?
+A single line of metrical language.
+
+
+131. Is it correct to use the term verse in
+            speaking of a division of prose?
+It is not.
+
+
+132. What should we call such division?
+Paragraph or Division.
+
+
+133. What is a Stanza?
+A number of metrical lines, or verses, combined
+            according to a regular system.
+
+
+134. How many kinds of metrical language?
+Two.[pg 70]
+
+
+135. What are they?
+Rhyme and Blank Verse.
+
+
+136. What is Rhyme?
+That language in which the concluding syllables of
+            the verses have a similarity of sound.
+
+
+137. How many kinds of Rhyme?
+Two.
+
+
+138. What are they?
+Perfect and imperfect.
+
+
+139. What is a Perfect rhyme?
+Where the vowels have the same sound.
+
+
+140. What is an Imperfect rhyme?
+Where the vowels have a different sound.
+
+
+141. What is Blank Verse?
+A kind of metrical language in which there is no
+            similarity of sound.
+
+
+142. What is the Cæsura pause?
+A rhythmic pause occurring in a verse.
+
+
+143. How many rules should be observed in the use
+            of the Cæsura?
+Three.
+
+
+144. Give Rule 1.
+The pause should be near the middle of the
+            verse.
+
+
+145. Give Rule 2.
+It should never divide a word.
+
+
+146. Give Rule 3.
+Should not separate words from their modifiers, as
+            adjectives from nouns, adverbs from verbs, etc.
+
+
+147. Do all verses have the Cæsura pause?
+They do if over three feet in length.
+
+
+148. What is meant by a Foot in verse?
+A certain portion of a line divided according to
+            accent.[pg 71]
+
+
+149. When melody comes in contact with accent,
+            which should yield?
+Accent.
+
+
+150. Is there any other rhythmic pause than the
+            Cæsura?
+There is; the demi-cæsura is sometimes used.
+
+
+151. How many kinds of Poetry are there?
+Seven.
+
+
+152. What are they?
+Epic, Dramatic, Lyric, Elegiac, Didactic, Satiric
+            and Pastoral.
+
+
+153. What is an Epic poem?
+A poetical recital of some great and heroic
+            enterprise.
+
+
+154. Are there many Epic poems?
+There are not; most nations have one.
+
+
+155. Name the three Epics of greatest
+            note.
+Homer's Iliad, Virgil's Æneid, and Milton's Paradise
+            Lost.
+
+
+156. What language were these poems written
+            in?
+The Iliad in Greek, Æneid in Latin, and Paradise
+            Lost in English.
+
+
+157. What does the Iliad describe or
+            narrate?
+The downfall of Troy, which was the most memorable
+            event in the early history of the Trojans and
+            Greeks.
+
+
+158. What does the Æneid narrate?
+The perils and labors of Æneas, who was the reputed
+            founder of the Roman race.
+
+
+159. What does Paradise Lost describe?
+The downfall of not only the Human but of the
+            Angelic host.
+
+
+160. What is a Dramatic poem?
+One similar in many respects to an Epic.
+
+
+161. Name some point of difference.
+Epic relates past events; the Drama represents
+            events as taking place at the present
+            time.[pg 72]
+
+
+162. Name the greatest Dramatic writer of the
+            English.
+Shakespeare.
+
+
+163. What is a Drama called that is set to
+            music?
+An opera.
+
+
+164. What is a Melodrama?
+A dramatic poem some parts of which are spoken and
+            some are sung.
+
+
+165. What is Lyric Poetry?
+It is the oldest kind of poetry, and was originally
+            intended to be sung to the accompaniment of the
+            lyre.
+
+
+166. What are Sonnets?
+A kind of Lyric Poems.
+
+
+167. What is an Elegy?
+A poem of a mournful kind, usually celebrating the
+            virtues of some person deceased.
+
+
+168. What is an Epitaph?
+A short Elegy inscribed on a monument, or written in
+            praise of any one.
+
+
+169. What is a Pastoral poem?
+One that describes country life.
+
+
+170. What is a Didactic poem?
+One the aim of which is to give instruction.
+
+
+171. What is Meditative Poetry?
+A kind of Didactic poetry.
+
+
+172. Name two noted Didactic poems.
+Bryant's "Thanatopsis," and Campbell's "Pleasures of
+            Hope."
+
+
+173. What is a Satire?
+One that holds up the follies of men to
+            ridicule.
+
+
+174. Is a Satire personal?
+It is not.
+
+
+175. What is a Lampoon?
+A poem that attacks
+            individuals.[pg 73]
+
+
+176. What is Gesture?
+Expression given to language by movements of the
+            body, limbs, etc.
+
+
+177. What kind of Gesture is most
+            appropriate?
+That which is natural.
+
+
+178. What attitude should be used in reading and
+            speaking?
+Standing.
+
+
+179. Which hand should hold the book?
+The left, if possible.
+
+
+180. Should a Reader keep his eyes on the book
+            constantly?
+He should not; but cast the eyes away from the page
+            as often as possible.
+
+
+181. Should a gesture be made while the eyes are
+            looking on the book?
+It should not.
+
+
+182. In what kind of language are gestures
+            inappropriate?
+Didactic or unimpassioned discourse.
+
+
+183. Should a Speaker begin to gesticulate as
+            soon as he begins his discourse?
+Very seldom, before he has entered fully into the
+            discourse.
+
+
+184. How many positions are recognized for the
+            hand when not used in gesticulating?
+Three.
+
+
+185. What are they?
+Hanging naturally at the side; resting upon the hip
+            with the elbow thrown backward; and resting on your
+            bosom.
+
+
+186. What are Descriptive gestures?
+Those used in describing objects.
+
+
+187. What are Significant gestures?
+Those which have special signification.
+
+
+188. Name some Significant gestures of the
+            head.
+It drops in grief and shame, and nods in assent;
+            shakes in dissent, and leans forward in
+            attention.[pg 74]
+
+
+189. Name some Significant gestures of the
+            eyes.
+Raised in prayer, weep in sorrow, burn in anger, and
+            are cast on vacancy in thought.
+
+
+190. Name some of the passions of the
+            mind.
+Love, anger, joy, sorrow, fear, and courage.
+
+
+191. What tone of voice should be used in the
+            expression of Love?
+Soft, smooth, and languishing voice.
+
+
+192. What tone of voice should be used to express
+            Anger?
+Strong, vehement, and elevated voice.
+
+
+193. Where is the best place to practice
+            elocution and reading?
+In the open air, or in a well ventilated room.
+
+
+194. Should a Reader or Speaker pay strict
+            attention to the rules of elocution?
+He should not, but study nature rather.
+
+
+195. What is the Soul of Oratory?
+Emotion.
+
+
+196. What is meant by the Compass of the
+            voice?
+The range in which it can be properly
+            controlled.
+
+
+197. How may the Compass of the voice be
+            increased?
+By continued practice on a very low and very high
+            key.
+
+
+198. Should a Reader or Speaker drink any liquid
+            while exercising the voice?
+He should not, for it is injurious to the vocal
+            chords.
+
+
+199. What effect does Tobacco have on the
+            voice?
+It enfeebles the nervous system and breathing
+            organs, and makes the voice dry, harsh, and
+            ungovernable.
+
+
+200. What effect do Stimulants have on the
+            voice?
+Irritate and inflame the vocal organs, which results
+            in hoarseness and produces too high a key, which
+            terminates in a squeaking
+            tone.[pg 75]
+
+
+201. In faulty articulation what sounds are
+            usually mispronounced?
+The vowel sounds of the unaccented syllables.
+
+
+202. What Consonants are often incorrectly
+            dropped?
+The final consonants.
+
+
+203. How may distinct Articulation be
+            acquired?
+By continued practice of the elementary sounds.
+
+
+204. What are the most prominent Elements of all
+            words?
+The vowels.
+
+
+205. Which sounds should be practiced
+            first?
+The vowels; as they are the most easily uttered.
+
+
+206. Can the sounds of the Consonants be given
+            alone?
+They can by practice.
+
+
+207. What is the source of the greatest defect in
+            Articulation?
+Improper sounding of the consonants.
+
+
+208. What kind of Inflection is generally given
+            to words of great emphasis?
+The falling; unless the sentiment requires the
+            rising.
+
+
+209. When is the Inflection of a question changed
+            from the falling to the rising?
+When it is repeated or made emphatic.
+
+
+210. In the introductory part of a sentence,
+            where the sense is incomplete, what inflection is
+            used?
+Unless great emphasis is required, the rising should
+            be used.
+
+
+211. The names of persons addressed in formal
+            speech require what inflection?
+The falling should always be used in such cases.
+
+
+212. General statements require what
+            inflection?
+The falling.
+
+
+213. For the sake of harmony, what principle
+            should govern the reader?
+When a sentence ends with the falling inflection,
+            the rising should precede
+            it.[pg 76]
+
+
+214. When sentences commence with verbs, what
+            inflection is required?
+Mostly the rising.
+
+
+215. What is meant by an Echo in reading?
+Interrogative exclamations, where the question is
+            repeated.
+
+
+216. Give an example of Echo.
+What's the trouble? What's the trouble? trouble
+            enough.
+
+
+217. What inflection should be given to members
+            of sentences connected disjunctively?
+First member, the rising; second member, the
+            falling.
+
+
+218. When several Emphatic words or members come
+            together, how should they be inflected?
+The most emphatic, the falling; and the others the
+            rising.
+
+
+219. What is a Simple Series in reading?
+A series of particulars that is composed of single
+            words.
+
+
+220. What is meant by a Compound Series?
+One that is composed of clauses is called
+            compound.
+
+
+221. What determines Accent?
+The usage of our best speakers and writers of the
+            present.
+
+
+222. To whom does it belong to determine and
+            record such usage?
+The Lexicographers.
+
+
+223. Are there any cases in which we can trace
+            the reason for the accent?
+There are; in discriminating accent where it is used
+            to determine the parts of speech.
+
+
+224. Do we ever have two sets of Antitheses in
+            the same sentence?
+We do; as each member may contain an antithesis.
+
+
+225. Give an example.
+John was hurt; William escaped.
+
+
+226. How many sets of Antitheses may be used in
+            one sentence?
+Often three; but seldom
+            more.[pg 77]
+
+
+227. Should there be any difference in the tone
+            of voice used in reading verse and prose?
+There should be a difference.
+
+
+228. What different style ought to be
+            used?
+The monotone and rising inflection are more
+            frequently used in verse than in prose.
+
+
+229. What is the greatest difficulty met with in
+            reading or declaiming poetic selections?
+In giving it that measured flow which distinguishes
+            it from prose, without falling into a continued
+            monotone.
+
+
+230. What is a good method to break up this
+            habit?
+Reduce the selection to prose, and deliver it in an
+            earnest, conversational style.
+
+
+231. Why should there be a short pause at the end
+            of each line of poetry, even where the sense does not
+            require it?
+In order that the measure of the poem may be more
+            perceptible to the ear.
+
+
+232. What is it that constitutes the melody of a
+            poem?
+The pauses and accents chiefly.
+
+
+233. What rule should govern the reader in the
+            use of pauses and accents?
+Use variety, and not make them too prominent.
+
+
+234. What tone of voice should be used in reading
+            a Simile in poetry?
+The simile should be read in a lower tone than the
+            rest of the passage.
+
+
+235. What, with regard to the voice, is an
+            important object to every speaker and reader?
+The important object is to have a full, even tone of
+            voice.
+
+
+236. What key of the voice should be most
+            diligently improved?
+The natural key, or that which is used
+            most.[pg 78]
+
+
+237. What is meant by the natural key or
+            pitch?
+That which is peculiar to the individual, and in
+            which he can use most easily to himself, and most
+            agreeably to others.
+
+
+238. How can the natural tone of voice be
+            strengthened?
+By reading and speaking as loud as possible, without
+            suffering the voice to rise into a higher key.
+
+
+239. What is the best method of strengthening the
+            natural key?
+By speaking and reading strong, animated passages in
+            a small room.
+
+
+240. How may low tones be acquired?
+By continued practice in a lower key than the
+            natural.
+
+
+241. How may a high key be acquired?
+In the same manner as a low key; by pitching the
+            voice first a little higher than the natural, and
+            mastering that thoroughly, then still higher and
+            higher.
+
+
+242. What is meant by Rotundity of the
+            voice?
+That peculiar form of tone which the Romans called
+            "Ore rotundo," which signifies "Round mouth."
+
+
+243. In what kind of sentences is the Rotundity
+            of the voice exemplified?
+In the hailing of vessels, and is used especially by
+            sailors and officers.
+
+
+244. Which is the most difficult: to raise the
+            voice to a higher pitch, or to bring it to a
+            lower?
+The lowering of the voice is more difficult, and
+            requires great care and practice.
+
+
+245. What is a common fault with most public
+            speakers?
+To run the voice into too high a key, and thus weary
+            the hearers.
+
+
+246. What is a good rule by which to govern the
+            voice?
+To start on a key lower than the natural, and thus
+            avoid running too
+            high.[pg 79]
+
+
+247. What are the principal styles of different
+            reading selections?
+Descriptive, Narrative, Senatorial, Moral, Didactic,
+            Dramatic, and Amusing.
+
+
+248. What tone of voice should be used in reading
+            a Descriptive selection?
+The ordinary, natural tone, with a careful use of
+            emphasis.
+
+
+249. What tone of voice is best adapted to the
+            reading of a Narration?
+The conversational tone, with as little reference to
+            the printed page as possible.
+
+
+250. What style is the best adapted to Senatorial
+            reading?
+An imitative style and tone, being careful in the
+            use of the emphatic pause.
+
+
+251. What tone is best adapted to the reading of
+            Moral and Religious selections?
+Low and moderate tone, expressing feeling and
+            sentiment, being careful not to read too fast.
+
+
+252. What style is best adapted to Didactic
+            reading?
+That peculiar style which is best adapted to impart
+            instruction, laying special stress on the important
+            idea.
+
+
+253. What style and tone are best adapted to the
+            reading of Dramatic selections?
+A style and tone which are entirely imitative in
+            character.
+
+
+254. What tone or character of voice is best
+            suited to the rendering of Amusing selections?
+That which will bring out the mirthful sentiment, to
+            the exclusion of all rules for accent, emphasis,
+            etc.
+
+
+255. Should all persons use the same tones of
+            voice and style in reading selections?
+They should not; as individuals are differently
+            constituted, so they have different ways of expressing
+            their ideas and sentiments.
+
+[pg 80]
+MISCELLANEOUS EXERCISES.
+SPELLING ALPHABETICALLY ARRANGED.
+
+
+1. Abaissement.
+2. Abductor.
+3. Abelmoschus.
+4. Aberration.
+5. Abies.
+6. Ablepsy.
+7. Abnormal.
+8. Abouchement.
+9. Abscess.
+10. Abscission.
+11. Absinthium.
+12. Abstergent.
+13. Abominable.
+14. Aborigines.
+15. Abridgment.
+16. Absinthe.
+17. Abstemious.
+18. Abstrusely.
+19. Abysmal.
+20. Acacia.
+21. Academician.
+22. Acanthus.
+23. Acarpous.
+24. Acaulous.
+25. Accede.
+26. Accelerate.
+27. Accessible.
+28. Accessory.
+29. Accomplice.
+30. Accostable.
+31. Accoutre.
+32. Acephalous.
+33. Acerbity.
+34. Acescent.
+35. Acetify.
+36. Acetometer.
+37. Ache.
+38. Achievable.
+39. Achromatic.
+40. Acicular.
+41. Acolyte.
+42. Acoustic.
+43. Acquiesce.
+44. Acquittal.
+45. Acreage.
+46. Acrobat.
+47. Acropolis.
+48. Acrostic.
+49. Actualize.
+50. Aculeate.
+51. Baa.
+52. Bacchanal.
+53. Backsheesh.
+54. Baconian.
+55. Bagatelle.
+56. Balk.[pg 81]
+57. Bandelet.
+58. Barbican.
+59. Baryta.
+60. Barru.
+61. Basalt.
+62. Basic.
+63. Basilica.
+64. Basilisk.
+65. Bastile.
+66. Baccae.
+67. Caboodle.
+68. Cacoethes.
+69. Cacophony.
+70. Cadaverous.
+71. Cadenza.
+72. Caducus.
+73. Caduceus.
+74. Caique.
+75. Caisson.
+76. Cæcal.
+77. Calaboose.
+78. Calciferous.
+79. Caffeine.
+80. Calcined.
+81. Caldarium.
+82. Caligo.
+83. Calorimeter.
+84. Caltha.
+85. Calx.
+86. Catechu.
+87. Cellular.
+88. Chemosis.
+89. Chiastre.
+90. Chilblain.
+91. Chymification.
+92. Cilium.
+93. Clematis.
+94. Cochineal.
+95. Codeia.
+96. Contagious.
+97. Coronoid.
+98. Dacryoma.
+99. Dahline.
+100. Daphne.
+101. Datura.
+102. Deciduous.
+103. Decollation.
+104. Dactylology.
+105. Dahlia.
+106. Decumbent.
+107. Degmus.
+108. Dawdle.
+109. Dengue.
+110. Deltoid.
+111. Debut.
+112. Decastyle.
+113. Deliquium.
+114. Decennial.
+115. Dentatus.
+116. Dentagra.
+117. Demesne.
+118. Diaphysis.
+119. Diastole.
+120. Didym.
+121. Desuetude.
+122. Echinus.
+123. Echinops.
+124.
+            Ecarte.[pg 82]
+125. Ebullition.
+126. Eclat.
+127. Edacious.
+128. Eclysis.
+129. Ecphlysis.
+130. Eider.
+131. Eke.
+132. Effete.
+133. Elysian.
+134. Egophony.
+135. Empiric.
+136. Empyrean.
+137. Encaustic.
+138. Enceinte.
+139. Elaine.
+140. Encore.
+141. Encyclical.
+142. Encysted.
+143. Elephas.
+144. Enmity.
+145. Ensconce.
+146. Facet.
+147. Facetious.
+148. Facial.
+149. Factitious.
+150. Falderals.
+151. Falsetto.
+152. Fantasia.
+153. Fascicle.
+154. Fauces.
+155. Fauna.
+156. Febrile.
+157. Felly.
+158. Felloe.
+159. Fuzz.
+160. Gala.
+161. Gamboge.
+162. Gamut.
+163. Ganoid.
+164. Gaol.
+165. Garrote.
+166. Gawk.
+167. Gelatine.
+168. Gelid.
+169. Gemini.
+170. Genial.
+171. Geode.
+172. Geognosy.
+173. Geodesy.
+174. Georama.
+175. Hegira.
+176. Heifer.
+177. Helix.
+178. Helve.
+179. Hernia.
+180. Hexahedron.
+181. Hexastyle.
+182. Hockle.
+183. Hone.
+184. Hookah.
+185. Horologe.
+186. Icarian.
+187. Ibis.
+188. Ibex.
+189. Ichor.
+190. Ichneumon.
+191. Ichthyolite.
+192. Ides[pg 83]
+193. Idiom.
+194. Idyl.
+195. Ignescent.
+196. Iguana.
+197. Ileum.
+198. Impede.
+199. Impennate.
+200. Indocile.
+201. Inebriate.
+202. Insidious.
+203. Jabber.
+204. Jacinth.
+205. Jackal.
+206. Jaconet.
+207. Jalap.
+208. Jaguar.
+209. Janitor.
+210. Jeer.
+211. Jejune.
+212. Jujube.
+213. Junket.
+214. Juno.
+215. Kale.
+216. Katydid.
+217. Kistvaen.
+218. Kyanize.
+219. Lac.
+220. Labyrinth.
+221. Lachrymal.
+222. Landwehr.
+223. Limbo.
+224. Llama.
+225. Loo.
+226. Mab.
+227. Macaw.
+228. Machinate.
+229. Madrigal.
+230. Magenta.
+231. Monolith.
+232. Nard.
+233. Naphtha.
+234. Nadir.
+235. Naiad.
+236. Niggard.
+237. Nympha.
+238. Obesity.
+239. Obloquy.
+240. Obverse.
+241. Occiput.
+242. Ochre.
+243. Pabulum.
+244. Palanquin.
+245. Paletot.
+246. Replevin.
+247. Resuscitate.
+248. Sabaoth.
+249. Sacerdotal.
+250. Sacrum.
+251. Sadducee.
+
+[pg 84]
+PROPER NOUNS TO SPELL.
+
+
+1. Aaron.
+2. Abdiel.
+3. Abiezer.
+4. Adolphus.
+5. Albion.
+6. Alexander.
+7. Alonzo.
+8. Alpheus.
+9. Alvah.
+10. Alwin.
+11. Ammi.
+12. Amos.
+13. Andronicus.
+14. Antony.
+15. Apollos.
+16. Aristarchus.
+17. Artemas.
+18. Azariah.
+19. Augustus.
+20. Asher.
+21. Baldwin.
+22. Barnabas.
+23. Barnaby.
+24. Bartholomew.
+25. Basil.
+26. Benedict.
+27. Benoni.
+28. Barnard.
+29. Bertram.
+30. Brian.
+31. Bruno.
+32. Cæsar.
+33. Caleb.
+34. Calvin.
+35. Cephas.
+36. Clarence.
+37. Claudius.
+38. Clement.
+39. Cornelius.
+40. Crispus.
+41. Cyril.
+42. Cyrus.
+43. Daniel.
+44. Darius.
+45. Demetrius.
+46. Denis.
+47. Dionysius.
+48. Donald.
+49. Duncan.
+50. Ebenezer.
+51. Edgar.
+52. Edwin.
+53. Elbert.
+54. Eleazer.
+55. Elias.
+56. Elisha.
+57. Ellis.
+58. Elnathan.
+59. Eneas.
+60. Enoch.
+61. Enoz.
+62. Erasmus.
+63. Erie.
+64. Esau.[pg 85]
+65. Everard.
+66. Erwin.
+67. Fernando.
+68. Festus.
+69. Frederic.
+70. Gamaliel.
+71. Germanie.
+72. Gershon.
+73. Godfrey.
+74. Gregory.
+75. Guy.
+76. Hannibal.
+77. Heman.
+78. Hercules.
+79. Herbert.
+80. Hezekiah.
+81. Hillel.
+82. Homer.
+83. Hubert.
+84. Hugo.
+85. Immanuel.
+86. Ingram.
+87. Ivan.
+88. Jabez.
+89. Jairus.
+90. Japheth.
+91. Jason.
+92. Jeremy.
+93. Jerome.
+94. Jess.
+95. Joel.
+96. Jonah.
+97. Josiah.
+98. Jotham.
+99. Judah.
+100. Julius.
+101. Justus.
+102. Justun.
+103. Jonathan.
+104. Kennett.
+105. Marion.
+106. Philip.
+107. Philander.
+
+
+WORDS TO SPELL AND DEFINE, ARRANGED PROMISCUOUSLY.
+
+
+1. Sirup.
+2. Skyey.
+3. Proxy.
+4. Piquant.
+5. Pibroch.
+6. Monkery.
+7. Irascible.
+8. Conceit.
+9. Controllable.
+10. Coquet (Verb).
+11. Coquette (Noun).
+12. Cyclopedia.
+13. Fascine.
+14. Steelyard.
+15. Precious.
+16. Seize.[pg 86]
+17. Beeves.
+18. Civilize.
+19. Resuscitate.
+20. Heinous.
+21. Contemptible.
+22. Transitory.
+23. Conspiracy.
+24. Feminine.
+25. Petite.
+26. Police.
+27. Valise.
+28. Verdigris.
+29. Routine.
+30. Douche.
+31. Whorl.
+32. Truffle.
+33. Debut.
+34. Cæsura.
+35. Connoisseur.
+36. Sumac.
+37. Hymeneal.
+38. Keelson.
+39. Coterie.
+40. Recipe.
+41. Sapphire.
+42. Cognac.
+43. Restaurant.
+44. Homicide.
+45. Patricide.
+46. Fratricide.
+47. Regicide.
+48. Suicide.
+49. Matricide.
+50. Infanticide.
+
+
+WORDS TO BE MARKED DIACRITICALLY.
+
+
+1. Sice.
+2. Says.
+3. Phthisic.
+4. Ennui.
+5. Vignette.
+6. Cortege.
+7. Myrrh.
+8. Chamois.
+9. Sergeant.
+10. Boudoir.
+11. Hiccough.
+12. Bureau.
+13. Again.
+14. Discern.
+15. Bijou.
+16. Flambeau.
+17. Said.
+18. Croquet.
+19. Salon.
+20. Suave.
+21. Shew.
+22. Strew.
+23. Bouffe.
+24. Enough.
+25. Suffice.
+26. Squirrel.
+27. Busy.
+28. Cough.[pg 87]
+29. Buoy.
+30. Many.
+31. Pretty.
+32. Canon.
+33. Chapeau.
+34. Menage.
+35. Once.
+36. Cafe.
+37. Colonel.
+38. Cuirass.
+39. Gunwale.
+40. Dahlia.
+41. Soiree.
+42. Sapphire.
+43. Cognac.
+44. Sacrifice.
+45. Escritoire.
+46. Barege.
+47. Soldier.
+48. Fortune.
+49. Nephew.
+50. Lettuce.
+51. Entree.
+52. Regime.
+53. Physique.
+54. Protege.
+55. Sleuth.
+56. Blonde.
+57. Coiffure.
+58. Afghan.
+59. Glebe.
+60. Chenille.
+61. Chasseur
+62. Gyves.
+63. Guy.
+64. Banyan.
+65. Lapel.
+66. Kerchief.
+67. Gnostic.
+68. Corymb.
+69. Chevron.
+70. Eleve.
+71. Touch.
+72. Chintz.
+73. Meerschaum.
+74. Buhr-stone.
+75. Camphene.
+76. Cigar.
+77. Deleble.
+78. Polyglot.
+79. Diamond.
+80. Courier.
+81. Sorcery.
+82. Extirpate.
+83. Gaseous.
+84. Docible.
+85. Alias.
+86. Potpourri.
+87. Soprano.
+88. Apparel.
+89. Palaver.
+90. Anchovy.
+91. Hygiene.
+92. Alchemy.
+93. Ascendant.
+94. Syzygy.
+95. Barbecue.
+96.
+            Proboscis.[pg 88]
+97. Carbine.
+98. Disown.
+99. Forbade.
+100. Farewell.
+101. Resource.
+102. Extol.
+103. Diverge.
+104. Contour.
+105. Bourgeois.
+106. Disarm.
+107. Whither.
+108. Water.
+109. Larynx.
+110. Soul.
+111. Crypt.
+112. Fleche.
+113. Weevil.
+114. Lacquer.
+115. Phenix.
+116. Roguish.
+117. Wheyey.
+118. Sachel.
+119. Rhymer.
+120. Psychic.
+121. Ptisan.
+122. Calker.
+123. Depot.
+124. Catarrh.
+125. Condemn.
+126. Bristle.
+127. Wriggle.
+128. Christen.
+129. Naphtha.
+130. Chalky.
+131. Gherkin.
+132. Fraught.
+133. Qualm.
+134. Vault.
+135. Knob.
+136. Papaw.
+137. Gauging.
+138. Cologne.
+139. Quadrille.
+140. Skyish.
+141. Sorghum.
+142. Survey.
+143. Victuals.
+144. Scissors.
+145. Gnomon.
+146. Ghastly.
+147. Phlegm.
+148. Gnarl.
+149. Gnash.
+150. Tertian.
+151. Phantom.
+152. Livre.
+153. Lyrist.
+154. Nuisance.
+155. Scheme.
+156. Chief.
+157. Siege.
+158. Keyed.
+159. Caucus.
+160. College.
+161. Leather.
+162. Caught.
+163. Skein.
+164.
+            Coerce.[pg 89]
+165. Policy.
+166. Legacy.
+167. Codicil.
+168. Domicile.
+169. Hypocrite.
+170. Tortoise.
+171. Mortise.
+172. Porridge.
+173. Eagle.
+174. Greasy.
+175. Pardon.
+176. Poleax.
+177. Deanery.
+178. Mechanics
+179. Dialogue.
+180. Inveigher.
+181. Solstitial.
+182. Official.
+183. Reprieve.
+184. Barter.
+185. Succeed.
+186. Accede.
+187. Salmon.
+188. Verger.
+189. Wooed.
+190. Sausage.
+191. Pigeon.
+192. Chloral.
+193. Balance.
+194. Silence.
+195. Fallible.
+196. Prelacy.
+197. Foretell.
+198. Going.
+199. Chyle.
+200. Fascinate.
+201. Secrecy.
+202. Vacillate.
+203. Paralyze.
+204. Advertise.
+205. Ecstasy.
+206. Exertion.
+207. Cynical.
+208. Article.
+209. City.
+210. Busily.
+211. Guttural.
+212. Scholar.
+213. Sibyl.
+214. Abscess.
+215. Guinea.
+216. Voracity.
+
+
+WORDS TO BE DEFINED.
+
+
+1.
+Acts.
+1.
+Ax.
+
+
+2.
+Poll.
+2.
+Pole.
+
+
+3.
+Roe.
+3.
+Row.
+
+
+4.
+Gate
+4.
+Gait.
+
+
+5.
+Main.
+5.
+Mane.
+
+
+6.
+Bough.
+6.
+Bow.
+
+[pg 90]
+
+
+7.
+Hue.
+7.
+Hugh.
+
+
+8.
+Bear.
+8.
+Beech.
+
+
+9.
+Dear.
+9.
+Deer.
+
+
+10.
+Wright.
+10.
+Write.
+
+
+11.
+Right.
+11.
+Rite.
+
+
+12.
+All.
+12.
+Awl.
+
+
+13.
+Bay.
+13.
+Bey.
+
+
+14.
+Ark.
+14.
+Arch.
+
+
+15.
+Colonel.
+15.
+Kernel.
+
+
+16.
+Ruff.
+16.
+Rough.
+
+
+17.
+Might.
+17.
+Mite.
+
+
+18.
+Rode.
+18.
+Road.
+
+
+19.
+Seen.
+19.
+Scene.
+
+
+20.
+Corps.
+20.
+Core.
+
+
+21.
+Mold.
+21.
+Mould.
+
+
+22.
+Great.
+22.
+Grate.
+
+
+23.
+Sun.
+23.
+Son.
+
+
+24.
+Break.
+24.
+Brake.
+
+
+25.
+Dough.
+25.
+Doe.
+
+
+26.
+Night.
+26.
+Knight.
+
+
+27.
+Sweet.
+27.
+Suite.
+
+
+28.
+Four.
+28.
+Fore.
+
+
+29.
+Bier.
+29.
+Beer.
+
+
+30.
+Beat.
+30.
+Beet.
+
+
+31.
+Currant.
+31.
+Current.
+
+
+32.
+Viol.
+32.
+Vile.
+
+
+33.
+Sent.
+33.
+Scent.
+
+
+34.
+Sear.
+34.
+Seer.
+
+
+35.
+Lane.
+35.
+Lain.
+
+
+36.
+Able.
+36.
+Abel.
+
+
+37.
+Knot.
+37.
+Not.
+
+
+38.
+Raise.
+38.
+Raze.
+
+
+39.
+Hoard.
+39.
+Horde.
+
+
+40.
+Lyre.
+40.
+Liar.
+
+[pg 91]
+
+
+41.
+Symbol.
+41.
+Cymbal.
+
+
+42.
+Hawk.
+42.
+Hough.
+
+
+43.
+Sine.
+43.
+Sign.
+
+
+44.
+Rain.
+44.
+Rein.
+
+
+45.
+Lo.
+45.
+Low.
+
+
+46.
+Hie.
+46.
+High.
+
+
+47.
+Assent.
+47.
+Ascent.
+
+
+48.
+Lute.
+48.
+Loot.
+
+
+49.
+Lore.
+49.
+Lower.
+
+
+50.
+Sell.
+50.
+Cell.
+
+
+51.
+Sail.
+51.
+Sale.
+
+
+52.
+Lode.
+52.
+Load.
+
+
+53.
+Loan.
+53.
+Lone.
+
+
+54.
+Fete.
+54.
+Fate.
+
+
+55.
+Lien.
+55.
+Lean.
+
+
+56.
+Layer.
+56.
+Lair.
+
+
+57.
+Hay.
+57.
+Hey.
+
+
+58.
+Idle.
+58.
+Idyl.
+
+
+59.
+Hart.
+59.
+Heart.
+
+
+60.
+Bass.
+60.
+Base.
+
+
+61.
+Bale.
+61.
+Bail.
+
+
+62.
+Heel.
+62.
+Heal.
+
+
+63.
+Sight.
+63.
+Cite.
+
+
+64.
+Haul.
+64.
+Hall.
+
+
+65.
+Hale.
+65.
+Hail.
+
+
+66.
+Lac.
+66.
+Lack.
+
+
+67.
+Nay.
+67.
+Neigh.
+
+
+68.
+Altar.
+68.
+Alter.
+
+
+69.
+Day.
+69.
+Dey.
+
+
+70.
+Hair.
+70.
+Hare.
+
+
+71.
+Lye.
+71.
+Lie.
+
+
+72.
+Council.
+72.
+Counsel.
+
+
+73.
+Mean.
+73.
+Mien.
+
+
+74.
+Ate.
+74.
+Eight.
+
+[pg 92]
+
+
+75.
+Aught.
+75.
+Ought.
+
+
+76.
+Wrack.
+76.
+Rack.
+
+
+77.
+Reek.
+77.
+Wreak.
+
+
+78.
+Wreck.
+78.
+Reck.
+
+
+79.
+Rime.
+79.
+Rhyme.
+
+
+80.
+Ring.
+80.
+Wring.
+
+
+81.
+Wrote.
+81.
+Rote.
+
+
+82.
+Rest.
+82.
+Wrest.
+
+
+83.
+Hole.
+83.
+Whole.
+
+
+84.
+Leek.
+84.
+Leak.
+
+
+85.
+Wave.
+85.
+Waive.
+
+
+86.
+Week.
+86.
+Weak.
+
+
+87.
+Fort.
+87.
+Forte.
+
+
+88.
+Soul.
+88.
+Sole.
+
+
+89.
+Strait.
+89.
+Straight.
+
+
+90.
+Seed.
+90.
+Cede.
+
+
+91.
+Seen.
+91.
+Seine.
+
+
+92.
+Seize.
+92.
+Cease.
+
+
+93.
+See.
+93.
+Sea.
+
+
+94.
+Cole.
+94.
+Coal.
+
+
+95.
+Bourne.
+95.
+Born.
+
+
+96.
+Bite.
+96.
+Bight.
+
+
+97.
+Floe.
+97.
+Flow.
+
+
+98.
+Bell.
+98.
+Belle.
+
+
+SELECT READING.
+1. The most skillful gauger I ever knew was a maligned
+    cobbler, armed with a poniard, who drove a peddler's wagon,
+    using a mullein stalk as an instrument of coercion to tyrannize
+    over his pony shod with calks. He was a Galilean Sadducee, and
+    he had a phthisicky catarrh, diphtheria, and the bilious
+    intermittent
+    erysipelas.[pg 93]
+2. A certain sibyl, with the sobriquet of "Gypsy," went into
+    ecstasies of cachinnation at seeing him measure a bushel of
+    peas and separate saccharine tomatoes from a heap of peeled
+    potatoes, without dyeing or singeing the ignitible queue which
+    he wore, or becoming paralyzed with hemorrhage.
+3. Lifting her eyes to the ceiling of the cupola of the
+    capitol to conceal her unparalleled embarrassment, making him a
+    rough courtesy, and not harrassing him with mystifying,
+    rarefying, and stupefying innuendoes, she gave him a couch, a
+    bouquet of lilies, mignonette, and fuchsias, a treatise on
+    mnemonics, a copy of the Apocrypha in hieroglyphics,
+    daguerreotypes of Mendelssohn and Kosciusko, a kaleidoscope, a
+    dram-phial of ipecacuanha, a teaspoonful of naphtha for deleble
+    purposes, a ferrule, a clarionet, some licorice, a surcingle, a
+    carnelian of symmetrical proportions, a chronometer with a
+    movable balance-wheel, a box of dominoes, and a catechism.
+4. The gauger, who was also a trafficking rectifier and a
+    parishioner of mine, preferring a woolen surtout (his choice
+    was referrible to a vacillating, occasionally occurring
+    idiosyncrasy), wofully uttered this apothegm: "Life is
+    checkered; but schism, apostasy, heresy and villainy shall be
+    punished." The sibyl apologizingly answered: "There is a
+    ratable and allegeable difference between a conferrable
+    ellipsis and a trisyllabic diæresis." We replied in trochees,
+    not impugning her suspicion.
+SELECT READING.
+1. One enervating morning, just after the rise of the sun, a
+    youth bearing the cognomen of Galileo glided into his gondola
+    over the legendary waters of the lethean Thames. He was
+    accompanied by his allies and coadjutors, the dolorous Pepys
+    and the erudite Cholmondeley, the most combative aristocrat
+    extant, and an epicurean who, for learned vagaries and
+    revolting discrepancies of character, would take precedence of
+    the most erudite of all Areopagite
+    literati.[pg 94]
+2. These sacrilegious dramatis personæ were
+    discussing in detail a suggestive and exhaustive address,
+    delivered from the proscenium box of the Calisthenic Lyceum by
+    a notable financier on obligatory hydropathy, as accessory to
+    the irrevocable and irreparable doctrine of evolution, which
+    had been vehemently panegyrized by a splenetic professor of
+    acoustics, and simultaneously denounced by a complaisant
+    opponent as an undemonstrated romance of the last decade,
+    amenable to no reasoning, however allopathic, outside of its
+    own lamentable environs.
+3. These peremptory tripartite brethren arrived at
+    Greenwich, wishing to aggrandize themselves by indulging in
+    exemplary relaxation, indicatory of implacable detestation of
+    integral tergiversation and exoteric intrigue. They fraternized
+    with a phrenological harlequin who was a connoisseur in
+    mezzotint and falconry. The piquant person was heaping
+    contumely and scathing raillery on an amateur in jugular
+    recitative, who held that the Pharaohs of Asia were conversant
+    with his theory that morphine and quinine were exorcists of
+    bronchitis.
+4. Meanwhile, the leisurely Augustine of Cockburn drank from
+    a tortoise-shell wassail cup to the health of an apotheosized
+    recusant, who was his supererogatory patron, and an assistant
+    recognizance in the immobile nomenclature of interstitial
+    molecular phonics. The contents of the vase proving soporific,
+    a stolid plebeian took from its cerements a heraldic
+    violoncello, and, assisted by a plethoric diocesan from Pall
+    Mall, who performed on a sonorous piano-forte, proceeded to
+    wake the clangorous echoes of the Empyrean. They bade the
+    prolyx Caucasian gentlemen not to misconstrue their inexorable
+    demands, while they dined on acclimated anchovies and apricot
+    truffles, and had for dessert a wiseacre's pharmacopoeia. Thus
+    the truculent Pythagoreans had a novel repast fit for the
+    gods.
+5. On the subsidence of the feast they alternated between
+    soft languors and isolated scenes of squalor, which followed a
+    [pg 95] mechanist's reconnaissance of
+       the imagery of Uranus, the legend of whose incognito related
+       to a poniard wound in the abdomen received while cutting a
+       swath in the interests of telegraphy and posthumous
+       photography. Meantime an unctuous orthoepist applied a
+       homeopathic restorative to the retina of an objurgatory
+       spaniel (named Daniel) and tried to perfect the construction
+       of a behemoth which had got mired in pygmean slough, while
+       listening to the elegiac soughing of the prehistoric
+       wind.
+SELECT READING.
+1. Geoffrey, surnamed Winthrop, sat in the depot at Chicago,
+    waiting for his train and reading the Tribune, when a squadron
+    of street Arabs (incomparable for squalor) thronged from a
+    neighboring alley, uttering hideous cries, accompanied by
+    inimitable gestures of heinous exultation, as they tortured a
+    humble black-and-tan dog.
+2. "You little blackguards!" cried Winthrop, stepping
+    outside and confronting them, adding the inquiry, "Whose dog is
+    that?"
+3. "That audacious Caucasian has the bravado to interfere
+    with our clique," tauntingly shrieked the indisputable little
+    ruffian, exhibiting combativeness.
+4. "What will you take for him?" asked the lenient Geoffrey,
+    ignoring the venial tirade.
+5. "Twenty-seven cents," piquantly answered the ribald
+    urchin, grabbing the crouching dog by the nape.
+6. "You can buy licorice and share with the indecorous
+    coadjutors of your condemnable cruelty," said Winthrop, paying
+    the price and taking the dog from the child. Then catching up
+    his valise and umbrella he hastened to his train. Winthrop
+    satisfied himself that his sleek protege was not wounded, and
+    then cleaned the cement from the pretty collar, and read these
+    words; "Leicester. Licensed, No.
+    1880."[pg 96]
+7. Hearing the pronunciation of his name, the docile canine
+    expressed gratitude and pleasure, and then sank exhausted at
+    his new patron's feet and slept.
+8. Among the other passengers was a magazine contributor,
+    writing vagaries of Indian literature, also two physicians, a
+    somber, irrevocable, irrefragable allopathist, and a genial
+    homeopathist, who made a specialty of bronchitis. Two
+    peremptory attorneys from the Legislature of Iowa were
+    discussing the politics of the epoch and the details of
+    national finance, while a wan, dolorous person, wearing concave
+    glasses, alternately ate troches and almonds for a sedative,
+    and sought condolence in a high, lamentable treble from a
+    lethargic and somewhat deaf and enervate comrade not yet
+    acclimated.
+9. Near three exemplary brethren (probably sinecurists) sat
+    a group of humorous youths; and a jocose sailor (lately from
+    Asia) in a blouse waist and tarpaulin hat was amusing his
+    patriotic, juvenile listeners by relating a series of the most
+    extraordinary legends extant, suggested by the contents of the
+    knapsack which he was calmly and leisurely arranging in a
+    pyramidal form on a three-legged stool. Above swung figured
+    placards, with museum and lyceum advertisements, too verbose to
+    be misconstrued.
+10. A mature matron of medium height, and her comely
+    daughter, soon entered the car, and took seats in front of
+    Winthrop (who recalled having seen them on Tuesday, in
+    February, in the parquet of a theater). The young lady had
+    recently made her debut into society at a musical soiree at her
+    aunt's. She had an exquisite bouquet of flowers that exhaled
+    sweet perfume. She said to her parent, "Mamma, shall we ever
+    find my lost Leicester?"
+11. Geoffrey immediately addressed her, saying, as he
+    presented his card—
+"Pardon my apparent intrusiveness; but, prithee, have you
+    lost a pet dog?"[pg 97]
+12. The explanation that he had been stolen was scarcely
+    necessary, for Leicester, just awakening, vehemently expressed
+    his inexplicable joy by buoyantly vibrating between the two
+    like the sounding lever used in telegraphy (for to neither of
+    them would he show partiality), till, succumbing to ennui, he
+    purported to take a recess, and sat on his haunches,
+    complaisantly contemplating his friends. It was truly an
+    interesting picture.
+13. They reached their destination ere the sun was beneath
+    the horizon. Often during the summer Winthrop gallantly rowed
+    from the quay, with the naive and blithe Beatrice in her jaunty
+    yachting suit, but no coquetry shone from the depths of her
+    azure eyes. Little Less, their jocund confidante and courier
+    (and who was as sagacious as a spaniel), always attended them
+    on these occasions, and whene'er they rambled through the
+    woodland paths. While the band played strains from Beethoven
+    Mendelssohn, Bach and others, they promenaded the long
+    corridors of the hotel. And one evening, as Beatrice lighted
+    the gas by the etagere in her charming boudoir in their suite
+    of rooms, there glistened brilliantly a valuable solitaire
+    diamond on her finger.
+14. Let us look into the future for the sequel to perfect
+    this romance, and around a cheerful hearth we see again
+    Geoffrey and Beatrice, who are paying due homage to their tiny
+    friend Leicester.
+SELECT READING.
+1. A sacrilegious son of Belial, who suffered from
+    bronchitis and diphtheria, and had taken much morphine and
+    quinine, having exhausted his finances, in order to make good
+    the deficit, resolved to ally himself to a complaisant,
+    lenient, docile, young woman of the Caucasian race. Buying a
+    calliope, a coral necklace, an illustrated magazine, and a
+    falcon [pg 98] from Asia, he took a suite of
+       rooms, whose acoustic properties were excellent, and engaged
+       a Malay as his coadjutor.
+2. Being of an epicurean disposition, he threw the culinary
+    department of his hotel into confusion by ordering for his
+    dinner vermicelli soup, a bologna sausage, anchovies, calf's
+    brains fried, and half a gooseberry pie. For the resulting
+    dyspepsia he took acetic and tartaric acid, according to
+    allopathy, and when his aunt, a fair matron of six decades,
+    called, he was tyrannic and combative, and laughed like a
+    brigand until she was obliged to succumb to his contumacy.
+3. Etiquette being thus annihilated, he became amenable to
+    tenderer passions. He sent a letter, inviting his inamorata to
+    a matinee, together with an eighteen-carat gold ring. She
+    revolted at the idea of accompanying him, and sent a note full
+    of piquant raillery, which led her suitor to procure a carbine
+    and a sword, with some apparatus, and to declare that he would
+    not forge hymeneal chains upon any one.
+4. So proceeding to an isolated spot, without comrades, he
+    severed his jugular vein, and discharged the carbine into his
+    abdomen. When inquiry was made, he was found dead, and the
+    coroner sat on the debris and did his exact duty, though it was
+    no couch of eider he occupied.
+5. Had the misguided youth read Ovid less often, and given
+    precedence to Hemans and Ingelow, his fate might have been
+    different. True, he might have hung on a greasy gallows like a
+    highwayman, in squalor, and been the sport of canines for aye;
+    while now, disarmed by death, he lies in a splendid mausoleum,
+    far from the wharves and haunts of men, and can't accent his
+    antepenults, and afford the greatest discrepancies extant in
+    pronunciation.[pg 99]
+SELECT READING—THE BLACKBOARD AND CHALK.
+
+
+1. Learned sages may reason, the fluent may
+            talk,
+But they ne'er can compute what we owe to
+            the chalk.
+From the embryo mind of the infant of
+            four,
+To the graduate, wise in collegiate
+            lore;
+From the old district school-house to
+            Harvard's proud hall,
+The chalk rules with absolute sway over
+            all.
+
+
+2. Go, enter the school-room of primary grade,
+And see how conspicuous the blackboard is
+            made.
+The teacher makes letters and calls them
+            by name,
+And says to the children, "Now all do the
+            same;"
+Mere infants you see, scarcely able to
+            walk,
+But none are too feeble to handle the
+            chalk.
+
+
+3. We visit the school of much higher
+            pretension,
+The blackboard here claims undivided
+            attention;
+The walls, dark as Erebus, first greet
+            the eye,
+Before them bright misses and lads we
+            espy;
+And the sound of the crayon's irregular
+            tappings
+Reminds us of spirits' mysterious
+            rappings.
+
+
+4. One has pictured a vessel, with streamers
+            unfurled,
+Another is making a map of the world;
+A third has a problem in fractions to
+            solve,
+A fourth is explaining how planets
+            revolve;
+While a young physiologist, skilled in
+            the art,
+Is sketching the muscles, the lungs, and
+            the heart.
+
+
+5. In the midst of this bustle the school-master
+            stands,
+And, lo! he's a crayon in each of his
+            hands;
+And the chalk in his hand has a
+            magical power:
+A teacher might reason and talk by the
+            hour,
+But naught would avail all his reason and
+            talk—
+The truth is made plain by the use of the
+            chalk.
+
+[pg 100]
+
+
+6. And the teacher of music the blackboard
+            employs,
+The chalk must be used e'en in training
+            the voice;
+Be it rhythm or melody, accent or
+            force,
+He always insists on the regular
+            course;
+Declaring the secret of musical skill
+Is found in the blackboard, the chalk,
+            and the drill.
+
+
+7. See the chalk in the hand of the artist.
+            Behold
+What beauteous forms as by magic
+            unfold!
+The store-house of Nature he swiftly
+            displays,
+Till the dazzled beholder is lost in the
+            maze;
+Designs without number appear to the
+            view,
+And show what the chalk and the
+            blackboard can do.
+
+
+8. O wise PESTALOZZI! we place on thy brow
+A coronet, bright and unfading; for
+            thou
+A legacy rich hast bequeathed unto
+            men:
+Our one feeble talent by thee is
+            made ten;
+We prize thy rare gift, but we never may
+            know
+How much to thy matchless invention we
+            owe.
+
+
+9. O chalk! What a powerful monarch thou art!
+In this age of reform how important thy
+            part;
+Those minds that are swaying the world
+            unrestrained
+In childhood and youth in thy empire were
+            trained.
+Of the wonderful power of the press we
+            may talk—
+It never can vie with the blackboard and
+            chalk.
+
+
+10. An engine so powerful, so mighty to aid,
+So simple in structure, so readily
+            made,
+A helper so potent in training the
+            young—
+'Tis meet that thy praise by the muse
+            should be sung;
+For though sages may reason, and orators
+            talk,
+They can ne'er make their mark without
+            blackboard and chalk.
+
+
+
+[pg 101]
+THE BURROWS BROTHERS COMPANY,
+CLEVELAND, OHIO.
+
+CHRISTIAN SCIENCE.
+ITS TRUTHS AND ITS ERRORS. By THE REV. H. MELVILLE
+    TENNEY.
+Neatly bound in paper-cloth. Price TWENTY-FIVE cents. Send
+    for circulars giving testimonials.
+
+SHAKESPEARE VERSUS INGERSOLL.
+By J.G. HALL.
+Neatly bound in paper. Price TWENTY-FIVE cents. The cover is
+    very odd and attractive. The contents of the book will be found
+    of the utmost interest to all Shakespearian scholars, as well
+    as to all religious teachers.
+
+AVERY'S ANCESTRAL TABLETS.
+In Stout Manilla Portfolio. Price FIFTY cents. A collection
+    of diagrams so arranged that any number of generations of the
+    ancestors of any person may be recorded in a simple and
+    connected form. Additional sheets may be had separate at FIVE
+    cents each; or FIFTY cents a dozen, postage paid.
+
+INDEXED MAP OF OHIO.
+THE BEST! THE CHEAPEST! THE LATEST!
+Price TEN cents. At the date of publication this is the most
+    complete, the most accurate, the latest and the cheapest map of
+    Ohio in existence.
+
+INDEXED MAP OF CLEVELAND.
+Price TEN cents. Over fifteen thousand copies have been sold
+    in the last two years of this map. This is a greater number
+    than have been sold of any previous map, or maps in the last
+    ten years. This fact alone speaks for its excellence, and the
+    price is below any thought of criticism.
+
+THE GAME OF SOLO-SIXTY.
+By JUNIUS.
+Price TWENTY-FIVE cents. Edited from Traditional Sources.
+    Bound in white vellum paper, with a remarkably odd and neat
+    cover design in five colors. One of the most attractive
+    souvenirs or dainty gifts of the year. Please send for a
+    sample copy. One dealer has had one thousand copies, and many
+    others very liberal quantities.
+
+RUSK'S MODEL SELECTIONS.
+Six numbers, paper, each FIFTEEN cents. No. 1 contains a
+    chapter on the Principles of Elocution, embracing the subject
+    of Elementary Sounds, Pitch, Volume, Quality, Movement, Accent,
+    Emphasis, Articulation, Gesture, etc. No. 4 is devoted to
+    selections for the young. Nos. 5 and 6 are just out, and have
+    many fresh and attractive pieces. Lithographed covers, about
+    150 pages, 12mo., in each number.
+
+[pg 102]
+THE MORGAN
+ONE PIECE ADJUSTABLE BOOK COVER.
+Patented May 15, 1888.
+THIS IS THE
+ONLY PERFECT ONE PIECE ADJUSTABLE BOOK COVER
+Ever made, and it is destined to work a
+REVOLUTION
+In book covering with Adjustable Covers.
+THE LATEST! THE BEST!
+Made in the most workmanlike manner from very high grade
+    manilla; warranted extra tough.
+
+
+Size A, for Books from 6 to 8 inches
+            tall
+$2.50
+per
+hun.
+
+
+Size B, for Books from 8 to 10 inches
+            tall
+3.00
+"
+"
+
+
+Size C, for Books from 10 to 13 ins.
+            (Geographies)
+5.00
+"
+"
+
+
+Samples mailed without charge to Dealers and
+    Librarians.
+Liberal Discounts to Dealers.
+THE BURROWS BROTHERS COMPANY
+Cleveland, Ohio.
+
+[pg 103]
+PUBLICATIONS OF
+THE BURROWS BROTHERS COMPANY
+23, 25, 27 Euclid Avenue, CLEVELAND, O.
+
+
+
+THOUSAND AND ONE QUESTIONS AND ANSWERS
+
+
+On
+U.S. HISTORY
+$0 50
+
+
+GEOGRAPHY
+50
+
+
+ARITHMETIC
+50
+
+
+ENGLISH GRAMMAR
+50
+
+
+PHYSIOLOGY AND HYGIENE
+50
+
+
+THEORY AND PRACTICE OF TEACHING
+50
+
+
+ORTHOGRAPHY (recent)
+50
+
+
+GENERAL HISTORY (recent)
+50
+
+
+BOTANY (new)
+50
+
+
+TEST EXAMPLES IN ARITHMETIC
+            (new)
+50
+
+
+
+These Question Books are absolutely without a rival in
+        preparing for Examinations, for reviewing Pupils in School,
+        or for use as Reference Books. They can be sold in every
+        family that has children to educate. The author is an
+        experienced teacher.
+
+Any 6 assorted for $2.50 prepaid. Any 8 assorted for
+    $3.25 prepaid. The set of 10 assorted for $4.00
+    prepaid.
+CAMPBELL'S ECONOMIC SCHOOL REGISTER. Copyrighted.
+In very attractive Board Covers, removable insides $0 75
+Fillers, Manilla Covers 35
+This is the neatest and most excellently manufactured
+    Register in the country. Its UTILITY is not less apparent than
+    its ARTISTIC merit. The Block System, originated and
+    copyrighted by Prof. Campbell, is most economical of time in
+    keeping the record, and by the really WONDERFUL condensation
+    which it permits, is just as economical of money. One Register,
+    which will last an ordinary school TWO YEARS, costs but 75
+    cents by mail, postpaid, and a renewing Filler, lasting as much
+    longer, costs less than half as much.
+WORDS CORRECTLY SPOKEN. By ELROY M. AVERY, Ph.D.
+Retail Price, 15 cents.
+Bound in extra cloth, stamped in black and gold, printed
+    with red line borders, wittily written, valuable to all who
+    would speak their mother tongue with accuracy.
+POPULAR SYNONYMS.
+Cloth, 32mo. Price, 10 cents. By mail, 12 cents.
+Twenty-five thousand words in ordinary use. Accurate, cheap,
+    elegant. Elegantly stamped in ink and gold.
+THE PERFECT PROGRESSIVE EUCHRE SCORE-MARKER.
+Copyrighted. No Sticky Wafers. No mistakes. Absolutely
+    infallible. Prices per Set, postpaid:
+
+
+For
+3, 4 or 5
+Tables
+$0 50
+  
+For
+11 or 12
+Tables
+$1 00
+
+
+6, 7 or 8
+"
+60
+  
+15
+"
+1 25
+
+
+9 or 10
+"
+75
+  
+18
+"
+1 50
+
+
+
+[pg 104]
+THE POCKET GEM PRONOUNCING DICTIONARY,
+BY LILLA M. TENNEY.
+
+        On a new plan. The most useful Pocket Dictionary ever
+        issued.
+    
+IN PREPARATION,
+THE WORK OF YEARS OF STUDY AND RESEARCH.
+
+        Most excellent in scholarship. Most practical in all ways.
+        Most artistic in point of manufacture. Beautifully bound
+        from special artistic cover designs. Beautifully printed at
+        the celebrated UNIVERSITY PRESS of JOHN WILSON & SONS,
+        Cambridge, Mass.
+    
+A SPELLING AND PRONOUNCING DICTIONARY, RATHER THAN A
+    DEFINING ONE.
+
+        It has over eleven thousand words, with the pronunciation
+        indicated in a simple manner by a new system of diacritical
+        marks, specially cast for this book.
+    
+
+        The New Imperial, Webster, Stormonth, Worcester and all
+        other standard Dictionaries have been constantly consulted
+        and critically compared in its preparation.
+    
+ITS OBJECT.
+While not underrating the primary importance of definition
+    and philology in a work of reference, it is believed—nay,
+    more than that—it is known that there is a positive
+    demand for a book showing the correct pronunciation and
+    spelling of every prominent word in the language, which book
+    should be in a convenient portable form for the pocket, the
+    writing-case, or the reading-table. This is the first time that
+    any serious attempt has been made to satisfy this call.
+ITS TRUSTWORTHINESS.
+In this respect, recognizing that what was wished for was
+    not originality, but confidence in the accuracy of the book;
+    the labor, while almost endless, has been strictly confined to
+    critical comparisons of authorities and the proper adjustment
+    of differences of opinion.
+HOW WE OFFER IT FOR SALE.
+On receipt of price, FIFTY CENTS, (and as compared with the
+    prices of most other books it would be well worth $1.00,) we
+    will forward it to any address in the United States for
+    examination. If not satisfactory it may be returned, when the
+    money will be refunded; provided, of course, it is received in
+    good order and within reasonable time.
+PUBLISHING DAY.
+It will be published about August 1st, 1888. The great
+    amount of labor involved in its preparation, as compared with
+    its small size, requires this delay.
+MARVELOUSLY COMPLETE, WONDERFULLY COMPACT,
+Most useful Small Dictionary ever made.
+
+        It is needed by every Office Man, every School Teacher,
+        every Stenographer every Tourist, every Letter Writer,
+        every Pupil, every literate, and certainly every illiterate
+        person throughout the length and breadth of our entire
+        land.
+    
+THE BURROWS BROTHERS Co.
+
+[pg 105]
+WILLIAM S. HICKS,
+
+        MANUFACTURER OF
+    
+Every Description of GOLD PENS, GOLD PLATED, SILVER PLATED
+    and CELLULOID PENCILS and PEN CASES of superior quality and
+    style of finish.
+Known and sold in both hemispheres as Standard Goods for
+    nearly a generation.
+THE SOLE MANUFACTURER OF
+THE SACKETT FOUNTAIN PEN.
+
+        Patented April 28, '85; Sept. 28, '86.
+    
+
+Pen Ready for Use.
+    
+
+Pen Tip and
+             Feeding Stem.
+    
+
+
+Pen Section and Holder in Position for Filling.
+    
+The latest and most perfect Fountain Pen ever made, and
+    equal to any dipping pen. It will not soil fingers and pocket
+    with ink, and can be filled without staining everything it
+    touches. It will write until every drop of ink is exhausted,
+    and no matter how often or seldom it is used it always responds
+    at once. Made in two lengths, 5 inches and 5½ inches.
+Branch Office, 8 Snow Hill, London, Eng. Manufactory and
+    Office, 235 Greenwich St., New York.
+
+[pg 106]
+THE "OXFORD" TEACHERS' BIBLES.
+
+"THE GEM OF BIBLES."
+    
+Of which the actual sale exceeds
+    THREE-QUARTERS OF MILLION COPIES.
+The additional matter that is contained in
+THE "OXFORD" S.S. TEACHERS' BIBLES
+Has been carefully Revised and Enlarged, from time to time,
+    by Dr. STUBBS, Bishop of Chester; Dr. EDWIN PALMER, Archdeacon
+    of Oxford; Dr. ANGUS, and other eminent Scholars. The
+    Scientific Information was prepared under the supervision of
+    Professors ROLLESTON, WESTWOOD, LAWSON, and EARLE—names
+    of the highest authority in their several Departments.
+There are six editions printed on the best rag-made printing
+    paper, and five editions on the justly celebrated "Oxford"
+    India paper, which are extremely thin and light.
+These are bound in about eighty different styles, sizes,
+    etc., at prices ranging from $1.25 to $16.00 each.
+REV. C.H. SPURGEON says: "If you want to buy a New Bible,
+    and want the VERY BEST, write for a list of the Oxford Bibles
+    for Teachers."
+DR. PARKER says: "It is the most superb, complete, and
+    useful edition of the Holy Scriptures in the English language I
+    have ever seen."
+A descriptive list can be obtained through your bookseller,
+    or direct from the publisher.
+THOMAS NELSON & SONS,
+OXFORD BIBLE WAREHOUSE,
+42 Bleecker Street, New York
+
+[pg 107]
+Writing Papers of all finest grades made in the world are to
+    be found in Blair's Keystone Packets—Climax, Paragon, and
+    Good Luck. Send for Samples.
+
+
+
+
+
+We were never in better shape to serve our friends
+        with HANDSOME AND SALABLE GOODS.
+
+WE CLAIM Some Reputation for Originality.
+
+        Our Competitors will Concede That.
+    
+WE CLAIM More Reputation for Good Quality of Our
+    Goods.
+
+        All Dealers will Concede That.
+    
+WE CLAIM Most for an Absolute Guarantee on Every
+    Article we Make.
+
+        This we Concede to be one of our Most Attractive
+        Features—one that is Almost Unreasonable in its
+        Reasonableness.
+    
+
+
+
+
+Our SIGNAL SERIES is a new line from 40 varieties of
+    staple stationery, and everything retails at 5 cents each. Ask
+    your dealer for it. Send for illustrated list.
+
+For sale by all dealers. Samples and Papers and Illustrated
+    Circulars sent to any address on receipt of two 3-cent
+    stamps.
+J.C. BLAIR,
+    Manufacturing Stationer, Huntingdon, Pa.
+
+[pg 108]
+PHONOGRAPHY.
+A BRIEF AND LEGIBLE SYSTEM OF SHORTHAND.
+Those unacquainted with Phonography can not readily
+    appreciate the ease with which it may be mastered, and
+    the delight incidental to the unfolding of its principles.
+    "Fascinating" is the word used in describing it by every
+    one who has studied the art. The text-books have been so
+    arranged and simplified that Self-instruction is a
+    positive pleasure and recreation and has been successfully
+    accomplished in thousands of instances.
+TEACHERS should learn Phonography, not only that they may be
+    possessed of the enormous advantage of being able to write five
+    times as fast as by the ordinary method, but that they may be
+    able to teach the art. Phonography is rapidly finding its way
+    into the Public Schools, and the demand for teachers of the
+    regular branches who can also teach Phonography is now far
+    in advance of the supply.
+THE MANUAL OF PHONOGRAPHY. [200th Thousand.] By BENN PITMAN
+    and JEROME B. HOWARD. This work is designed for
+    self-instruction in the phonographic art and is the proper book
+    for the beginner. It contains a complete exposition of the
+    system, from its simplest principles to the Reporting Style,
+    arranged in alternate and opposite pages of explanation and
+    phonographic exercises. Every principle is copiously
+    illustrated with engraved examples for reading, and exercises
+    in the ordinary type for writing practice. A large number of
+    pages of engraved reading matter are included in the book.
+    Boards, 80c.; Extra cloth, $1.00.
+For sale by all booksellers, or sent post-paid by us on
+    receipt of price. Complete catalog of other aids to the study
+    of Phonography, free.
+
+THE PHONOGRAPHIC MAGAZINE. Edited by JEROME B. HOWARD. A
+    twenty-four page monthly, each number of which contains eight
+    pages (5¾ x 8½ in.) of finely engraved Phonography, mostly in
+    the brief Reporting Style, besides original and contributed
+    articles of general phonographic interest. The MAGAZINE is a
+    periodical complement to the series of text-books, and is the
+    authentic organ of the Benn Pitman System of Phonography.
+    Subscriptions may begin with any number. Specimen copy free.
+    Price, per annum—invariably in advance—$1.50.
+ADDRESS
+THE PHONOGRAPHIC INSTITUTE,
+CINCINNATI, OHIO.
+
+[pg 109]
+
+WHITING Paper Company, of Holyoke,
+        Massachusetts, are now putting up the Fashionable Line of
+        "Whiting's Standard" Writing Papers, in neat boxes, with
+        Envelopes. The most perfect production of the Paper-Maker's
+        art. Cream and Azure, Rough and Smooth Finish, all sizes.
+        For sale by all Fine Stationers.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of 1001 Questions and Answers on
+Orthography and Reading, by B. A. Hathaway
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ORTHOGRAPHY ***
+
+***** This file should be named 14403-h.htm or 14403-h.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.net/1/4/4/0/14403/
+
+Produced by Juliet Sutherland, William Flis, and the PG Online
+Distributed Proofreading Team.
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
