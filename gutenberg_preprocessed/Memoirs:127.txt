@@ -1,0 +1,97 @@
+project gutenberg
+, free ebooks
+ by giacomo casanova
+the memoirs of jacques casanova de seingalt, -. complete by casanova
+download
+bibrec
+bibliographic record 
+author
+casanova, giacomo, -
+translator
+machen, arthur, -
+title
+the memoirs of jacques casanova de seingalt, -. complete
+contents
+casanova at dux -- author's preface -- translator's preface -- childhood and adolescence -- a cleric in naples -- military career -- return to venice -- milan and mantua -- paris -- venice -- convent affairs -- the false nun -- under the leads -- paris and holland -- return to paris -- holland and germany -- switzerland -- with voltaire -- depart switzerland -- return to italy -- return to naples -- back again to paris -- milan -- south of france -- to london -- the english -- london to berlin -- russia and poland -- spain -- expelled from spain -- rome -- florence to trieste -- old age and death.
+language
+english
+locclass
+d: history: general and eastern hemisphere
+subject
+casanova, giacomo, -
+subject
+europe -- history -- th century -- biography
+category
+text
+ebook-no.
+releasedate
+nov , 
+copyrightstatus
+public domain in the usa.
+downloads
+ downloads in the last  days.
+price
+similar books
+readers also downloaded…
+in germany
+in banned books from anne haight's list
+download this ebook
+format 
+url
+size
+read this book online: html
+//www.gutenberg.org/files//-h/-h.htm
+epub (with images)
+//www.gutenberg.org/ebooks/.epub.images?session_id=eecedbaeaedbccde
+epub (no images)
+//www.gutenberg.org/ebooks/.epub.noimages?session_id=eecedbaeaedbccde
+kindle (with images)
+//www.gutenberg.org/ebooks/.kindle.images?session_id=eecedbaeaedbccde
+kindle (no images)
+//www.gutenberg.org/ebooks/.kindle.noimages?session_id=eecedbaeaedbccde
+plain text utf-
+//www.gutenberg.org/files//-.txt
+more files…
+https://www.gutenberg.org/files//
+https://www.gutenberg.org/ebooks/?msg=welcome_strangerproject gutenberg offers , free ebooks to download.
+project gutenberg offers , free ebooks to download.
+search
+latest
+terms of use
+donate?
+mobile
+help
+enter your search terms separated by spaces,
+then press <enter>.
+avoid punctuation except as indicated below:
+suffixes
+exact match
+prefixes
+a.
+author
+t.
+title
+s.
+subject
+l.
+language
+ebook no.
+n.
+ebook no.
+cat.
+category
+operators
+always put spaces around these.
+or
+not
+grouping
+this query
+finds
+shakespeare hamlet
+"hamlet" by shakespeare
+qui.
+"qui", not "quixote"
+love stories
+love stories
+a.shakespeare
+by shakespeare
