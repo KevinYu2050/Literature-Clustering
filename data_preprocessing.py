@@ -13,60 +13,77 @@ def read_files(dir):
         if f.endswith('.txt')]
     # Read the files into a list    
     for f in books:
-        with open(dir + f, 'r') as f:
-            content.append(f.readlines())
+        with open(dir + f, 'r') as file:
+            content.append((f.split(':')[0], file.readlines()))
     
-    return content
+    return content, books
 
-def preprocessing(booklist):
+def preprocessing(book):
     # Remove all the licenses and text-unrelated content
     start_pattern = '[***] START OF THIS PROJECT GUTENBERG EBOOK'
     end_pattern = 'End of Project Gutenberg'
     # punc_pattern = string.punctuation + '\n' 
 
-    booklist = [list(filter(None, [sent.replace('\n', '') for sent in book])) for book in booklist]
-    booklist = [[sent.replace('\xa0', '') for sent in book] for book in booklist]
-    booklist = [[sent for sent in book if not re.match('^[^a-z]*$', sent)] for book in booklist]
-    # booklist = [[re.sub('[{}]'.format(punc_pattern), r'', sent).lower() for sent in book] for book in booklist]
+    book = [re.sub(' +', ' ', sent) for sent in book] 
+    book = [re.sub('\d+', '', sent) for sent in book]   
+    book = [sent for sent in book if not re.match('^[^a-z]*$', sent)]
+    book = [sent.replace('\xa0', '') for sent in book] 
+    book = [sent.lower() for sent in book] 
+    book = list(filter(None, [sent.replace('\n', '') for sent in book])) 
 
-    for book in booklist:
-        for sent in book:
-            if re.match(start_pattern, sent):
-                index = book.index(sent)
-                del book[:index+1]
-            elif re.match(end_pattern, sent):
-                index = book.index(sent)
-                del book[index:]
+
+    # book = [re.sub('[{}]'.format(punc_pattern), r'', sent).lower() for sent in book] 
+
+    for sent in book:
+        if re.match(start_pattern, sent):
+            index = book.index(sent)
+            del book[:index+1]
+        elif re.match(end_pattern, sent):
+            index = book.index(sent)
+            del book[index:]
     
 
-    return booklist 
+    return book
 
 
-def create_dataset(booklist, label):
+def create_dataset(booklist):
     # Divide the dataset into basic units of (sent_data, label) tuples
     new_list = []
     for book in booklist:
-        from_ = int(len(book)/10)
-        to = int(9 * len(book)/10)
-        for sent in book[from_:to]:
-            new_list.append((sent, label))
+        from_ = int(len(book[1])/10)
+        to = int(9 * len(book[1])/10)
+        for sent in book[1][from_:to]:
+            new_list.append((sent, book[0]))
 
     return new_list
 
 
-# Save the processed data into new txt files to fit in the tensorflow.data pipeline
-skp = create_dataset(preprocessing(read_files('./gutenberg_shakespeare/')), 'Shakespearean')
-non_skp = create_dataset(preprocessing(read_files('./gutenberg/')), 'Non-Shakespearean')
+# # Save the processed data into new txt files to fit in the tensorflow.data pipeline
+# booklist = [(book[0], preprocessing(book[1])) for book in read_files('./gutenberg/')]
 
-dataset = skp + non_skp[:len(skp)]
-random.shuffle(dataset)
-with open('./data_with_punctuation.txt', 'w+', encoding="utf-8") as f:
-    for i in dataset:
-        f.write(i[0])
-        f.write('\n')
+# dataset = create_dataset(booklist)
+# random.shuffle(dataset)
 
-with open('./label_with_punctuation.txt', 'w+', encoding="utf-8") as f:
-    for i in dataset:
-        f.write(i[1])
-        f.write('\n')
+# with open('./dataset_for_multiclass_classification.txt', 'w+', encoding="utf-8") as f:
+#     for i in dataset:
+#         f.write(i[0])
+#         f.write('\n')
+
+# with open('./labels_for_multiclass_classification.txt', 'w+', encoding="utf-8") as f:
+#     for i in dataset:
+#         f.write(i[1])
+#         f.write('\n')
+
+booklist, _ = read_files('./gutenberg/')
+booklist_new = [(book[0], preprocessing(book[1])) for book in booklist]
+counter = 1
+for book in booklist_new:
+    from_ = int(len(book[1])/10)
+    to = int(9 * len(book[1])/10)
+    with open('./gutenberg_preprocessed/{}:{}.txt'.format(book[0], counter), 'w+', encoding="utf-8") as f:
+        for line in book[1][from_:to]:
+            f.write(line)
+            f.write('\n')
+    counter += 1
+
 
