@@ -85,7 +85,7 @@ def read_data(dir):
     vocab_size += 1 # Add the padded shape into the vocabulary
 
 
-    return train_data, test_data
+    return train_data, test_data, vocab_size
 
 
 
