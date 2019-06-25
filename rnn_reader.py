@@ -1,8 +1,11 @@
 import os
+import sys   
 import tensorflow as tf
 import tensorflow_datasets as tfds
 
-tf.enable_eager_execution()
+sys.setrecursionlimit(250000)
+
+# tf.enable_eager_execution()
 
 def labeler(example, index):
     # A labeler function 
@@ -41,27 +44,29 @@ def read_data(dir):
     tokenizer = tfds.features.text.Tokenizer()
     vocabulary_set = set()
 
-    # iterator = dataset.make_initializable_iterator()
-    # next_element = iterator.get_next()
-    # initializer = iterator.initializer
+    iterator = dataset.make_initializable_iterator()
+    next_element = iterator.get_next()
+    initializer = iterator.initializer
 
-    for text_tensor, _ in dataset:
-        some_tokens = tokenizer.tokenize(text_tensor.numpy())
-        vocabulary_set.update(some_tokens)
+    # for text_tensor, _ in dataset:
+    #     some_tokens = tokenizer.tokenize(text_tensor.numpy())
+    #     vocabulary_set.update(some_tokens)
 
-    # with tf.Session as sess:
-    #     sess.run(initializer)
-    #     for _ in range(take_size):
-    #         text_tensor, _ = sess.run(next_element)
-    #         some_tokens = tokenizer.tokenize(text_tensor.numpy())
-    #         vocabulary_set.update(some_tokens)
-
+    with tf.Session() as sess:
+        sess.run(initializer)
+        while True:
+            try:
+                text_tensor, _ = sess.run(next_element)
+                some_tokens = tokenizer.tokenize(text_tensor)
+                vocabulary_set.update(some_tokens)
+            except tf.errors.OutOfRangeError:
+                break
 
     vocab_size = len(vocabulary_set)
 
     # Encode the dataset using the dictionary 
     encoder = tfds.features.text.TokenTextEncoder(vocabulary_set)
-    example_text = next(iter(dataset))[0].numpy()
+    # example_text = next(iter(dataset))[0].numpy()
 
     def encode(text_tensor, label):
         # A encoder function to vectorize the text 
@@ -89,4 +94,5 @@ def read_data(dir):
 
 
 
-# read_data('./gutenberg_preprocessed/')
+# train_data, test_data, vocab_size = read_data('./gutenberg_preprocessed/')
+
