@@ -3,7 +3,7 @@ import sys
 import tensorflow as tf
 import tensorflow_datasets as tfds
 
-sys.setrecursionlimit(250000)
+sys.setrecursionlimit(625000)
 
 # tf.enable_eager_execution()
 
@@ -16,9 +16,9 @@ def labeler(example, index):
 def read_data(dir):
     # read the data into a Tensorflow Dataset object
     batch_size = 256
-    buffer_size = 50000 # Affects the randomness of the dataset
-    take_size = 200000
-    test_size = 50000
+    buffer_size = 5000000 # Affects the randomness of the dataset
+    take_size = 500000
+    test_size = 125000
 
     # A container for all dataset objects
     labeled_datasets = []
@@ -115,6 +115,7 @@ def read_data(dir):
 #         text_tensor, label_tensor = sess.run(next_element)
 #         print(text_tensor[0], label_tensor[0])
 #         print(text_tensor, label_tensor)
+# print(train_data, test_data)
 
 
 

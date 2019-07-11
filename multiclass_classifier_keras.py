@@ -15,7 +15,7 @@ def lstm_classifier(data_dir, to_dir):
 
     # Create a linear stack of models
     model = tf.keras.Sequential()
-    model.add(tf.keras.layers.Embedding(vocab, batch_size))
+    model.add(tf.keras.layers.Embedding(vocab+1, batch_size)) # Some unknown tf error
     model.add(tf.keras.layers.Bidirectional(
         tf.keras.layers.LSTM(batch_size, return_sequences=True)))
     model.add(tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(batch_size//2)))
@@ -26,9 +26,9 @@ def lstm_classifier(data_dir, to_dir):
     print('Model created.')
 
     history = model.fit(train_iter, epochs=3, validation_data=test_iter,
-     steps_per_epoch=200000//batch_size, validation_steps=50000//batch_size)
+     steps_per_epoch=500000//batch_size, validation_steps=125000//batch_size)
 
-    score = model.evaluate(test_iter)
+    score = model.evaluate(test_iter, steps=125000//batch_size)
     print('test loss:', score[0])
     print('test accuracy:', score[1])
     
