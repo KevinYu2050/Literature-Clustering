@@ -1,0 +1,12 @@
+,1st,2nd,3rd,4th,5th
+Cluster0,"('Classics', 201)","('Biography', 200)","('Satire', 193)","('Historical Fiction', 189)","('Romance', 189)"
+Cluster1,"('Economics', 25)","('Memoirs', 25)","('Humor', 23)","('Reference', 23)","('Classics', 22)"
+Cluster2,"('Romance', 39)","('Classics', 31)","('Memoirs', 30)","('Adventure', 28)","('Economics', 28)"
+Cluster3,"('Reference', 286)","('Memoirs', 285)","('Economics', 284)","('Historical Fiction', 284)","('Biography', 278)"
+Cluster4,"('Biography', 29)","('Economics', 26)","('Adventure', 25)","('Classics', 25)","('Historical Fiction', 22)"
+Cluster5,"('Reference', 114)","('Adventure', 108)","('Memoirs', 108)","('Classics', 102)","('Historical Fiction', 101)"
+Cluster6,"('Classics', 31)","('Economics', 26)","('Adventure', 23)","('Biography', 23)","('Historical Fiction', 20)"
+Cluster7,"('Adventure', 290)","('Memoirs', 271)","('Biography', 269)","('Reference', 268)","('Historical Fiction', 266)"
+Cluster8,"('Classics', 60)","('Memoirs', 58)","('Historical Fiction', 55)","('Biography', 54)","('Adventure', 53)"
+Cluster9,"('Romance', 11)","('Reference', 9)","('Biography', 8)","('Satire', 8)","('Analysis', 6)"
+Cluster10,"('Biography', 34)","('Memoirs', 29)","('Satire', 28)","('Reference', 27)","('Economics', 26)"
