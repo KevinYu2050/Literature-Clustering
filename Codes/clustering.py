@@ -11,14 +11,6 @@ from sklearn.decomposition import PCA
 from sklearn.cluster import MiniBatchKMeans, KMeans
 from sklearn.metrics import silhouette_score, normalized_mutual_info_score, adjusted_mutual_info_score
 
-# def get_batch(data, batch_size):
-#     # Read the data by batches 
-#     n_batches = len(data)/batch_size 
-#     remainder = len(data)%batch_size
-#     # subarrays = np.split(data[:(len(data)-remainder)], n_batches)
-#     subarrays = np.split(data, n_batches)
-
-#     return subarrays
 
 def create_data(data_dir, label_dir, model_dir, to_dir):
     # Encode the data using the trained autoencoder
@@ -57,8 +49,8 @@ def cluster(data_dir, y_train, n_clusters):
     clusters = clf.labels_.tolist()
     dataframe = pd.DataFrame(data, index = [clusters], columns = ['genre'])
 
-    pickle.dump(clf, open('km_clustering_modified{}.sav'.format(n_clusters), 'wb'))
-    dataframe.to_pickle('df_clustering_modified{}.pkl'.format(n_clusters))
+    pickle.dump(clf, open('../Clustering Models/km_clustering_modified{}.sav'.format(n_clusters), 'wb'))
+    dataframe.to_pickle('../Clustering Result DataFrames/df_clustering_modified{}.pkl'.format(n_clusters))
 
 
     return 
@@ -103,31 +95,31 @@ def scores(data_dir, model_dir, labels_true):
 
     return s_score, nmi
 
-def plot_tsne():
-    
 
 
 
-# y_train, encoder = create_data(r'C:\Users\kk\Desktop\Pioneer\dataset_for_multiclass_classification_test_modified.txt',
-#         r'C:\Users\kk\Desktop\Pioneer\labels_for_multiclass_classification_test_modified.txt', 
-#         r'C:\Users\kk\Desktop\Pioneer\keras_autoencoder.h5',
-#         r'C:\Users\kk\Desktop\Pioneer\Encoded_data_modified\x_encoded')
 
-_, y_train, _, _, _, _, encoder = reader.read_data('dataset_for_multiclass_classification_test_modified.txt',
-        'labels_for_multiclass_classification_test_modified.txt', 20000)
+y_train, encoder = create_data('../processed_datasets/dataset_for_multiclass_classification_test_modified.txt',
+        '../processed_datasets/labels_for_multiclass_classification_test_modified.txt', 
+        '../trained_autoencoders/keras_autoencoder.h5',
+        '../trained_autoencoders/Encoded_data_modified/x_encoded.npy')
+
+
+# _, y_train, _, _, _, _, encoder = reader.read_data('../processed_datasets/dataset_for_multiclass_classification_test_modified.txt',
+#         '../processed_datasets/labels_for_multiclass_classification_test_modified.txt', 20000)
 all_s_score = []
 all_nmi = []
 for i in range(20, 25):
     print('training model {}'.format(i))
-    cluster('Encoded_data_modified\\', y_train, i)
+    cluster('../Encoded_data_modified/', y_train, i)
 
-    cluster_plot('km_clustering_modified{}.sav'.format(i),
-        'cluster_plot_modified{}.png'.format(i), i)
+    cluster_plot('../Clustering Models/km_clustering_modified{}.sav'.format(i),
+        '../Clustering Plots/cluster_plot_modified{}.png'.format(i), i)
 
-    cluster_count('df_clustering_modified{}.pkl'.format(i), encoder, 'all_collections_count_df_modified{}.csv'.format(i), i)
+    cluster_count('../Clustering Result DataFrames/df_clustering_modified{}.pkl'.format(i), encoder, 'all_collections_count_df_modified{}.csv'.format(i), i)
 
 for i in range(10, 25):
-    s, nmi = scores('Encoded_data_modified\\x_encoded.npy','km_clustering_modified{}.sav'.format(i), y_train)
+    s, nmi = scores('../Encoded_data_modified/x_encoded.npy','../Clustering Models/km_clustering_modified{}.sav'.format(i), y_train)
     all_s_score.append((i, s))
     all_nmi.append((i, nmi))
 
