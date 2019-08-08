@@ -61,15 +61,3 @@ def decoder(vocab, text_vec):
     reverse_word_index = dict([(value, key) for (key, value) in vocab.items()])
     
     return ' '.join([reverse_word_index.get(i, '?') for i in text_vec])
-
-# x_train, y_train, x_valid, y_valid, vocab = \
-#     read_data('./dataset_for_multiclass_classification.txt',
-#     './labels_for_multiclass_classification.txt')
-
-# print(len(vocab))
-# print(x_train[50], x_train[51], decoder(vocab, x_train[50]), decoder(vocab, x_train[51]))
-
-# _, y_train, _, _, _, _ = read_data(r'C:\Users\kk\Desktop\Pioneer\dataset_for_multiclass_classification.txt',
-#         r'C:\Users\kk\Desktop\Pioneer\labels_for_multiclass_classification.txt')
-# print(y_train)
-# print(y_train.shape)
