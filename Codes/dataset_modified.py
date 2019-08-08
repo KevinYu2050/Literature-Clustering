@@ -158,11 +158,11 @@ def save_file(data, labels, data_dir, label_dir):
         for i in labels:
             f.write(i)
 
-data, labels = modify(r'C:\Users\kk\Desktop\Pioneer\dataset_for_multiclass_classification.txt',
-        r'C:\Users\kk\Desktop\Pioneer\labels_for_multiclass_classification.txt')
+data, labels = modify('../processed_datasets/dataset_for_multiclass_classification.txt',
+        '../processed_datasets/labels_for_multiclass_classification.txt')
 print(len(data), len(labels))
-save_file(data, labels, r'C:\Users\kk\Desktop\Pioneer\dataset_for_multiclass_classification_test_modified.txt',
-    r'C:\Users\kk\Desktop\Pioneer\labels_for_multiclass_classification_test_modified.txt')
-with open(r'C:\Users\kk\Desktop\Pioneer\labels_for_multiclass_classification_test_modified.txt', encoding='utf8') as f:
+save_file(data, labels, '../processed_datasets/dataset_for_multiclass_classification_test_modified.txt',
+    '../processed_datasets/labels_for_multiclass_classification_test_modified.txt')
+with open('../processed_datasets/labels_for_multiclass_classification_test_modified.txt', encoding='utf8') as f:
         labels = f.readlines()
 print(collections.Counter(labels))
