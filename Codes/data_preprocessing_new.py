@@ -59,17 +59,17 @@ def create_dataset(booklist):
 
 
 # Save the processed data into new txt files to fit in the tensorflow.data pipeline
-booklist = [(book[0], preprocessing(book[1])) for book in read_files(r'C:\Users\kk\Desktop\Pioneer\gutenberg_preprocessed\\')]
+booklist = [(book[0], preprocessing(book[1])) for book in read_files('../gutenberg_preprocessed/')]
 
 dataset = create_dataset(booklist)
 random.shuffle(dataset)
 
-with open(r'C:\Users\kk\Desktop\Pioneer\dataset_for_multiclass_classification_test_modified.txt', 'w+', encoding="utf-8") as f:
+with open('../processed_datasets/dataset_for_multiclass_classification_test_modified.txt', 'w+', encoding="utf-8") as f:
     for i in dataset:
         f.write(i[0])
         f.write('\n')
 
-with open(r'C:\Users\kk\Desktop\Pioneer\labels_for_multiclass_classification_test_modified.txt', 'w+', encoding="utf-8") as f:
+with open('../processed_datasets/labels_for_multiclass_classification_test_modified.txt', 'w+', encoding="utf-8") as f:
     for i in dataset:
         f.write(i[1])
         f.write('\n')
