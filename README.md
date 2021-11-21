@@ -1,4 +1,5 @@
-This is the repository which stores all my codes for the Pioneer academics project.
+## Literature Clustering
+LSTM + KNN for clustering. 
 
 The Codes folder reposits all the codes directly used in the project.
 The gutenberg folder reposits all the raw data acquired.
@@ -12,6 +13,3 @@ The Clustering Result folder reposits all the trained clustering model.
 The Clustering Plots folder reposits all the Visualization files.
 
 
-Have a look!
-Enjoy!
-# Pioneer-Academics
